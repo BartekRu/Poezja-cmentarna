@@ -22,6 +22,7 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Sleep | Sen | 1 | |
 | Genius (of a place) | Geniusz | 1 | *genius loci* |
 | Jove | Jowisz | 1 | nie Zeus |
+| Zephyr | Zefir | 3 | |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
@@ -32,6 +33,8 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | cypress (tkanina) | kir, krepa | 6 | gdy drzewo: cyprys |
 | charnel-house | kostnica | 6 | |
 | shades | cienie | 6 | dusze zmarłych |
+| skull | czaszka | 2 | |
+| dust and ashes | proch i popiół | 2 | |
 | 'scutcheon, escutcheon | herb, tarcza herbowa | 6 | |
 | hearse | karawan | 6 | |
 | osier | łoza | 6 | |
@@ -53,6 +56,8 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | sage | mędrzec | 6 | |
 | thou / thee / thy | ty / ciebie / twój, twe | 6 | lekka archaizacja: „twe”, „człek”, „zda się” |
 | methinks | zda się | 6 | |
+| In such a night | W taką noc | 3 | anafora (Szekspir, Finch) |
+| glow-worm | świetlik | 3 | |
 | the pious | zbożni | 6 | |
 
 ## Do decyzji

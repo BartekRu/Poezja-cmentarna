@@ -127,6 +127,11 @@ function verse(stz) {
 }
 
 const surname = (autor) => autor.split(" ").slice(-1)[0];
+// Pusta pagina: strony tytułowe, otwarcia części i rozdziałów (inaczej Word dziedziczy nagłówek poprzedniej sekcji)
+const blankHead = () => ({
+  headers: { default: new Header({ children: [new Paragraph({})] }) },
+  footers: { default: new Footer({ children: [new Paragraph({})] }) },
+});
 const runningHead = (text) => ({
   headers: { default: new Header({ children: [center(text, { smallCaps: true, size: 18, color: MUTED, after: 0 })] }) },
   footers: { default: new Footer({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ children: [PageNumber.CURRENT], size: 18, color: MUTED })] })] }) },
@@ -148,7 +153,7 @@ function polishPoem(u) {
     center(k.nr, { font: TITLE, size: 40, color: MUTED, after: 120 }),
     center(`${k.autor} (${k.lata})`, { smallCaps: true, size: 24, after: 160 }),
     new Paragraph({ heading: HeadingLevel.HEADING_1, alignment: AlignmentType.CENTER, children: [new TextRun({ text: k.tytul_pl, font: TITLE })], spacing: { after: 60 } }),
-    center(k.tytul_en, { italics: true, size: 28, font: TITLE }),
+    ...(k.tytul_en !== k.tytul_pl ? [center(k.tytul_en, { italics: true, size: 28, font: TITLE })] : []),
     center(`${k.rok} · ${lines} wersów · oryginał w części drugiej`, { size: 20, color: MUTED, after: 480 }),
   ];
   if (exists(D("motto.md"))) {
@@ -188,10 +193,10 @@ function chapterOpener(nr, ch, withIllustration) {
   if (withIllustration) kids.push(new Paragraph({ spacing: { before: 2400 } }), marker(ch.il), pageBreak());
   kids.push(new Paragraph({ spacing: { before: 4000 } }), center(nr, { font: TITLE, size: 72, color: MUTED }),
     new Paragraph({ alignment: AlignmentType.CENTER, heading: HeadingLevel.HEADING_1, children: [new TextRun({ text: ch.t, font: TITLE })] }));
-  return { properties: { page: PAGE }, children: kids };
+  return { properties: { page: PAGE }, ...blankHead(), children: kids };
 }
 
-const partOpener = (label, title, sub) => ({ properties: { page: PAGE }, children: [
+const partOpener = (label, title, sub) => ({ properties: { page: PAGE }, ...blankHead(), children: [
   new Paragraph({ spacing: { before: 4500 } }),
   center(label, { smallCaps: true, size: 26, color: MUTED, after: 200 }),
   new Paragraph({ alignment: AlignmentType.CENTER, heading: HeadingLevel.HEADING_1, children: [new TextRun({ text: title, font: TITLE, size: 56 })] }),
@@ -236,7 +241,7 @@ const chapters = Object.fromEntries(pipeRows(path.join(ROOT, "rozdzialy.md")).ma
 const units = fs.readdirSync(path.join(ROOT, "utwory")).filter((d) => /^\d\d-/.test(d)).sort().map((d) => load(path.join(ROOT, "utwory", d)));
 
 const today = new Date().toISOString().slice(0, 10);
-const sections = [{ properties: { page: PAGE }, children: [
+const sections = [{ properties: { page: PAGE }, ...blankHead(), children: [
   new Paragraph({ spacing: { before: 3000 } }),
   center("Angielska poezja cmentarna", { font: TITLE, size: 56 }),
   center("Antologia dwujęzyczna", { font: TITLE, italics: true, size: 32, after: 600 }),
@@ -271,7 +276,7 @@ sections.push(dictionary(units));
 
 const back = [heading("Źródła tekstów", 1)];
 for (const u of units) if (exists(u.D("zrodlo.md"))) back.push(heading(`${u.k.nr}. ${u.k.autor}, ${u.k.tytul_en}`, 2), ...markdown(u.D("zrodlo.md"), true));
-sections.push({ properties: { page: PAGE }, children: back });
+sections.push({ properties: { page: PAGE }, ...runningHead("Źródła tekstów"), children: back });
 
 const doc = new Document({
   creator: "Claude (przekład roboczy) / Tomek (redakcja)",

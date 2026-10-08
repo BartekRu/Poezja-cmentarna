@@ -11,6 +11,17 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Poverty | Nędza | 6 | |
 | Death | Śmierć | 6 | tytuł *King of Fears/Terrors* → Król Trwogi (rodzaj męski tytułu zostaje) |
 | Cynthia | Cyntia | 6 | księżyc |
+| Folly | Głupota | 1 | |
+| Joys (pers.) | Radości | 1 | |
+| Peace / Quiet / Silence | Pokój / Cisza / Milczenie | 1 | nie mylić Quiet i Silence |
+| Fast | Post | 1 | |
+| Leisure | Wczas | 1 | archaizm zamierzony |
+| Tragedy | Tragedia | 1 | |
+| Night | Noc | 1 | |
+| Morn | Jutrzenka | 1 | gdy personifikacja świtu (Eos); inaczej „ranek” |
+| Sleep | Sen | 1 | |
+| Genius (of a place) | Geniusz | 1 | *genius loci* |
+| Jove | Jowisz | 1 | nie Zeus |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
@@ -33,6 +44,12 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | swain | wieśniak / pasterz | instr. | |
 | taper | świeca | 6 | |
 | schoolmen | scholastycy | 6 | |
+| Goddess | Bogini | 1 | |
+| Nun (pers.) | Mniszka | 1 | |
+| curfew | wieczorny dzwon | instr., 1 | |
+| Philomel | Słowik | 1 | imię mitologiczne w przypisie |
+| the Bear | Wóz (Wielki) | 1 | Wielka Niedźwiedzica w przypisie |
+| yon | tam, tamten | 1 | |
 | sage | mędrzec | 6 | |
 | thou / thee / thy | ty / ciebie / twój, twe | 6 | lekka archaizacja: „twe”, „człek”, „zda się” |
 | methinks | zda się | 6 | |

@@ -1,0 +1,15 @@
+„Il Penseroso” ukazał się w pierwszym zbiorze wierszy Miltona, *Poems of Mr. John Milton, both English and Latin* (1645). Napisany był znacznie wcześniej. Zwykle datuje się go na około 1631 rok, kiedy dwudziestokilkuletni Milton kończył studia w Cambridge, ale data nie jest pewna **[do weryfikacji]**. To wiersz sprzed wielkich lat poety: sprzed pamfletów, służby w rządzie Cromwella i „Raju utraconego”.
+
+**Dyptyk.** Utwór jest drugą połową pary. Pierwsza, „L'Allegro” („Człowiek wesoły”), wzywa Radość i opisuje dzień od świtu do wieczora. „Il Penseroso” („Człowiek zamyślony”) wygania Radości, wzywa Melancholię i prowadzi od wieczora przez noc do rana. Oba wiersze są ze sobą symetrycznie zbudowane, a „Il Penseroso” jest od swego bliźniaka dłuższy o 24 wersy. Milton nie rozstrzyga, który sposób życia jest lepszy. Ale to ten drugi okazał się płodny dla następnego stulecia.
+
+**Forma.** Wiersz otwiera dziesięciowersowy wstęp, w którym przeplatają się wersy trzy- i pięciostopowe. Dalej, aż do końca, biegną rymowane pary czterostopowca jambicznego. Rytm jest wolniejszy niż w „L'Allegro”: więcej tu długich, ciemnych samogłosek i skupionych akcentów. Wiersz brzmi uroczyście, niemal jak w transie.
+
+**Melancholia.** Nie chodzi tu o chorobę, którą dziesięć lat wcześniej opisał Robert Burton, lecz o usposobienie kontemplacyjne: saturnijski temperament uczonego, poety i proroka **[interpretacja]**. Milton nadaje Melancholii własny rodowód. Jest córką Westy i Saturna, czystą, poważną, „mniszką” w czarnej szacie. Za nią idzie orszak: Pokój, Cisza, Post, Wczas i nade wszystko cherub Kontemplacja.
+
+**Plan nocy.** Śpiew słowika i wędrówka pod księżycem. Daleki wieczorny dzwon. Izba z żarzącym się ogniem. Lampa w samotnej wieży, przy której czyta się Hermesa i Platona, tragedię grecką, Chaucera i Spensera. Rano przychodzi pochmurny świt, w południe cień lasu i sen nad strumieniem. Potem kościół z organami i witrażami. Na końcu starość w pustelni, gdzie doświadczenie dojrzewa do proroctwa.
+
+**Miejsce w tomie.** Od dawna uważano ten wiersz za jedno ze źródeł poezji cmentarnej. Huff (1912) polemizował z tym poglądem: melancholia Miltona prowadzi do studiów i namysłu, a nie do grobów. Obie strony mają rację. Grobów tu nie ma, za to jest cała rekwizytornia nurtu: noc, samotna wieża, lampa uczonego, wieczorny dzwon, krużganki i pustelnia. Parnell (nr 6) pisze tą samą miarą i zaczyna od nocnego uczonego przy świecy. Gray (nr 13) zaczyna Elegię od wieczornego dzwonu. Thomas Warton w „Rozkoszach melancholii” (nr 16) wyraźnie z Miltona czerpie. W 1740 roku Händel oparł na obu wierszach odę „L'Allegro, il Penseroso ed il Moderato”. Polskiego przekładu nie znaleziono.
+
+**Na co zwrócić uwagę:**
+- **Wiersz jest kalendarzem jednej doby i jednego życia.** Noc, świt i południe przechodzą w starość. Ostatni obraz, pustelnia, zapowiada pustelników, którzy zaludnią dalsze rozdziały.
+- **Przez wiersz przewija się muzyka:** pieśń słowika, dzwon, struny Orfeusza, organy, a na końcu „pieśń proroka”. Melancholia Miltona słucha więcej, niż patrzy.

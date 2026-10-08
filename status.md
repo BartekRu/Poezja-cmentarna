@@ -15,7 +15,7 @@ Stan na: 2026-10-08. Faza 0 zakończona (poz. 6 zaakceptowana). Pracujemy w kole
 ## Utwory
 | Nr | Utwór | EN | PL spr. | Research | Przekład | Słownik/przypisy | Motto | Ilustr. | Korekta |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Milton, Il Penseroso | – | – | – | – | – | – | – | – |
+| 1 | Milton, Il Penseroso | ✓ 176 w. (1645) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |
 | 2 | Watts, Death and Eternity | – | – | – | – | – | – | – | – |
 | 3 | Finch, A Nocturnal Reverie | – | – | – | – | – | – | – | – |
 | 4 | Pope, The Dying Christian to His Soul | – | – | – | – | – | – | – | – |
@@ -60,6 +60,7 @@ Stan na: 2026-10-08. Faza 0 zakończona (poz. 6 zaakceptowana). Pracujemy w kole
 | 43 | Cowper, The Castaway | – | – | – | – | – | – | – | – |
 
 ## Otwarte sprawy
+- Poz. 1: polskie przekłady sprawdzone tylko wyszukiwarką; Polona/NUKAT/Barańczak do sprawdzenia. Ilustracja: akwarele Blake'a do „Il Penseroso”, do weryfikacji.
 - Poz. 7: tekst 1722 (TCP K041605.000) w `materialy/07-parnell-hermit-1722-tcp.txt`, do modernizacji; podział partii: w. 1–128 i 129–249. W. 129–131 to trójwiersz (rym potrójny).
 - Wstęp ogólny: po przekładach uzupełnić odwołania do konkretnych utworów; Le Tourneur – sprawdzić rok wydania.
 

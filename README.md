@@ -1,6 +1,8 @@
 # Poezja cmentarna
 
-Dwujęzyczna antologia angielskiej poezji cmentarnej XVIII wieku (Graveyard School) z prekursorami: oryginał angielski i polski przekład roboczy en face. Egzemplarz prywatny, nie do sprzedaży.
+Dwujęzyczna antologia angielskiej poezji cmentarnej XVIII wieku (Graveyard School) z prekursorami. Część pierwsza: polski przekład roboczy z komentarzem. Część druga: oryginały angielskie w tej samej numeracji. Na końcu słownik dawnej angielszczyzny. Egzemplarz prywatny, nie do sprzedaży.
+
+Decyzje zmieniające instrukcję projektu: [`ustalenia.md`](ustalenia.md).
 
 Przekład roboczy: Claude (Anthropic); redakcja: Tomek.
 
@@ -13,24 +15,23 @@ utwory/NN-autor-tytul/
   pl.txt        przekład wers w wers; ta sama liczba wersów i akapitów co en.txt
   motto.md      motto: oryginał, przekład, źródło
   wstep.md      wstęp (markdown)
-  glosy.md      glosy do tekstu EN: `wers | słowo | znaczenie`
+  slownik.md    hasła do słownika dawnej angielszczyzny: `wers | hasło | znaczenie`
   przypisy.md   przypisy: `wers | treść`
   zrodlo.md     wydanie bazowe, zasady edycji, bibliografia
 rozdzialy.md    rozdziały: `nr | tytuł | ilustracja otwierająca`
 glosariusz.md   stałe odpowiedniki EN → PL
 status.md       postęp prac i otwarte sprawy
+ustalenia.md    decyzje zmieniające instrukcję projektu
 build/          skrypt budujący wersję roboczą .docx
-wyjscie/        wynik buildu
+.github/        GitHub Action: build przy każdym pushu
 ```
 
-## Build wersji roboczej (Word)
+## Wersja robocza (Word)
 
-```
-npm install
-npm run build
-```
+Każdy push na `main` buduje plik automatycznie. Najnowsza wersja do pobrania:
+https://github.com/BartekRu/poezja-cmentarna/releases/download/robocza/antologia-robocza.docx
 
-Wynik: `wyjscie/antologia-robocza.docx`. Skrypt przerywa build, jeśli `en.txt` i `pl.txt` mają różny podział na akapity. Pliku .docx nie edytuj ręcznie: źródłem prawdy są pliki tekstowe.
+Lokalnie: `npm install`, potem `npm run build` (wynik w `wyjscie/`, poza repo). Build przerywa się, jeśli `en.txt` i `pl.txt` mają różny podział na akapity. Pliku .docx nie edytuj ręcznie: źródłem prawdy są pliki tekstowe.
 
 Docelowy skład do druku (A5, Typst) powstanie później.
 

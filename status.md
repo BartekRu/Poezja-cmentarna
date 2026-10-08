@@ -1,19 +1,19 @@
 # Status prac
 
-Stan na: 2026-10-08. Faza 0 (próbka): poz. 6 gotowa do korekty.
+Stan na: 2026-10-08. Faza 0 zakończona: poz. 6 zaakceptowana. Następna: Faza 1.
 
 **Legenda:** ✓ zrobione · ~ częściowo / do weryfikacji · – nie zaczęte · K = czeka na korektę Tomka
 
-**Jak zbudować plik Word:** w katalogu repozytorium `npm install`, potem `npm run build`. Wynik: `wyjscie/antologia-robocza.docx`.
+**Plik Word:** budowany automatycznie przy każdym pushu, do pobrania w wydaniu „robocza” (link w README).
 
-| Nr | Utwór | EN | PL spr. | Research | Przekład | Glosy/przypisy | Motto | Ilustr. | Korekta |
+| Nr | Utwór | EN | PL spr. | Research | Przekład | Słownik/przypisy | Motto | Ilustr. | Korekta |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Milton, Il Penseroso | – | – | – | – | – | – | – | – |
 | 2 | Watts, Death and Eternity | – | – | – | – | – | – | – | – |
 | 3 | Finch, A Nocturnal Reverie | – | – | – | – | – | – | – | – |
 | 4 | Pope, The Dying Christian to His Soul | – | – | – | – | – | – | – | – |
 | 5 | Pope, Elegy to the Memory of an Unfortunate Lady | – | – | – | – | – | – | – | – |
-| 6 | Parnell, A Night-Piece on Death | ✓ 90 w. | ✓ (–) | ~ | ✓ | ✓ | ✓ | ~ | K |
+| 6 | Parnell, A Night-Piece on Death | ✓ 90 w. | ✓ (–) | ~ | ✓ | ✓ | ✓ | ~ | ✓ |
 | 7 | Parnell, The Hermit | – | – | – | – | – | – | – | – |
 | 8 | Young, Night Thoughts (wybór) | – | – | – | – | – | – | – | – |
 | 9 | Blair, The Grave | – | – | – | – | – | – | – | – |
@@ -58,4 +58,5 @@ Stan na: 2026-10-08. Faza 0 (próbka): poz. 6 gotowa do korekty.
 - Tytuł polski: decyzja *Night-Piece* → patrz `glosariusz.md`.
 
 ## Uwagi z korekty Tomka
-(do uzupełnienia; uwagi stylistyczne przenosić też do `glosariusz.md` i stosować w dalszych partiach)
+- 2026-10-08, poz. 6: ogólna akceptacja stylu przekładu i szablonu.
+- Zmiany koncepcji (dwie części, słownik): patrz `ustalenia.md`.

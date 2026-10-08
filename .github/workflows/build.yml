@@ -1,0 +1,35 @@
+# Buduje wersję roboczą .docx przy każdym pushu na main
+# i publikuje ją w wydaniu „robocza” (stały link do pobrania).
+name: build-docx
+
+on:
+  push:
+    branches: [main]
+    paths-ignore: ["README.md", "status.md", "ustalenia.md"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-docx
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-audit --no-fund
+      - run: npm run build
+      - name: Publikuj w wydaniu „robocza”
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view robocza >/dev/null 2>&1 || \
+            gh release create robocza --prerelease --title "Wersja robocza" \
+              --notes "Automatyczny build z gałęzi main. Plik jest nadpisywany przy każdym pushu."
+          gh release upload robocza wyjscie/antologia-robocza.docx --clobber

@@ -9,6 +9,7 @@ Przekład roboczy: Claude (Anthropic); redakcja: Tomek.
 ## Struktura
 
 ```
+wprowadzenie/   Od tłumacza, Wstęp (markdown; początek części pierwszej)
 utwory/NN-autor-tytul/
   karta.md      karta utworu (autor, lata, tytuły, rok, rozdział, żywa pagina, ilustracja)
   en.txt        tekst angielski; pusta linia = nowy akapit wierszowy
@@ -22,6 +23,7 @@ rozdzialy.md    rozdziały: `nr | tytuł | ilustracja otwierająca`
 glosariusz.md   stałe odpowiedniki EN → PL
 status.md       postęp prac i otwarte sprawy
 ustalenia.md    decyzje zmieniające instrukcję projektu
+materialy/      surowe teksty źródłowe przed opracowaniem (nie trafiają do buildu)
 build/          skrypt budujący wersję roboczą .docx
 .github/        GitHub Action: build przy każdym pushu
 ```

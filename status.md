@@ -1,11 +1,18 @@
 # Status prac
 
-Stan na: 2026-10-08. Faza 0 zakończona: poz. 6 zaakceptowana. Następna: Faza 1.
+Stan na: 2026-10-08. Faza 0 zakończona (poz. 6 zaakceptowana). Pracujemy w kolejności tomu: Wprowadzenie → I. Prolog → II…
 
 **Legenda:** ✓ zrobione · ~ częściowo / do weryfikacji · – nie zaczęte · K = czeka na korektę Tomka
 
 **Plik Word:** budowany automatycznie przy każdym pushu, do pobrania w wydaniu „robocza” (link w README).
 
+## Wprowadzenie
+| Tekst | Plik | Stan | Korekta |
+|---|---|---|---|
+| Od tłumacza | `wprowadzenie/01-od-tlumacza.md` | ✓ szkic | K |
+| Wstęp: czym była szkoła cmentarna | `wprowadzenie/02-wstep.md` | ✓ szkic (do uzupełnienia po przekładach) | K |
+
+## Utwory
 | Nr | Utwór | EN | PL spr. | Research | Przekład | Słownik/przypisy | Motto | Ilustr. | Korekta |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Milton, Il Penseroso | – | – | – | – | – | – | – | – |
@@ -14,7 +21,7 @@ Stan na: 2026-10-08. Faza 0 zakończona: poz. 6 zaakceptowana. Następna: Faza 1
 | 4 | Pope, The Dying Christian to His Soul | – | – | – | – | – | – | – | – |
 | 5 | Pope, Elegy to the Memory of an Unfortunate Lady | – | – | – | – | – | – | – | – |
 | 6 | Parnell, A Night-Piece on Death | ✓ 90 w. | ✓ (–) | ~ | ✓ | ✓ | ✓ | ~ | ✓ |
-| 7 | Parnell, The Hermit | – | – | – | – | – | – | – | – |
+| 7 | Parnell, The Hermit | ~ 249 w. (1722, surowy) | – | – | – | – | – | – | – |
 | 8 | Young, Night Thoughts (wybór) | – | – | – | – | – | – | – | – |
 | 9 | Blair, The Grave | – | – | – | – | – | – | – | – |
 | 10 | Gray, Sonnet on the Death of Mr Richard West | – | – | – | – | – | – | – | – |
@@ -52,7 +59,11 @@ Stan na: 2026-10-08. Faza 0 zakończona: poz. 6 zaakceptowana. Następna: Faza 1
 | 42 | Cowper, On the Receipt of My Mother's Picture | – | – | – | – | – | – | – | – |
 | 43 | Cowper, The Castaway | – | – | – | – | – | – | – | – |
 
-## Otwarte sprawy (poz. 6)
+## Otwarte sprawy
+- Poz. 7: tekst 1722 (TCP K041605.000) w `materialy/07-parnell-hermit-1722-tcp.txt`, do modernizacji; podział partii: w. 1–128 i 129–249. W. 129–131 to trójwiersz (rym potrójny).
+- Wstęp ogólny: po przekładach uzupełnić odwołania do konkretnych utworów; Le Tourneur – sprawdzić rok wydania.
+
+### Poz. 6
 - Research „~”: brak weryfikacji opinii Johnsona i Dobrée w źródle pierwotnym, zwyczaju obwiązywania grobów łozą i szczegółów pogrzebów (oznaczone w plikach).
 - Ilustracja „~”: tylko znacznik; do sprawdzenia ryciny z epoki.
 - Tytuł polski: decyzja *Night-Piece* → patrz `glosariusz.md`.

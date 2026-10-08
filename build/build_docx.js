@@ -257,6 +257,13 @@ function part(render, withIllustration) {
 }
 
 sections.push(partOpener("Część pierwsza", "Przekład i komentarz", "karta utworu · motto · wstęp · przekład · przypisy"));
+// Wprowadzenie: wprowadzenie/NN-*.md, tytuł z pierwszego nagłówka "# "
+const intro = path.join(ROOT, "wprowadzenie");
+if (exists(intro)) for (const f of fs.readdirSync(intro).filter((f) => /^\d\d-.*\.md$/.test(f)).sort()) {
+  const file = path.join(intro, f);
+  const title = (read(file).match(/^# (.*)$/m) || [, f])[1];
+  sections.push({ properties: { page: PAGE }, ...runningHead(title), children: [heading(title, 1), ...markdown(file, true)] });
+}
 part(polishPoem, true);
 sections.push(partOpener("Część druga", "The Original Poems", "teksty oryginalne w tej samej kolejności i numeracji"));
 part(englishPoem, false);

@@ -1,0 +1,11 @@
+{
+  "name": "poezja-cmentarna",
+  "private": true,
+  "description": "Dwujęzyczna antologia angielskiej poezji cmentarnej (EN/PL) – pliki źródłowe i build wersji roboczej",
+  "scripts": {
+    "build": "node build/build_docx.js"
+  },
+  "dependencies": {
+    "docx": "^9.0.0"
+  }
+}

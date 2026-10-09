@@ -97,6 +97,16 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Misery | Nieszczęście | 13 | jak *Misfortune* (8); „Nędza” zajęta przez *Penury* |
 | Forefathers | Przodkowie | 13 | |
 | kindred Spirit | Duch bratni | 13 | |
+| Religion | Religia | 14 | w wołaczu „Religio” |
+| Reflection | Namysł | 14 | |
+| Repentance | Skrucha | 14 | |
+| Mercy | Miłosierdzie | 14 | |
+| Wealth | Bogactwo | 14 | |
+| Grace | Łaska | 15 | |
+| Devotion | Pobożność | 15 | |
+| Goodness | Dobro | 15 | |
+| Will | Wola | 15 | |
+| Justice (Boża) | Prawość | 15 | jak w nr 11 |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
@@ -166,6 +176,10 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | anthem | hymn | 13 | w nr 13 dla rymu „Te Deum” (przypis) |
 | vale of life | dolina żywota, padół | 13 | |
 | hamlet | wioska | 13 | |
+| Night-Piece (w tytułach) | Obraz nocy | 15 | decyzja Tomka 2026-10-10; wyjątek: nr 6 „Nocne rozmyślanie o śmierci” (w tytule „on Death”) |
+| sister-worm | siostra-czerw | 14 | Hi 17,14 |
+| magic glass | szkło czarów | 14 | latarnia magiczna (przypis) |
+| Archangel | Archanioł | 15 | |
 
 ## Do decyzji
-- *Night-Piece* w tytułach: „Nocne rozmyślanie” (poz. 6) czy „Obraz nocy” (poz. 15, 18)? Potrzebna jedna zasada dla całego tomu.
+- (brak)

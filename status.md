@@ -1,6 +1,6 @@
 # Status prac
 
-Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. Poz. 9 Blair, „Grób” (767 w.) oraz poz. 10–13 (Gray) gotowe do korekty; rozdział III kompletny. Następny: rozdz. IV, poz. 14 (Carter, „Ode to Melancholy”). Oryginały poz. 14–43 w repo (surowe, z paczki Tomka; „~” = korekta słowo w słowo przy przekładzie). Liczby wersów 14–43 sprawdzone (zob. `zrodlo.md`). Ilustracje: zasady, lista miejsc i ocena jakości w `ilustracje/README.md` i `ilustracje/zrodla.md`; wgrane rozdz. I–III i nr 1–10 (za małe: nr 5, 6, 10).
+Stan na: 2026-10-10. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. Poz. 9 Blair, „Grób” (767 w.) oraz poz. 10–13 (Gray) gotowe do korekty; rozdział III kompletny. Rozdz. IV: poz. 14–15 (Carter) gotowe do korekty. Następny: poz. 16, T. Warton, „The Pleasures of Melancholy” (dwie partie). Oryginały poz. 14–43 w repo (surowe, z paczki Tomka; „~” = korekta słowo w słowo przy przekładzie). Liczby wersów 14–43 sprawdzone (zob. `zrodlo.md`). Ilustracje: zasady, lista miejsc i ocena jakości w `ilustracje/README.md` i `ilustracje/zrodla.md`; wgrane rozdz. I–III i nr 1–10 (za małe: nr 5, 6, 10).
 
 **Legenda:** ✓ zrobione · ~ częściowo / do weryfikacji · – nie zaczęte · K = czeka na korektę Tomka
 
@@ -28,8 +28,8 @@ Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 | 11 | Gray, Hymn to Adversity | ✓ 48 w. (1768) | ~ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |
 | 12 | Gray, Ode on a Distant Prospect of Eton College | ✓ 100 w. (1768) | ~ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |
 | 13 | Gray, Elegy Written in a Country Churchyard | ✓ 128 w. (1768) | ~ (N; inne do spr.) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
-| 14 | Carter, Ode to Melancholy | ~ 78 w. (ECPA) | – | – | – | – | – | – | – |
-| 15 | Carter, A Night-Piece | ~ 52 w. (ECPA) | – | – | – | – | – | – | – |
+| 14 | Carter, Ode to Melancholy | ✓ 78 w. (Pearch 1770) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
+| 15 | Carter, A Night-Piece | ✓ 52 w. (Pearch 1770) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
 | 16 | T. Warton, The Pleasures of Melancholy | ~ 316 w. (ECPA) | – | – | – | – | – | – | – |
 | 17 | Collins, Ode to Evening | ~ 52 w. (PF) | – | – | – | – | – | – | – |
 | 18 | Cunningham, The Contemplatist | ~ 148 w. (1766, TCP) | – | – | – | – | – | – | – |
@@ -70,6 +70,7 @@ Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 - Poz. 9: lekcje sporne w. 76, 603, 711 (zob. `zrodlo.md`); data śmierci Blaira (1746 czy 1747); polskie przekłady (Polona, FBC); numery wersów: Seneka, *Fenicjanki* (w. 394), Pindar (w. 475); ilustracja – skany rycin Schiavonettiego/Blake'a (1808).
 - Poz. 10–12: porównać z pierwodrukami (1747, 1753); polskie przekłady (Polona, Barańczak); West – syn lorda kanclerza Irlandii?; Petrarka 310 jako paralela sonetu; dokładne brzmienie ocen Johnsona; „pierwszy angielski wiersz Graya w druku” (Eton 1747).
 - Poz. 13: w. 35 *Await/Awaits* sprawdzić w skanie wyd. 1768; numery sonetów Petrarki (przypisy do w. 92, 127); w których wydaniach 1751–1753 drukowano strofę o rudziku; egzemplarz Niemcewicza (1803) w Polonie do aneksu; inne polskie przekłady (Polona, Barańczak); motto – Browne po raz 2. (alternatywa: Marek Aureliusz VI 24); „Te Deum” w w. 40 dla rymu – do akceptacji.
+- Poz. 14–15: porównać z wyd. autorskim *Poems on Several Occasions* (1762); pierwodruk ody (antologia „Poems by Eminent Ladies”?); tytuł „A Night-Piece” w wyd. 1762; treść „Ramblera” nr 44; rok przekładu Algarottiego; Litania BCP (nr 15, w. 45).
 - Poz. 14–43: uwagi i decyzje do podjęcia w `zrodlo.md` każdego utworu. Najważniejsze: wybór fragmentu Thomsona (21) i Herveya (29, proza – build jeszcze jej nie obsługuje); przypis o wątpliwym autorstwie Bourne'a (30); redakcja tekstu Cunninghama (18, 26), Wartona (16, 28, 40), Collinsa (17), Pope'a (20).
 - Wstęp ogólny: po przekładach uzupełnić odwołania do konkretnych utworów.
 

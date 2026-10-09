@@ -2,6 +2,10 @@
 
 Decyzje Tomka zmieniające instrukcję projektu. Najnowsze na górze. Gdy instrukcja i ten plik się różnią, obowiązuje ten plik.
 
+## 2026-10-10
+
+1. **Tytuły *Night-Piece*:** „Obraz nocy” (Carter, nr 15; Cunningham, nr 18). Parnell (nr 6) zostaje przy „Nocnym rozmyślaniu o śmierci”, bo w tytule ma „on Death”.
+
 ## 2026-10-09
 
 1. **Oryginały poz. 14–43** dostarczył Tomek (paczka z tekstami), Claude je sprawdził i wgrał do `utwory/`. Teksty są surowe; korekta słowo w słowo przy przekładzie.

@@ -9,7 +9,8 @@ Decyzje Tomka zmieniające instrukcję projektu. Najnowsze na górze. Gdy instru
 3. **Bourne (nr 30)** zostaje: „On an Open Grave” z wyd. 1772, z przypisem o wątpliwym autorstwie.
 4. **Liczby wersów** sprawdzone; różnią się od szacunków w spisie (§3), np. Grainger 256 (nie ~100), Beattie „Triumph” 212, epitafium Masona 16 (ostatnie 4 w. napisał Gray). Poz. 14–43 mają razem ok. 3460 w. zamiast ~3100: tom rośnie o ok. 360 w. Aktualne liczby: `status.md`.
 5. **Ilustracje:** folder `ilustracje/`, nazwy według miejsca w książce, opis każdego pliku w `ilustracje/zrodla.md`; zasady w `ilustracje/README.md`. Build wstawia obrazy w miejsce ramek.
-6. **Rozdz. I otwiera „Opactwo w dębowym lesie”** Friedricha (wybór Tomka); „Mnich nad morzem” przechodzi do rozdz. II.
+6. **Ilustracje wybrane przez Tomka** (stan w `ilustracje/README.md`): rozdz. I – Friedrich, „Opactwo w dębowym lesie”; rozdz. II – Friedrich, „Cmentarz w śniegu”; rozdz. III – Leypold, „Mgła nad rosyjskim cmentarzem”; nr 1–9 – obrazy zamiast rycin z epoki (zastępuje §7.1–7.3 dla tych pozycji).
+7. **Bez ilustracji na całą stronę:** obraz stoi zaraz pod wierszem (gdy brak miejsca – na następnej stronie, bez pustych stron); obraz rozdziału pod tytułem rozdziału. Frontispisy (§7.3) odpadają.
 
 ## 2026-10-08
 

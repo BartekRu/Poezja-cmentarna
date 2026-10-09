@@ -216,15 +216,15 @@ function polishPoem(u) {
   }
   kids.push(heading("Wstęp"), ...markdown(D("wstep.md")));
   kids.push(pageBreak(), heading("Przekład"), verse(pl, u.pending));
+  // ilustracja zaraz pod wierszem (bez osobnej strony); gdy brak miejsca, Word przeniesie ją na następną stronę
+  const img = findImage(String(k.nr).padStart(2, "0"));
+  if (img) kids.push(new Paragraph({ spacing: { before: 240 } }), ...illustration(img, 380));
   if (exists(D("przypisy.md"))) {
     kids.push(heading("Przypisy"));
     for (const [w, t] of pipeRows(D("przypisy.md")))
       kids.push(new Paragraph({ children: [new TextRun({ text: /^(\d|[IVX]+\.\d)/.test(w) ? `w. ${w}. ` : `${w[0].toUpperCase() + w.slice(1)}. `, bold: true, size: 20 }), ...runs(t, { size: 20 })], spacing: { after: 80 }, alignment: AlignmentType.JUSTIFIED }));
   }
-  const img = findImage(String(k.nr).padStart(2, "0"));
-  if (img && /frontispis/i.test(k.ilustracja || "")) kids.unshift(new Paragraph({ spacing: { before: 600 } }), ...illustration(img, 780), pageBreak());
-  else if (img) kids.push(new Paragraph({ spacing: { before: 360 } }), ...illustration(img, 600));
-  else if (k.ilustracja) kids.push(marker(k.ilustracja));
+  if (!img && k.ilustracja) kids.push(marker(k.ilustracja));
   return { properties: { page: PAGE }, ...runningHead(k.zywa_pagina || `${surname(k.autor)} · ${k.tytul_pl}`), children: kids };
 }
 
@@ -244,11 +244,12 @@ function englishPoem(u) {
 
 function chapterOpener(nr, ch, withIllustration) {
   const kids = [];
+  // tytuł rozdziału i ilustracja na jednej stronie
   const img = withIllustration && findImage(`rozdzial-${nr}`);
-  if (img) kids.push(new Paragraph({ spacing: { before: 1800 } }), ...illustration(img, 800), pageBreak());
-  else if (withIllustration) kids.push(new Paragraph({ spacing: { before: 2400 } }), marker(ch.il), pageBreak());
-  kids.push(new Paragraph({ spacing: { before: 4000 } }), center(nr, { font: TITLE, size: 72, color: MUTED }),
-    new Paragraph({ alignment: AlignmentType.CENTER, heading: HeadingLevel.HEADING_1, children: [new TextRun({ text: ch.t, font: TITLE })] }));
+  kids.push(new Paragraph({ spacing: { before: withIllustration ? 1200 : 4000 } }), center(nr, { font: TITLE, size: 72, color: MUTED }),
+    new Paragraph({ alignment: AlignmentType.CENTER, heading: HeadingLevel.HEADING_1, spacing: { after: 600 }, children: [new TextRun({ text: ch.t, font: TITLE })] }));
+  if (img) kids.push(...illustration(img, 560));
+  else if (withIllustration) kids.push(marker(ch.il));
   return { properties: { page: PAGE }, ...blankHead(), children: kids };
 }
 

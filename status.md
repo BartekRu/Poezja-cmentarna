@@ -1,6 +1,6 @@
 # Status prac
 
-Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. Poz. 9 Blair, „Grób” (767 w.) oraz poz. 10–12 (Gray) gotowe do korekty. Następny: poz. 13, Elegia Graya. Oryginały poz. 14–43 w repo (surowe, z paczki Tomka; „~” = korekta słowo w słowo przy przekładzie). Liczby wersów 14–43 sprawdzone (zob. `zrodlo.md`). Ilustracje: zasady i lista miejsc w `ilustracje/README.md`; gotowe: rozdz. I.
+Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. Poz. 9 Blair, „Grób” (767 w.) oraz poz. 10–12 (Gray) gotowe do korekty. Następny: poz. 13, Elegia Graya. Oryginały poz. 14–43 w repo (surowe, z paczki Tomka; „~” = korekta słowo w słowo przy przekładzie). Liczby wersów 14–43 sprawdzone (zob. `zrodlo.md`). Ilustracje: zasady, lista miejsc i ocena jakości w `ilustracje/README.md` i `ilustracje/zrodla.md`; wgrane rozdz. I–III i nr 1–9 (7 plików za małych – do wymiany).
 
 **Legenda:** ✓ zrobione · ~ częściowo / do weryfikacji · – nie zaczęte · K = czeka na korektę Tomka
 
@@ -15,15 +15,15 @@ Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 ## Utwory
 | Nr | Utwór | EN | PL spr. | Research | Przekład | Słownik/przypisy | Motto | Ilustr. | Korekta |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Milton, Il Penseroso | ✓ 176 w. (1645) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |
-| 2 | Watts, Death and Eternity | ✓ 36 w. (CPDL) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | – | K |
-| 3 | Finch, A Nocturnal Reverie | ✓ 50 w. (1713) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | – | K |
-| 4 | Pope, The Dying Christian to His Soul | ~ 18 w. (transkr.) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | – | K |
-| 5 | Pope, Elegy to the Memory of an Unfortunate Lady | ✓ 82 w. (1717 wg RPO) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | – | K |
-| 6 | Parnell, A Night-Piece on Death | ✓ 90 w. | ✓ (–) | ~ | ✓ | ✓ | ✓ | ~ | ✓ |
-| 7 | Parnell, The Hermit | ✓ 249 w. (1722) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |
-| 8 | Young, Night Thoughts (Noc I; Noc III, w. 111–188) | ✓ 460 + 78 w. (ECPA) | ✓ (Y) | ✓ | ✓ | ✓ | ✓ | ~ | K |
-| 9 | Blair, The Grave | ✓ 767 w. (1743 wg ECPA) | ~ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |
+| 1 | Milton, Il Penseroso | ✓ 176 w. (1645) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | ~ (za mała) | K |
+| 2 | Watts, Death and Eternity | ✓ 36 w. (CPDL) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | ~ (za mała) | K |
+| 3 | Finch, A Nocturnal Reverie | ✓ 50 w. (1713) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | ✓ | K |
+| 4 | Pope, The Dying Christian to His Soul | ~ 18 w. (transkr.) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | ✓ | K |
+| 5 | Pope, Elegy to the Memory of an Unfortunate Lady | ✓ 82 w. (1717 wg RPO) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | ~ (za mała) | K |
+| 6 | Parnell, A Night-Piece on Death | ✓ 90 w. | ✓ (–) | ~ | ✓ | ✓ | ✓ | ~ (za mała) | ✓ |
+| 7 | Parnell, The Hermit | ✓ 249 w. (1722) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | ✓ | K |
+| 8 | Young, Night Thoughts (Noc I; Noc III, w. 111–188) | ✓ 460 + 78 w. (ECPA) | ✓ (Y) | ✓ | ✓ | ✓ | ✓ | ✓ | K |
+| 9 | Blair, The Grave | ✓ 767 w. (1743 wg ECPA) | ~ (–) | ✓ | ✓ | ✓ | ✓ | ~ (za mała) | K |
 | 10 | Gray, Sonnet on the Death of Mr Richard West | ✓ 14 w. (1775) | ~ (–) | ✓ | ✓ | ✓ | ✓ | – | K |
 | 11 | Gray, Hymn to Adversity | ✓ 48 w. (1768) | ~ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |
 | 12 | Gray, Ode on a Distant Prospect of Eton College | ✓ 100 w. (1768) | ~ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |

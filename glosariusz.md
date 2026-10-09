@@ -84,6 +84,19 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Madness | Szał | 12 | |
 | Age | Starość | 12 | |
 | Father Thames | Ojciec Tamiza | 12 | w wołaczu „Ojcze Tamizo” |
+| Grandeur | Wielkość | 13 | |
+| Proud (ye Proud) | Pyszni | 13 | |
+| Memory | Pamięć | 13 | |
+| Flattery | Pochlebstwo | 13 | |
+| Knowledge | Nauka | 13 | gdy w tym samym utworze jest *Science* (= Wiedza) |
+| Penury | Nędza | 13 | jak *Poverty* (6) i *Want* (8) |
+| Luxury / Pride | Zbytek / Pycha | 13 | |
+| Forgetfulness | Zapomnienie | 13 | |
+| Earth | Ziemia | 13 | |
+| Fame | Sława | 13 | |
+| Misery | Nieszczęście | 13 | jak *Misfortune* (8); „Nędza” zajęta przez *Penury* |
+| Forefathers | Przodkowie | 13 | |
+| kindred Spirit | Duch bratni | 13 | |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
@@ -110,6 +123,11 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | undertakers | mistrzowie pogrzebów, przedsiębiorcy pogrzebowi | 9 | |
 | screech-owl | sowa | 9 | płomykówka w słowniku |
 | sexton | grabarz | 9 | kościelny w słowniku |
+| knell | podzwonne, dzwon pogrzebowy | 13 | |
+| epitaph | epitafium | 13 | |
+| thorn | głóg | 13 | |
+| memorial | pomnik (nagrobny) | 13 | |
+| storied urn / animated bust | urna w rzeźbach / żywe popiersie | 13 | |
 
 ## Inne
 | EN | PL | Od | Uwagi |
@@ -145,6 +163,9 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | sublunary | podksiężycowy | 8 | |
 | fane | chram | 9 | archaizm zamierzony |
 | eglantine | szypszyna | 9 | dawna nazwa dzikiej róży |
+| anthem | hymn | 13 | w nr 13 dla rymu „Te Deum” (przypis) |
+| vale of life | dolina żywota, padół | 13 | |
+| hamlet | wioska | 13 | |
 
 ## Do decyzji
 - *Night-Piece* w tytułach: „Nocne rozmyślanie” (poz. 6) czy „Obraz nocy” (poz. 15, 18)? Potrzebna jedna zasada dla całego tomu.

@@ -306,6 +306,7 @@ const sections = [{ properties: { page: PAGE }, ...blankHead(), children: [
   center("tytuł roboczy", { size: 20, color: MUTED }),
   new Paragraph({ spacing: { before: 3000 } }),
   center(`Wersja robocza do korekty · ${today}`, { size: 20 }),
+  ...(process.env.EKSPORT ? [center(`Eksport PDF: ${process.env.EKSPORT}`, { size: 20, bold: true })] : []),
   center("Przekład roboczy: Claude (Anthropic); redakcja: Tomek", { size: 20 }),
   new Paragraph({ spacing: { before: 400 }, alignment: AlignmentType.CENTER, children: runs("Żółte wyróżnienia [do weryfikacji] oznaczają miejsca niepewne. Ramki w kolorze pergaminu to miejsca na ilustracje.", { size: 18, color: "6B5D45" }) }),
 ] }];

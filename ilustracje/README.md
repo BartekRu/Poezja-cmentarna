@@ -48,17 +48,18 @@ Stan na 2026-10-09. Szczegóły i ocena jakości każdego pliku: `zrodla.md`.
 | Plik | Miejsce | Obraz | Stan |
 |---|---|---|---|
 | `rozdzial-I.jpg` | I. Prolog | Friedrich, *Opactwo w dębowym lesie* | ✓ |
-| `rozdzial-II.jpg` | II. Ojcowie założyciele | Friedrich, *Cmentarz w śniegu* | za mała |
-| `rozdzial-III.jpg` | III. Gray | Leypold, *Mgła nad rosyjskim cmentarzem* | za mała |
+| `rozdzial-II.jpg` | II. Ojcowie założyciele | Friedrich, *Cmentarz w śniegu* | ✓ |
+| `rozdzial-III.jpg` | III. Gray | Leypold, *Mgła nad rosyjskim cmentarzem* | ✓ |
 | `rozdzial-IV.jpg` … `rozdzial-IX.jpg` | IV–IX | propozycje w `rozdzialy.md` | – |
-| `01-milton.jpg` | nr 1 | Cole, *Il Penseroso* | za mała |
-| `02-watts.jpg` | nr 2 | H. Robert, *La Promenade solitaire* | za mała |
+| `01-milton.jpg` | nr 1 | Cole, *Il Penseroso* | ✓ |
+| `02-watts.jpg` | nr 2 | H. Robert, *La Promenade solitaire* | ✓ (tytuł do weryfikacji) |
 | `03-finch.jpg` | nr 3 | Loutherbourg, *Filozof na cmentarzu* | ✓ |
 | `04-pope.jpg` | nr 4 | Friedrich, *Krzyż w górach* | ✓ |
 | `05-pope.jpg` | nr 5 | Hesselbom, *Wigilia na cmentarzu* | za mała |
 | `06-parnell.jpg` | nr 6 | Vedder, *The End of a Misspent Life* | za mała |
 | `07-parnell.jpg` | nr 7 | Mistrz flamandzki, *Droga do Emaus* | ✓ |
 | `08-young.jpg` | nr 8 | Friedrich, *Spacer o zmierzchu* | ✓ |
-| `09-blair.jpg` | nr 9 | Knab, *Elegia* | za mała |
-| `10-gray.jpg` … `43-….jpg` | nr 10–43 | – | – |
+| `09-blair.jpg` | nr 9 | Knab, *Elegia* | ✓ |
+| `10-gray.jpg` | nr 10 | autor i tytuł do ustalenia | za mała |
+| `11-gray.jpg` … `43-….jpg` | nr 11–43 | – | – |
 | `okladka.jpg` | okładka | do decyzji | – |

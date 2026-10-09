@@ -107,7 +107,14 @@ const NOB = { top: NONE, bottom: NONE, left: NONE, right: NONE };
 
 // Tekst wiersza: numeracja co 5 po lewej, akapity wierszowe oddzielone pustym (nieliczonym) wierszem.
 // Ta sama numeracja w obu częściach, więc przypisy działają dla przekładu i oryginału.
-function verse(stz) {
+// Tekst wiersza: numeracja co 5 po lewej, akapity wierszowe oddzielone pustym (nieliczonym) wierszem.
+// Ta sama numeracja w obu częściach, więc przypisy działają dla przekładu i oryginału.
+// Znaczniki w en.txt/pl.txt (nie są liczone jako wersy):
+//   "# Tytuł"  – nagłówek części wewnątrz utworu (np. „Noc I”),
+//   "@111"     – następny wers ma numer 111 (fragmenty z oryginalną numeracją).
+const isMark = (l) => /^# /.test(l) || /^@\d+$/.test(l);
+const verseCount = (stz) => stz.flat().filter((l) => !isMark(l)).length;
+function verse(stz, pending = 0) {
   const W = [700, CONTENT_W - 700];
   const cell = (children, w) => new TableCell({ children, width: { size: w, type: WidthType.DXA }, borders: NOB, margins: { top: 10, bottom: 10, left: 60, right: 60 }, verticalAlign: VerticalAlign.TOP });
   const p = (text, o = {}) => new Paragraph({ children: [new TextRun({ text, size: 23, ...o })], alignment: o.align });
@@ -116,6 +123,12 @@ function verse(stz) {
   stz.forEach((st, i) => {
     if (i > 0) rows.push(new TableRow({ children: W.map((w) => cell([p("")], w)) }));
     for (const line of st) {
+      const at = line.match(/^@(\d+)$/);
+      if (at) { n = Number(at[1]) - 1; continue; }
+      if (/^# /.test(line)) {
+        rows.push(new TableRow({ cantSplit: true, children: [cell([p("")], W[0]), cell([p(line.slice(2), { italics: true, smallCaps: true, color: "4A3F2C", size: 24 })], W[1])] }));
+        continue;
+      }
       n++;
       rows.push(new TableRow({ cantSplit: true, children: [
         cell([p(n % 5 === 0 ? String(n) : "", { color: MUTED, size: 18, align: AlignmentType.RIGHT })], W[0]),
@@ -123,6 +136,7 @@ function verse(stz) {
       ] }));
     }
   });
+  if (pending > 0) rows.push(new TableRow({ children: [cell([p("")], W[0]), cell([p(`[przekład w przygotowaniu: pozostałe akapity (${pending})]`, { italics: true, color: MUTED })], W[1])] }));
   return new Table({ width: { size: CONTENT_W, type: WidthType.DXA }, columnWidths: W, rows });
 }
 
@@ -141,10 +155,17 @@ const runningHead = (text) => ({
 function load(dir) {
   const D = (f) => path.join(dir, f);
   const k = kv(D("karta.md"));
-  const en = stanzas(D("en.txt")), pl = stanzas(D("pl.txt"));
-  const a = en.map((s) => s.length).join(","), b = pl.map((s) => s.length).join(",");
-  if (a !== b) throw new Error(`${path.basename(dir)}: niezgodne akapity EN [${a}] vs PL [${b}]`);
-  return { dir, D, k, en, pl, lines: en.flat().length };
+  const en = stanzas(D("en.txt"));
+  const pl = exists(D("pl.txt")) ? stanzas(D("pl.txt")) : [];
+  // Przekład może być niepełny (praca partiami): PL ma wtedy mniej akapitów niż EN,
+  // ale każdy obecny akapit musi mieć tyle samo wierszy co odpowiadający mu akapit EN.
+  if (pl.length > en.length) throw new Error(`${path.basename(dir)}: PL ma więcej akapitów (${pl.length}) niż EN (${en.length})`);
+  pl.forEach((st, i) => {
+    if (st.length !== en[i].length) throw new Error(`${path.basename(dir)}: akapit ${i + 1} – EN ${en[i].length} w., PL ${st.length} w.`);
+  });
+  const pending = en.length - pl.length;
+  if (pending) console.warn(`UWAGA: ${path.basename(dir)} – przekład niepełny, brak ${pending} akapitów`);
+  return { dir, D, k, en, pl, pending, lines: verseCount(en) };
 }
 
 function polishPoem(u) {
@@ -164,11 +185,11 @@ function polishPoem(u) {
     kids.push(new Paragraph({ indent, children: [new TextRun({ text: `— ${m.autor}, ${m.zrodlo} (${m.tlumacz})`, size: 18, color: "6B5D45" })], spacing: { after: 360 } }));
   }
   kids.push(heading("Wstęp"), ...markdown(D("wstep.md")));
-  kids.push(pageBreak(), heading("Przekład"), verse(pl));
+  kids.push(pageBreak(), heading("Przekład"), verse(pl, u.pending));
   if (exists(D("przypisy.md"))) {
     kids.push(heading("Przypisy"));
     for (const [w, t] of pipeRows(D("przypisy.md")))
-      kids.push(new Paragraph({ children: [new TextRun({ text: /^\d/.test(w) ? `w. ${w}. ` : `${w[0].toUpperCase() + w.slice(1)}. `, bold: true, size: 20 }), ...runs(t, { size: 20 })], spacing: { after: 80 }, alignment: AlignmentType.JUSTIFIED }));
+      kids.push(new Paragraph({ children: [new TextRun({ text: /^(\d|[IVX]+\.\d)/.test(w) ? `w. ${w}. ` : `${w[0].toUpperCase() + w.slice(1)}. `, bold: true, size: 20 }), ...runs(t, { size: 20 })], spacing: { after: 80 }, alignment: AlignmentType.JUSTIFIED }));
   }
   if (k.ilustracja) kids.push(marker(k.ilustracja));
   return { properties: { page: PAGE }, ...runningHead(k.zywa_pagina || `${surname(k.autor)} · ${k.tytul_pl}`), children: kids };

@@ -33,6 +33,26 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Maker | Stwórca | 7 | |
 | Pow'r (= Bóg) | Moc | 7 | |
 | Heav'n (= Bóg) | Niebo | 7 | wielką literą, gdy metonimia Boga |
+| Silence (Young) | Cisza | 8 | wyjątek od „Milczenie” (nr 1): u Younga siostra Ciemności, bez *Quiet* obok |
+| Darkness | Ciemność | 8 | |
+| Fate | Los | 8 | |
+| Fortune | Fortuna | 8 | |
+| Time / Moment | Czas / Chwila | 8 | |
+| Pain / Chance | Ból / Traf | 8 | |
+| Reason | Rozum | 8 | |
+| Fancy | Fantazja | 8 | |
+| Virtue / Prudence | Cnota / Roztropność | 8 | |
+| Happiness | Szczęście | 8 | |
+| Misfortune | Nieszczęście | 8 | |
+| Woe | Boleść | 8 | nie „Niedola” – ta zarezerwowana dla *Adversity* (nr 11) |
+| Want / Disease | Nędza / Choroba | 8 | *Poverty* (nr 6) też „Nędza” |
+| Charity | Dobroczynność | 8 | |
+| Pleasure | Uciecha | 8 | |
+| Superstition | Zabobon | 8 | |
+| Infallibility | Nieomylność | 8 | aluzja do papiestwa |
+| Omen | Omen | 8 | |
+| Hope | Nadzieja | 8 | |
+| Spring | Wiosna | 8 | |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
@@ -81,6 +101,13 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | second means | przyczyny (środki) wtórne | 7 | termin teologiczny |
 | glow-worm | świetlik | 3 | |
 | the pious | zbożni | 6 | |
+| Lorenzo | Lorenzo | 8 | imię bez zmian, odmiana: Lorenza, Lorenzowi |
+| Philander | Filander | 8 | |
+| Narcissa | Narcyza | 8 | |
+| Maeonides | Meonida | 8 | = Homer |
+| the fatal sisters | Parki | 8 | |
+| phial (of wrath) | czara (pomsty, gniewu) | 8 | Ap 16 |
+| sublunary | podksiężycowy | 8 | |
 
 ## Do decyzji
 - *Night-Piece* w tytułach: „Nocne rozmyślanie” (poz. 6) czy „Obraz nocy” (poz. 15, 18)? Potrzebna jedna zasada dla całego tomu.

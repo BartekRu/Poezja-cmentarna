@@ -23,6 +23,12 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Genius (of a place) | Geniusz | 1 | *genius loci* |
 | Jove | Jowisz | 1 | nie Zeus |
 | Zephyr | Zefir | 3 | |
+| Nature | Natura | 4 | |
+| Sister Spirit | Siostra-Dusza | 4 | |
+| Powers (ye Pow'rs) | Moce | 5 | |
+| Furies | Furie | 5 | |
+| Loves (weeping) | Amorki | 5 | putta nagrobne |
+| Muse | Muza | 5 | |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
@@ -34,6 +40,11 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | charnel-house | kostnica | 6 | |
 | shades | cienie | 6 | dusze zmarłych |
 | skull | czaszka | 2 | |
+| bier | mary | 5 | |
+| sable weeds | kir czarny, szaty żałobne | 5 | |
+| sacred earth | ziemia święcona | 5 | poświęcony cmentarz |
+| turf | darń | 5 | |
+| dirge | pieśń żałobna, modlitwa | 5 | |
 | dust and ashes | proch i popiół | 2 | |
 | 'scutcheon, escutcheon | herb, tarcza herbowa | 6 | |
 | hearse | karawan | 6 | |
@@ -57,6 +68,8 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | thou / thee / thy | ty / ciebie / twój, twe | 6 | lekka archaizacja: „twe”, „człek”, „zda się” |
 | methinks | zda się | 6 | |
 | In such a night | W taką noc | 3 | anafora (Szekspir, Finch) |
+| Angels (lm.) | Anieli (mian.), Aniołów (dop.) | 4–5 | archaiczna forma mianownika |
+| bard, poet | wieszcz, poeta | 5 | |
 | glow-worm | świetlik | 3 | |
 | the pious | zbożni | 6 | |
 

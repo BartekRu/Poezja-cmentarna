@@ -1,6 +1,6 @@
 # Status prac
 
-Stan na: 2026-10-08. Faza 0 zakończona (poz. 6 zaakceptowana). Pracujemy w kolejności tomu: Wprowadzenie → I. Prolog → II…
+Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) gotowy do korekty. Następny: II. Ojcowie założyciele (poz. 7 „Pustelnik”).
 
 **Legenda:** ✓ zrobione · ~ częściowo / do weryfikacji · – nie zaczęte · K = czeka na korektę Tomka
 
@@ -18,8 +18,8 @@ Stan na: 2026-10-08. Faza 0 zakończona (poz. 6 zaakceptowana). Pracujemy w kole
 | 1 | Milton, Il Penseroso | ✓ 176 w. (1645) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |
 | 2 | Watts, Death and Eternity | ✓ 36 w. (CPDL) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | – | K |
 | 3 | Finch, A Nocturnal Reverie | ✓ 50 w. (1713) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | – | K |
-| 4 | Pope, The Dying Christian to His Soul | – | – | – | – | – | – | – | – |
-| 5 | Pope, Elegy to the Memory of an Unfortunate Lady | – | – | – | – | – | – | – | – |
+| 4 | Pope, The Dying Christian to His Soul | ~ 18 w. (transkr.) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | – | K |
+| 5 | Pope, Elegy to the Memory of an Unfortunate Lady | ✓ 82 w. (1717 wg RPO) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | – | K |
 | 6 | Parnell, A Night-Piece on Death | ✓ 90 w. | ✓ (–) | ~ | ✓ | ✓ | ✓ | ~ | ✓ |
 | 7 | Parnell, The Hermit | ~ 249 w. (1722, surowy) | – | – | – | – | – | – | – |
 | 8 | Young, Night Thoughts (wybór) | – | – | – | – | – | – | – | – |
@@ -60,6 +60,8 @@ Stan na: 2026-10-08. Faza 0 zakończona (poz. 6 zaakceptowana). Pracujemy w kole
 | 43 | Cowper, The Castaway | – | – | – | – | – | – | – | – |
 
 ## Otwarte sprawy
+- Poz. 4: porównać tekst z wydaniem XVIII-wiecznym (Works 1736 / Twickenham); ustalić pierwodruk.
+- Poz. 5: od którego wydania tytuł „Elegy…”; legenda o wiecznych lampach (w. 20).
 - Poz. 2: wiersza brak w *Horae Lyricae* 1706 (TCP); znaleźć wydanie, w którym wszedł (najpewniej 1709), i porównać tekst. Tekst obecnie według transkrypcji CPDL.
 - Poz. 3: tożsamość „Salisbury” (w. 19) do potwierdzenia.
 - Poz. 1: polskie przekłady sprawdzone tylko wyszukiwarką; Polona/NUKAT/Barańczak do sprawdzenia. Ilustracja: akwarele Blake'a do „Il Penseroso”, do weryfikacji.

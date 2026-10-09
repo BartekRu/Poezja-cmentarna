@@ -53,6 +53,10 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Omen | Omen | 8 | |
 | Hope | Nadzieja | 8 | |
 | Spring | Wiosna | 8 | |
+| Grave (pers.) | Grób | 9 | w apostrofie: „Grobie!” |
+| Friendship | Przyjaźń | 9 | |
+| Ambition | Ambicja | 9 | |
+| Honour | Honor | 9 | |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
@@ -75,6 +79,9 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | osier | łoza | 6 | |
 | tomb | grobowiec | 6 | |
 | grave | grób, mogiła | 6 | |
+| wake | stypa (czuwanie przy zmarłym) | 9 | |
+| undertakers | mistrzowie pogrzebów, przedsiębiorcy pogrzebowi | 9 | |
+| screech-owl | sowa | 9 | płomykówka w słowniku |
 
 ## Inne
 | EN | PL | Od | Uwagi |
@@ -108,6 +115,8 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | the fatal sisters | Parki | 8 | |
 | phial (of wrath) | czara (pomsty, gniewu) | 8 | Ap 16 |
 | sublunary | podksiężycowy | 8 | |
+| fane | chram | 9 | archaizm zamierzony |
+| eglantine | szypszyna | 9 | dawna nazwa dzikiej róży |
 
 ## Do decyzji
 - *Night-Piece* w tytułach: „Nocne rozmyślanie” (poz. 6) czy „Obraz nocy” (poz. 15, 18)? Potrzebna jedna zasada dla całego tomu.

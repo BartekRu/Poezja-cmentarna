@@ -29,6 +29,10 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Furies | Furie | 5 | |
 | Loves (weeping) | Amorki | 5 | putta nagrobne |
 | Muse | Muza | 5 | |
+| Providence | Opatrzność | 7 | |
+| Maker | Stwórca | 7 | |
+| Pow'r (= Bóg) | Moc | 7 | |
+| Heav'n (= Bóg) | Niebo | 7 | wielką literą, gdy metonimia Boga |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
@@ -70,6 +74,11 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | In such a night | W taką noc | 3 | anafora (Szekspir, Finch) |
 | Angels (lm.) | Anieli (mian.), Aniołów (dop.) | 4–5 | archaiczna forma mianownika |
 | bard, poet | wieszcz, poeta | 5 | |
+| hermit | pustelnik | 7 | |
+| sire | starzec; ojciec | 7 | gdy o pustelniku: „starzec” |
+| pilgrim | pielgrzym | 7 | |
+| angel / seraph | anioł / seraf, serafin | 7 | |
+| second means | przyczyny (środki) wtórne | 7 | termin teologiczny |
 | glow-worm | świetlik | 3 | |
 | the pious | zbożni | 6 | |
 

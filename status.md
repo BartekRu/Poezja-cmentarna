@@ -1,6 +1,6 @@
 # Status prac
 
-Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) gotowy do korekty. Następny: II. Ojcowie założyciele (poz. 7 „Pustelnik”).
+Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) i poz. 7 gotowe do korekty. Następny: poz. 8 Young, „Myśli nocne” (najpierw decyzja o wyborze fragmentów Nocy III).
 
 **Legenda:** ✓ zrobione · ~ częściowo / do weryfikacji · – nie zaczęte · K = czeka na korektę Tomka
 
@@ -21,7 +21,7 @@ Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 | 4 | Pope, The Dying Christian to His Soul | ~ 18 w. (transkr.) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | – | K |
 | 5 | Pope, Elegy to the Memory of an Unfortunate Lady | ✓ 82 w. (1717 wg RPO) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | – | K |
 | 6 | Parnell, A Night-Piece on Death | ✓ 90 w. | ✓ (–) | ~ | ✓ | ✓ | ✓ | ~ | ✓ |
-| 7 | Parnell, The Hermit | ~ 249 w. (1722, surowy) | – | – | – | – | – | – | – |
+| 7 | Parnell, The Hermit | ✓ 249 w. (1722) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |
 | 8 | Young, Night Thoughts (wybór) | – | – | – | – | – | – | – | – |
 | 9 | Blair, The Grave | – | – | – | – | – | – | – | – |
 | 10 | Gray, Sonnet on the Death of Mr Richard West | – | – | – | – | – | – | – | – |
@@ -65,7 +65,7 @@ Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 - Poz. 2: wiersza brak w *Horae Lyricae* 1706 (TCP); znaleźć wydanie, w którym wszedł (najpewniej 1709), i porównać tekst. Tekst obecnie według transkrypcji CPDL.
 - Poz. 3: tożsamość „Salisbury” (w. 19) do potwierdzenia.
 - Poz. 1: polskie przekłady sprawdzone tylko wyszukiwarką; Polona/NUKAT/Barańczak do sprawdzenia. Ilustracja: akwarele Blake'a do „Il Penseroso”, do weryfikacji.
-- Poz. 7: tekst 1722 (TCP K041605.000) w `materialy/07-parnell-hermit-1722-tcp.txt`, do modernizacji; podział partii: w. 1–128 i 129–249. W. 129–131 to trójwiersz (rym potrójny).
+- Poz. 7: polskie przekłady „Zadiga” (rozdz. „Pustelnik”) do sprawdzenia; ilustracja – drzeworyty Bewicków (1795), sprawdzić skany.
 - Wstęp ogólny: po przekładach uzupełnić odwołania do konkretnych utworów; Le Tourneur – sprawdzić rok wydania.
 
 ### Poz. 6

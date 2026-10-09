@@ -259,7 +259,8 @@ function dictionary(units) {
 
 // --- złożenie dokumentu ----------------------------------------------------
 const chapters = Object.fromEntries(pipeRows(path.join(ROOT, "rozdzialy.md")).map(([nr, t, il]) => [nr, { t, il }]));
-const units = fs.readdirSync(path.join(ROOT, "utwory")).filter((d) => /^\d\d-/.test(d)).sort().map((d) => load(path.join(ROOT, "utwory", d)));
+// utwory bez karta.md (np. same oryginały czekające na przekład) są pomijane
+const units = fs.readdirSync(path.join(ROOT, "utwory")).filter((d) => /^\d\d-/.test(d) && fs.existsSync(path.join(ROOT, "utwory", d, "karta.md"))).sort().map((d) => load(path.join(ROOT, "utwory", d)));
 
 const today = new Date().toISOString().slice(0, 10);
 const sections = [{ properties: { page: PAGE }, ...blankHead(), children: [

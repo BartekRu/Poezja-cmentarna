@@ -1,6 +1,6 @@
 # Status prac
 
-Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. Poz. 9 Blair, „Grób” (767 w.) gotowy do korekty. Następny: rozdział III (Gray), poz. 10–13.
+Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. Poz. 9 Blair, „Grób” (767 w.) oraz poz. 10–12 (Gray) gotowe do korekty. Następny: poz. 13, Elegia Graya.
 
 **Legenda:** ✓ zrobione · ~ częściowo / do weryfikacji · – nie zaczęte · K = czeka na korektę Tomka
 
@@ -24,9 +24,9 @@ Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 | 7 | Parnell, The Hermit | ✓ 249 w. (1722) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |
 | 8 | Young, Night Thoughts (Noc I; Noc III, w. 111–188) | ✓ 460 + 78 w. (ECPA) | ✓ (Y) | ✓ | ✓ | ✓ | ✓ | ~ | K |
 | 9 | Blair, The Grave | ✓ 767 w. (1743 wg ECPA) | ~ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |
-| 10 | Gray, Sonnet on the Death of Mr Richard West | – | – | – | – | – | – | – | – |
-| 11 | Gray, Hymn to Adversity | – | – | – | – | – | – | – | – |
-| 12 | Gray, Ode on a Distant Prospect of Eton College | – | – | – | – | – | – | – | – |
+| 10 | Gray, Sonnet on the Death of Mr Richard West | ✓ 14 w. (1775) | ~ (–) | ✓ | ✓ | ✓ | ✓ | – | K |
+| 11 | Gray, Hymn to Adversity | ✓ 48 w. (1768) | ~ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |
+| 12 | Gray, Ode on a Distant Prospect of Eton College | ✓ 100 w. (1768) | ~ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |
 | 13 | Gray, Elegy Written in a Country Churchyard | – | – | – | – | – | – | – | – |
 | 14 | Carter, Ode to Melancholy | – | – | – | – | – | – | – | – |
 | 15 | Carter, A Night-Piece | – | – | – | – | – | – | – | – |
@@ -68,6 +68,7 @@ Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 - Poz. 7: polskie przekłady „Zadiga” (rozdz. „Pustelnik”) do sprawdzenia; ilustracja – drzeworyty Bewicków (1795), sprawdzić skany.
 - Poz. 8: tekst wg ECPA (wyd. 1859) – porównać z pierwodrukiem 1742–1745; fragment Nocy III porównać ponownie z ECPA; Filander = Henry Temple?; daty ślubu i śmierci Narcyzy; źródło cytatu w w. 370; Seneka *Ep.* 13,16 (w. 400); egzemplarz Dmochowskiego (1798) w Polonie do aneksu; skany rycin Blake'a (1797).
 - Poz. 9: lekcje sporne w. 76, 603, 711 (zob. `zrodlo.md`); data śmierci Blaira (1746 czy 1747); polskie przekłady (Polona, FBC); numery wersów: Seneka, *Fenicjanki* (w. 394), Pindar (w. 475); ilustracja – skany rycin Schiavonettiego/Blake'a (1808).
+- Poz. 10–12: porównać z pierwodrukami (1747, 1753); polskie przekłady (Polona, Barańczak); West – syn lorda kanclerza Irlandii?; Petrarka 310 jako paralela sonetu; dokładne brzmienie ocen Johnsona; „pierwszy angielski wiersz Graya w druku” (Eton 1747).
 - Wstęp ogólny: po przekładach uzupełnić odwołania do konkretnych utworów.
 
 ### Poz. 6

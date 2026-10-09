@@ -180,9 +180,9 @@ function polishPoem(u) {
   if (exists(D("motto.md"))) {
     const m = kv(D("motto.md"));
     const indent = { left: 4300 };
-    kids.push(new Paragraph({ indent, children: [new TextRun({ text: m.oryginal, italics: true })], spacing: { after: 60 } }));
-    kids.push(new Paragraph({ indent, children: [new TextRun({ text: m.przeklad })], spacing: { after: 60 } }));
-    kids.push(new Paragraph({ indent, children: [new TextRun({ text: `— ${m.autor}, ${m.zrodlo} (${m.tlumacz})`, size: 18, color: "6B5D45" })], spacing: { after: 360 } }));
+    kids.push(new Paragraph({ indent, children: m.oryginal.split(" / ").map((s, i) => new TextRun({ text: s, italics: true, break: i ? 1 : 0 })), spacing: { after: 60 } }));
+    if (m.przeklad) kids.push(new Paragraph({ indent, children: [new TextRun({ text: m.przeklad })], spacing: { after: 60 } }));
+    kids.push(new Paragraph({ indent, children: [new TextRun({ text: `— ${m.autor}, ${m.zrodlo}${m.tlumacz ? ` (${m.tlumacz})` : ""}`, size: 18, color: "6B5D45" })], spacing: { after: 360 } }));
   }
   kids.push(heading("Wstęp"), ...markdown(D("wstep.md")));
   kids.push(pageBreak(), heading("Przekład"), verse(pl, u.pending));

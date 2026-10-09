@@ -62,6 +62,28 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Sin | Grzech | 9 | wielką literą w apostrofie, małą w toku wywodu (jak w oryginale) |
 | Hunger | Głód | 9 | |
 | Deliverer (= Chrystus) | Wybawca | 9 | |
+| Adversity | Niedola | 11 | |
+| Virtue | Cnota | 11 | |
+| Laughter / Noise / Joy | Śmiech / Zgiełk / Radość | 11 | |
+| Prosperity | Szczęście | 11 | powodzenie |
+| Wisdom | Mądrość | 11 | |
+| Justice | Prawość | 11 | |
+| Pity | Litość | 11 | |
+| Horror | Zgroza | 11 | |
+| Despair | Rozpacz | 11 | |
+| Science | Wiedza | 12 | dawn. „nauka, wiedza” |
+| Passions | Namiętności | 12 | |
+| Anger / Fear / Shame | Gniew / Strach / Wstyd | 12 | |
+| Love | Miłość | 12 | |
+| Jealousy / Envy | Zazdrość / Zawiść | 12 | nie mylić |
+| Care / Sorrow | Troska / Smutek | 12 | |
+| Scorn / Infamy | Wzgarda / Hańba | 12 | |
+| Falsehood | Fałsz | 12 | |
+| Unkindness | Chłód | 12 | |
+| Remorse | Wyrzut | 12 | |
+| Madness | Szał | 12 | |
+| Age | Starość | 12 | |
+| Father Thames | Ojciec Tamiza | 12 | w wołaczu „Ojcze Tamizo” |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |

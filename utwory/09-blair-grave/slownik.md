@@ -397,3 +397,59 @@
 649 | to defraud | pozbawić podstępem
 651 | to whet | ostrzyć
 653 | caterers | dostawcy żywności
+655 | interest | odsetki, procent
+657 | restitution | zwrot, przywrócenie
+658 | diffusive | rozlewający się, szeroko sięgający
+658 | trump | (poet.) trąba
+659 | strong-lung'd | o mocnych płucach
+659 | cherub | cherub, anioł
+659 | to alarm | (dawn.) wzywać do broni; budzić
+663 | mines | (dawn.) kruszce, rudy (zob. przypisy)
+664 | immur'd | = immured, zamurowany
+665 | crucible | tygiel
+667 | inquisition | badanie, przesłuchanie
+669 | to foil | pokonać, udaremnić
+670 | self-vigorous | własną mocą
+673 | releasement | (dawn.) uwolnienie
+673 | thrall | niewola
+674 | to sojourn | przebywać, gościć
+676 | slow-assenting | oporny, wolno dający się przekonać
+677 | scruple | wątpliwość, skrupuł
+680 | severing | rozstępujący się, rozdzielający
+682 | jaded | znużony, zmęczony
+683 | portals | wrota, bramy
+685 | to procure | wyjednać, uzyskać
+686 | train | orszak, świta
+691 | by-road | boczna droga
+692 | ill-condition'd | niesforny, krnąbrny
+693 | to start | wzdrygać się, wzdragać się
+696 | unwith'ring | = unwithering, niewiędnący
+698 | even | (poet.) wieczór
+699 | riv'let | = rivulet, strumyk
+700 | to stem | przebrnąć, iść pod prąd
+704 | inoffensive | niewinny, nieszkodliwy
+709 | prodigious | cudowny, niezwykły
+710 | bane | zguba, zatrata
+711 | fellness | (dawn.) srogość, okrucieństwo (zob. Źródła)
+712 | to scourge | wychłostać, wypędzić biczem
+716 | evening-tide | (poet.) pora wieczorna
+718 | to upbraid | wyrzucać, łajać
+718 | green | (przen.) młodość, zielone lata
+723 | hamper'd | = hampered, skrępowany
+725 | first fruits | pierwociny
+728 | nought | (dawn.) nic
+731 | uncrown'd | = uncrowned, niespełniony
+731 | lag | ociągający się, opieszały
+733 | to sunder | rozdzielać, rozłączać
+738 | inviolate | nienaruszony
+740 | to embezzle | sprzeniewierzyć
+740 | tale | (dawn.) liczba, rachunek
+741 | furnish'd | = furnished, wyposażony, gotowy
+742 | profane | bezbożny, niewtajemniczony
+744 | to rear | wznieść
+754 | conscious | świadomy; (dawn.) zawstydzony
+756 | to single | wyróżnić, wypatrzyć
+764 | shut | (dawn.) zamknięcie; *shut of even* – zmierzch
+765 | brake | gąszcz, zarośla
+766 | to cower | przycupnąć, skulić się
+767 | well-fledg'd | = well-fledged, dobrze opierzony

@@ -61,6 +61,7 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Strength | Siła | 9 | |
 | Sin | Grzech | 9 | wielką literą w apostrofie, małą w toku wywodu (jak w oryginale) |
 | Hunger | Głód | 9 | |
+| Deliverer (= Chrystus) | Wybawca | 9 | |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |

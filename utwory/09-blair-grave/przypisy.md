@@ -46,7 +46,7 @@ tytuł | Na stronie tytułowej pierwodruku (1743) stoi motto z Księgi Hioba 30,
 346 | „Odarty z bogów”: Sdz 18,24 (KJV: *Ye have taken away my gods which I made […] and what have I more?*). Bogami skąpca są jego pieniądze.
 350–351 | Syr 41,1 (KJV: *O death, how bitter is the remembrance of thee to a man that liveth at rest in his possessions*).
 355 | „Gliniany dom”: ciało. Por. Hi 4,19 (KJV: *them that dwell in houses of clay*).
-369–381 | Rozstanie duszy z ciałem to temat jednej z najsłynniejszych rycin Blake'a do „Grobu”: *The Soul hovering over the Body reluctantly parting with Life* (1808).
+369–381 | Rozstanie duszy z ciałem to temat jednej z najsłynniejszych rycin Blake'a do „Grobu”: *The Soul hovering over the Body* („Dusza unosząca się nad ciałem”, 1808).
 381 | „Dzban stłuczony”: Koh 12,6 (KJV: *or the pitcher be broken at the fountain*).
 382–430 | Fragment o samobójstwie. W XVIII wieku cudzoziemcy uważali samobójstwo za przypadłość szczególnie angielską, „chorobę angielską”. Por. tytuł traktatu G. Cheyne'a *The English Malady* (1733), poświęconego melancholii i chorobom nerwowym.
 394 | „Tysiąc drzwi Śmierci”: topos stoicki. Seneka, *Fenicjanki* (*mille ad hanc aditus patent*, „tysiąc wejść do niej stoi otworem”) **[do weryfikacji: numer wersu]**; Webster, *Księżna Amalfi* IV 2 (*death hath ten thousand several doors*).
@@ -79,3 +79,20 @@ tytuł | Na stronie tytułowej pierwodruku (1743) stoi motto z Księgi Hioba 30,
 628 | „Sine zarazy”: dżuma i inne zarazy z sinymi plamami na skórze.
 634–635 | „Nagość ojca”: Rdz 9,22–23. Cham ujrzał nagość pijanego Noego, a jego bracia ją okryli. Poeta wstydzi się, że zbyt wiele powiedział o winie praojca, Adama.
 639–653 | Śmierć jako nienasycony żarłok. Por. Milton, *Raj utracony* X 597 nn., gdzie Śmierć skarży się na wieczny głód.
+654–661 | Zmartwychwstanie: Ap 20,13 (KJV: *death and hell delivered up the dead which were in them*). Trąba: 1 Kor 15,52 (KJV: *for the trumpet shall sound, and the dead shall be raised incorruptible*).
+661 | Półwers, jak w oryginale.
+662–667 | Kruszce dojrzewające pod ziemią: dawna wiara, że metale „rosną” i dojrzewają w łonie ziemi. Srebro próbowane w ogniu: por. Ps 66,10 (KJV: *thou hast tried us, as silver is tried*).
+668–677 | Zmartwychwstanie Chrystusa i czterdzieści dni na ziemi: Dz 1,3 (KJV: *he shewed himself alive after his passion by many infallible proofs, being seen of them forty days*).
+672 | „Łup”: ciało Chrystusa, które sam dobrowolnie oddał śmierci. Por. J 10,18 (KJV: *No man taketh it from me, but I lay it down of myself*).
+678–682 | Wniebowstąpienie: Dz 1,9.
+686–687 | J 14,3 (KJV: *that where I am, there ye may be also*).
+698–706 | Chłopiec nad strumieniem: lęk przed śmiercią przypomina lęk dziecka przed zimną wodą. Kwiaty na drugim brzegu to raj.
+710–712 | Śmierć rozbrojona, pozbawiona jadu: por. 1 Kor 15,55 (KJV: *O death, where is thy sting?*).
+712–713 | Ps 37,37 (KJV: *Mark the perfect man, and behold the upright: for the end of that man is peace*).
+720 | Słońce wydaje się większe przy zachodzie: złudzenie znane od starożytności.
+729 | „Paszport”: zgoda na podróż. Śmierć to pozwolenie na odjazd do niebieskiej ojczyzny. O błędzie druku w tym wersie zob. Źródła.
+734–749 | Zmartwychwstanie ciał. Każda drobina wróci do swego ciała, co było przedmiotem sporów teologów XVII i XVIII wieku.
+742 | „Precz, bezbożni!”: echo formuły z misteriów, którą zna Wergiliusz (*Eneida* VI 258: *procul, o procul este, profani*).
+743–746 | Por. 1 Kor 15,35 (KJV: *How are the dead raised up? and with what body do they come?*).
+762–763 | Grób jako łoże w ciemności: por. Hi 17,13 (KJV: *the grave is mine house: I have made my bed in the darkness*).
+764–767 | Poemat zamyka rymowana para (*day – away*). W przekładzie zachowano rym: „świtu – błękitu”. Ptak, który nocuje w gąszczu i o świcie odlatuje, to obraz duszy zasypiającej w śmierci i budzącej się do zmartwychwstania.

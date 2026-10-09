@@ -1,6 +1,6 @@
 # Status prac
 
-Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. W toku: poz. 9 Blair, „Grób” – tekst EN gotowy (767 w.), przekład partie 1–3 (w. 1–653) do korekty; dalej partia 4, wstęp i motto.
+Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. Poz. 9 Blair, „Grób” (767 w.) gotowy do korekty. Następny: rozdział III (Gray), poz. 10–13.
 
 **Legenda:** ✓ zrobione · ~ częściowo / do weryfikacji · – nie zaczęte · K = czeka na korektę Tomka
 
@@ -23,7 +23,7 @@ Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 | 6 | Parnell, A Night-Piece on Death | ✓ 90 w. | ✓ (–) | ~ | ✓ | ✓ | ✓ | ~ | ✓ |
 | 7 | Parnell, The Hermit | ✓ 249 w. (1722) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |
 | 8 | Young, Night Thoughts (Noc I; Noc III, w. 111–188) | ✓ 460 + 78 w. (ECPA) | ✓ (Y) | ✓ | ✓ | ✓ | ✓ | ~ | K |
-| 9 | Blair, The Grave | ✓ 767 w. (1743 wg ECPA) | ~ (–) | – | ~ 1–653 | ~ 1–653 | – | ~ | K (partie 1–3) |
+| 9 | Blair, The Grave | ✓ 767 w. (1743 wg ECPA) | ~ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |
 | 10 | Gray, Sonnet on the Death of Mr Richard West | – | – | – | – | – | – | – | – |
 | 11 | Gray, Hymn to Adversity | – | – | – | – | – | – | – | – |
 | 12 | Gray, Ode on a Distant Prospect of Eton College | – | – | – | – | – | – | – | – |
@@ -67,7 +67,7 @@ Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 - Poz. 1: polskie przekłady sprawdzone tylko wyszukiwarką; Polona/NUKAT/Barańczak do sprawdzenia. Ilustracja: akwarele Blake'a do „Il Penseroso”, do weryfikacji.
 - Poz. 7: polskie przekłady „Zadiga” (rozdz. „Pustelnik”) do sprawdzenia; ilustracja – drzeworyty Bewicków (1795), sprawdzić skany.
 - Poz. 8: tekst wg ECPA (wyd. 1859) – porównać z pierwodrukiem 1742–1745; fragment Nocy III porównać ponownie z ECPA; Filander = Henry Temple?; daty ślubu i śmierci Narcyzy; źródło cytatu w w. 370; Seneka *Ep.* 13,16 (w. 400); egzemplarz Dmochowskiego (1798) w Polonie do aneksu; skany rycin Blake'a (1797).
-- Poz. 9: lekcje sporne w. 76, 603, 711 (zob. `zrodlo.md`); sprawdzić polskie przekłady (Polona, FBC); wstęp, motto i research po ostatniej partii.
+- Poz. 9: lekcje sporne w. 76, 603, 711 (zob. `zrodlo.md`); data śmierci Blaira (1746 czy 1747); polskie przekłady (Polona, FBC); numery wersów: Seneka, *Fenicjanki* (w. 394), Pindar (w. 475); ilustracja – skany rycin Schiavonettiego/Blake'a (1808).
 - Wstęp ogólny: po przekładach uzupełnić odwołania do konkretnych utworów.
 
 ### Poz. 6

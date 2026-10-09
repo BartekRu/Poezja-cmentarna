@@ -25,4 +25,11 @@
 - Przekład roboczy wykonano samodzielnie, bezpośrednio z angielskiego.
 
 ## Research do wstępu i przypisów
-- *[uzupełnić przy ostatniej partii: biografia Blaira, okoliczności wydania, ilustracje Blake'a 1808, recepcja]*
+- Britannica, „Robert Blair” (ur. 1699 w Edynburgu, studia w Edynburgu i Holandii, święcenia 1731, Athelstaneford, zm. 4 II 1746; ocena stylu; 12 ilustracji Blake'a do wyd. 1808): https://www.britannica.com/print/article/68754
+- A. Chalmers, *General Biographical Dictionary* (1812–1817), hasło „Blair, Robert” (ojciec David Blair; Watts i dwaj księgarze; list do Doddridge'a; Hervey; kuzyn Hugh Blair; syn – Lord President; data śmierci 1747): https://words.fromoldbooks.org/Chalmers-Biography/b/blair-robert.html
+- E. Kasperski, „O poezji cmentarnej (graveyard poetry) – Robert Blair i Edward Young”, *Prace Filologiczne. Literaturoznawstwo* 2012, nr 2(5), s. 187–191 (powstanie ok. 1742, porównanie z Youngiem): https://journals.polon.uw.edu.pl/index.php/pfl/article/download/265/274
+- Wydanie z rycinami Blake'a: *The Grave, a Poem… Illustrated by Twelve Etchings…*, London: T. Bensley for R. H. Cromek, 1808; ryciny L. Schiavonettiego według projektów W. Blake'a (opisy egzemplarzy: Royal Academy, Morgan Library): https://www.royalacademy.org.uk/art-artists/book/the-grave-a-poem-by-robert-blair-illustrated-by-twelve-etchings-executed ; https://www.themorgan.org/print/426991
+- Cytaty biblijne w przypisach według King James Version.
+
+## Motto
+- T. Browne, *Hydriotaphia, Urne-Buriall*, London 1658, rozdz. 5; transkrypcja EEBO-TCP A77689: https://github.com/textcreationpartnership/A77689

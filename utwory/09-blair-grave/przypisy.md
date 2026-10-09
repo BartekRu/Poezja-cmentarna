@@ -29,3 +29,28 @@ tytuł | Na stronie tytułowej pierwodruku (1743) stoi motto z Księgi Hioba 30,
 190–199 | Piramida, jeden z siedmiu cudów świata, jako przykład pomnika, który miał zapewnić wieczną pamięć.
 201 | Czas jest u Blaira rodzaju żeńskiego (*her cank'ring hand*). W przekładzie zgodnie z polszczyzną: „jego ręka”.
 204 | *Busto*: włoskie „popiersie”, słowo modne w angielszczyźnie XVIII wieku.
+208–231 | Tyrani w grobie: wielcy zdobywcy i drobni panowie, zrównani z poddanymi. Stary motyw tańca śmierci (*danse macabre*): Śmierć zrównuje wszystkie stany.
+219–220 | Pan włości „których geograf nie dostrzegł”: drobny posiadacz, który rządzi jak król na swoim skrawku ziemi. Blair, szkocki pastor, mógł myśleć o szkockich *lairdach* i ich dziedzicznej władzy sądowniczej **[interpretacja]**.
+228 | „Robaka zwie krewnym”: Hi 17,14 (KJV: *to the worm, Thou art my mother, and my sister*).
+237–256 | Piękność w grobie: robak na twarzy pięknej kobiety to stały motyw *memento mori*. Por. *Hamlet* V 1, nad czaszką Yoricka: niech pani maluje się na cal grubo, i tak skończy z taką twarzą.
+246 | Tłusty czerw: por. *Hamlet* IV 3 (*Your worm is your only emperor for diet*), „robak to jedyny cesarz stołu”.
+257–285 | Siłacz: zapaśnik z wiejskich zawodów, zmożony zwykłą chorobą. Wiejski „krąg” (w. 258) to miejsce zapasów na festynach.
+278 | Goliat: filistyński olbrzym zabity przez Dawida (1 Sm 17). *Goliah* to dawna angielska pisownia.
+280–285 | Byk nie zna własnej siły i ucieka przed człowiekiem, choć ten, świadom słabości ramienia, ufa tylko nożowi. Siła sama w sobie nic nie znaczy.
+286–296 | Astronom z teleskopem. W. 296: Koh 9,10 (KJV: *there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest*).
+297–318 | Mówca, adwokat albo kaznodzieja. *Action* (w. 308) to gest i postawa mówcy (łac. *actio*), *period* (w. 309) to okres retoryczny, czyli rozbudowane, wielozdaniowe zdanie.
+305 | *Chop-fall'n*: z opadłą szczęką. Por. *Hamlet* V 1, o czaszce Yoricka (*quite chap-fallen*).
+313–316 | Satyra na najemnych autorów epitafiów i mów pogrzebowych: „długa, płaska proza” i kulawe rymy na nagrobkach.
+319–336 | Lekarze. *Juleps*: słodkie mikstury; *catholicons*: leki „na wszystko”. Eskulap (Asklepios), grecki bóg medycyny; „syn Eskulapa” to lekarz.
+325–330 | Dawna farmacja: zbieranie roślin, owadów i węży na leki i destylowanie ich w ogniu („dręczenie w ogniu”).
+346 | „Odarty z bogów”: Sdz 18,24 (KJV: *Ye have taken away my gods which I made […] and what have I more?*). Bogami skąpca są jego pieniądze.
+350–351 | Syr 41,1 (KJV: *O death, how bitter is the remembrance of thee to a man that liveth at rest in his possessions*).
+355 | „Gliniany dom”: ciało. Por. Hi 4,19 (KJV: *them that dwell in houses of clay*).
+369–381 | Rozstanie duszy z ciałem to temat jednej z najsłynniejszych rycin Blake'a do „Grobu”: *The Soul hovering over the Body reluctantly parting with Life* (1808).
+381 | „Dzban stłuczony”: Koh 12,6 (KJV: *or the pitcher be broken at the fountain*).
+382–430 | Fragment o samobójstwie. W XVIII wieku cudzoziemcy uważali samobójstwo za przypadłość szczególnie angielską, „chorobę angielską”. Por. tytuł traktatu G. Cheyne'a *The English Malady* (1733), poświęconego melancholii i chorobom nerwowym.
+394 | „Tysiąc drzwi Śmierci”: topos stoicki. Seneka, *Fenicjanki* (*mille ad hanc aditus patent*, „tysiąc wejść do niej stoi otworem”) **[do weryfikacji: numer wersu]**; Webster, *Księżna Amalfi* IV 2 (*death hath ten thousand several doors*).
+398–402 | Argument w duchu monologu Hamleta (*Hamlet* III 1): to lęk przed tym, co po śmierci, powstrzymuje rękę samobójcy.
+403–404 | „Hańba naszej wyspy”: Wielka Brytania. Zob. przypis do w. 382–430.
+417 | Hi 14,5 (KJV: *Seeing his days are determined, the number of his months are with thee*).
+421–422 | Porównanie z wartownikiem to stary argument przeciw samobójstwu: nie wolno opuścić posterunku bez rozkazu. Por. Platon, *Fedon* 62b; Cyceron, *Sen Scypiona*.

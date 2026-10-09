@@ -1,6 +1,6 @@
 # Status prac
 
-Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. W toku: poz. 9 Blair, „Grób” – tekst EN gotowy (767 w.), przekład partia 1 (w. 1–207) do korekty; dalej partie 2–4.
+Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. W toku: poz. 9 Blair, „Grób” – tekst EN gotowy (767 w.), przekład partie 1–2 (w. 1–430) do korekty; dalej partie 3–4.
 
 **Legenda:** ✓ zrobione · ~ częściowo / do weryfikacji · – nie zaczęte · K = czeka na korektę Tomka
 
@@ -23,7 +23,7 @@ Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 | 6 | Parnell, A Night-Piece on Death | ✓ 90 w. | ✓ (–) | ~ | ✓ | ✓ | ✓ | ~ | ✓ |
 | 7 | Parnell, The Hermit | ✓ 249 w. (1722) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | ~ | K |
 | 8 | Young, Night Thoughts (Noc I; Noc III, w. 111–188) | ✓ 460 + 78 w. (ECPA) | ✓ (Y) | ✓ | ✓ | ✓ | ✓ | ~ | K |
-| 9 | Blair, The Grave | ✓ 767 w. (1743 wg ECPA) | ~ (–) | – | ~ 1–207 | ~ 1–207 | – | ~ | K (partia 1) |
+| 9 | Blair, The Grave | ✓ 767 w. (1743 wg ECPA) | ~ (–) | – | ~ 1–430 | ~ 1–430 | – | ~ | K (partie 1–2) |
 | 10 | Gray, Sonnet on the Death of Mr Richard West | – | – | – | – | – | – | – | – |
 | 11 | Gray, Hymn to Adversity | – | – | – | – | – | – | – | – |
 | 12 | Gray, Ode on a Distant Prospect of Eton College | – | – | – | – | – | – | – | – |

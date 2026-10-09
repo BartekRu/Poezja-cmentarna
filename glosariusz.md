@@ -57,6 +57,8 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Friendship | Przyjaźń | 9 | |
 | Ambition | Ambicja | 9 | |
 | Honour | Honor | 9 | |
+| Beauty | Piękność | 9 | |
+| Strength | Siła | 9 | |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |

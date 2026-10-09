@@ -23,6 +23,7 @@ rozdzialy.md    rozdziały: `nr | tytuł | ilustracja otwierająca`
 glosariusz.md   stałe odpowiedniki EN → PL
 status.md       postęp prac i otwarte sprawy
 ustalenia.md    decyzje zmieniające instrukcję projektu
+ilustracje/     obrazy (rozdzial-I.jpg, 09-blair.jpg …) i zrodla.md; zasady w ilustracje/README.md
 materialy/      surowe teksty źródłowe przed opracowaniem (nie trafiają do buildu)
 build/          skrypt budujący wersję roboczą .docx
 .github/        GitHub Action: build przy każdym pushu

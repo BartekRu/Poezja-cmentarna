@@ -3,6 +3,7 @@
 ## Tekst angielski
 - **Źródło:** Pierwodruk 1744 w transkrypcji Jacka Lyncha; porównany słowo w słowo z ECCO-TCP K035739.000 (1744): https://jacklynch.net/Texts/enthusiast.html
 - **Liczba wersów:** 210 (10 akapitów)
+- **Weryfikacja liczby wersów (2026-10-09):** 210 potwierdzone w TCP (1744).
 - **Pochodzenie:** paczka oryginałów od Tomka (2026-10-09), sprawdzona przez Claude'a: zgodność ze spisem, kompletność, budowa strof, przegląd błędów OCR i długiego s.
 - **Stan:** tekst surowy. Usunięto tytuły, numerację strof i wcięcia; ujednolicono cudzysłowy. Pisownia źródła zachowana. Pełna korekta słowo w słowo przy przekładzie.
 

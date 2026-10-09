@@ -3,6 +3,7 @@
 ## Tekst angielski
 - **Źródło:** *The Works of William Mason*, t. I, 1811, s. 112–116; OCR porównany ze skanem (w paczce); zachowano pisownię *similies*: https://archive.org/details/worksofwilliamma01masoiala
 - **Liczba wersów:** 104 (26 strof po 4 w.)
+- **Weryfikacja liczby wersów (2026-10-09):** sprawdzona wewnętrznie: wszystkie 26 strof ma pełny układ rymów abab.
 - **Pochodzenie:** paczka oryginałów od Tomka (2026-10-09), sprawdzona przez Claude'a: zgodność ze spisem, kompletność, budowa strof, przegląd błędów OCR i długiego s.
 - **Stan:** tekst surowy. Usunięto tytuły, numerację strof i wcięcia; ujednolicono cudzysłowy. Pisownia źródła zachowana. Pełna korekta słowo w słowo przy przekładzie.
 

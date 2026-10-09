@@ -1,6 +1,6 @@
 # Status prac
 
-Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. Poz. 9 Blair, „Grób” (767 w.) oraz poz. 10–12 (Gray) gotowe do korekty. Następny: poz. 13, Elegia Graya. Oryginały poz. 14–43 w repo (surowe, z paczki Tomka; „~” = korekta słowo w słowo przy przekładzie).
+Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. Poz. 9 Blair, „Grób” (767 w.) oraz poz. 10–12 (Gray) gotowe do korekty. Następny: poz. 13, Elegia Graya. Oryginały poz. 14–43 w repo (surowe, z paczki Tomka; „~” = korekta słowo w słowo przy przekładzie). Liczby wersów 14–43 sprawdzone (zob. `zrodlo.md`). Ilustracje: zasady i lista miejsc w `ilustracje/README.md`; gotowe: rozdz. I.
 
 **Legenda:** ✓ zrobione · ~ częściowo / do weryfikacji · – nie zaczęte · K = czeka na korektę Tomka
 
@@ -44,7 +44,7 @@ Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 | 27 | Keate, Netley Abbey | ~ 200 w. (1769) | – | – | – | – | – | – | – |
 | 28 | T. Warton, Ode Written at Vale-Royal Abbey | ~ 92 w. (1854) | – | – | – | – | – | – | – |
 | 29 | Hervey, Meditations among the Tombs (fragm.) | ~ proza, całość (1789); fragment do wyboru | – | – | – | – | – | – | – |
-| 30 | Bourne, At an Open Grave | ~ 16 w. (1772); atrybucja? | – | – | – | – | – | – | – |
+| 30 | Bourne (?), On an Open Grave | ~ 16 w. (1772); atrybucja? | – | – | – | – | – | – | – |
 | 31 | Blamire, Written in a Churchyard… | ~ 84 w. (ECPA) | – | – | – | – | – | – | – |
 | 32 | Mason, Elegy … in South Wales | ~ 104 w. (1811) | – | – | – | – | – | – | – |
 | 33 | C. Smith, Sonnet XLIV | ~ 14 w. (ECPA) | – | – | – | – | – | – | – |
@@ -55,7 +55,7 @@ Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 | 38 | Percy, The Friar of Orders Gray | ~ 108 w. (Reliques) | – | – | – | – | – | – | – |
 | 39 | Chatterton, Mynstrelles Songe | ~ 60 w. (Gutenberg) | – | – | – | – | – | – | – |
 | 40 | T. Warton, The Suicide | ~ 102 w. (1854) | – | – | – | – | – | – | – |
-| 41 | Mason, Epitaph on Mrs. Mason | ~ 16 w. (Campbell) | – | – | – | – | – | – | – |
+| 41 | Mason, Epitaph on Mrs. Mason | ~ 16 w. (Campbell; 4 ost. w. Graya) | – | – | – | – | – | – | – |
 | 42 | Cowper, On the Receipt of My Mother's Picture | ~ 121 w. (1798 wg RPO) | – | – | – | – | – | – | – |
 | 43 | Cowper, The Castaway | ~ 66 w. (PF) | – | – | – | – | – | – | – |
 
@@ -69,7 +69,7 @@ Stan na: 2026-10-09. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 - Poz. 8: tekst wg ECPA (wyd. 1859) – porównać z pierwodrukiem 1742–1745; fragment Nocy III porównać ponownie z ECPA; Filander = Henry Temple?; daty ślubu i śmierci Narcyzy; źródło cytatu w w. 370; Seneka *Ep.* 13,16 (w. 400); egzemplarz Dmochowskiego (1798) w Polonie do aneksu; skany rycin Blake'a (1797).
 - Poz. 9: lekcje sporne w. 76, 603, 711 (zob. `zrodlo.md`); data śmierci Blaira (1746 czy 1747); polskie przekłady (Polona, FBC); numery wersów: Seneka, *Fenicjanki* (w. 394), Pindar (w. 475); ilustracja – skany rycin Schiavonettiego/Blake'a (1808).
 - Poz. 10–12: porównać z pierwodrukami (1747, 1753); polskie przekłady (Polona, Barańczak); West – syn lorda kanclerza Irlandii?; Petrarka 310 jako paralela sonetu; dokładne brzmienie ocen Johnsona; „pierwszy angielski wiersz Graya w druku” (Eton 1747).
-- Poz. 14–43: uwagi i decyzje do podjęcia w `zrodlo.md` każdego utworu. Najważniejsze: wybór fragmentu Thomsona (21) i Herveya (29, proza – build jeszcze jej nie obsługuje); atrybucja i tytuł Bourne'a (30); redakcja tekstu Cunninghama (18, 26), Wartona (16, 28, 40), Collinsa (17), Pope'a (20).
+- Poz. 14–43: uwagi i decyzje do podjęcia w `zrodlo.md` każdego utworu. Najważniejsze: wybór fragmentu Thomsona (21) i Herveya (29, proza – build jeszcze jej nie obsługuje); przypis o wątpliwym autorstwie Bourne'a (30); redakcja tekstu Cunninghama (18, 26), Wartona (16, 28, 40), Collinsa (17), Pope'a (20).
 - Wstęp ogólny: po przekładach uzupełnić odwołania do konkretnych utworów.
 
 ### Poz. 6

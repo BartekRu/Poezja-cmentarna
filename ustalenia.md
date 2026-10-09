@@ -2,6 +2,15 @@
 
 Decyzje Tomka zmieniające instrukcję projektu. Najnowsze na górze. Gdy instrukcja i ten plik się różnią, obowiązuje ten plik.
 
+## 2026-10-09
+
+1. **Oryginały poz. 14–43** dostarczył Tomek (paczka z tekstami), Claude je sprawdził i wgrał do `utwory/`. Teksty są surowe; korekta słowo w słowo przy przekładzie.
+2. **Fragmenty zostają:** Thomson, „Winter” (nr 21) – ok. 150 w.; Hervey (nr 29) – ok. 8 stron prozy. Wybór fragmentów przy przekładzie. W repo są pełne teksty.
+3. **Bourne (nr 30)** zostaje: „On an Open Grave” z wyd. 1772, z przypisem o wątpliwym autorstwie.
+4. **Liczby wersów** sprawdzone; różnią się od szacunków w spisie (§3), np. Grainger 256 (nie ~100), Beattie „Triumph” 212, epitafium Masona 16 (ostatnie 4 w. napisał Gray). Poz. 14–43 mają razem ok. 3460 w. zamiast ~3100: tom rośnie o ok. 360 w. Aktualne liczby: `status.md`.
+5. **Ilustracje:** folder `ilustracje/`, nazwy według miejsca w książce, opis każdego pliku w `ilustracje/zrodla.md`; zasady w `ilustracje/README.md`. Build wstawia obrazy w miejsce ramek.
+6. **Rozdz. I otwiera „Opactwo w dębowym lesie”** Friedricha (wybór Tomka); „Mnich nad morzem” przechodzi do rozdz. II.
+
 ## 2026-10-08
 
 1. **Repozytorium jedynym źródłem prawdy.** Pliki książki są tylko w `BartekRu/Poezja-cmentarna`. Dokumenty projektu na claude.ai nie przechowują kopii.

@@ -2,7 +2,8 @@
 // Układ tomu:
 //   Część pierwsza (polska): karta, motto, wstęp, przekład, przypisy – bez oryginału
 //   Część druga (angielska): oryginały w tej samej kolejności i numeracji
-//   Na końcu: Słownik dawnej angielszczyzny (zbierany z utwory/*/slownik.md), Źródła tekstów
+//   Na końcu: Słownik dawnej angielszczyzny (zbierany z utwory/*/slownik.md), Źródła tekstów i ilustracji
+//   Ilustracje: ilustracje/rozdzial-<nr>.jpg, ilustracje/<NN>-*.jpg; podpisy w ilustracje/zrodla.md
 // Uruchomienie: npm install && npm run build. Pliku .docx nie edytuj ręcznie.
 
 const fs = require("fs");
@@ -10,7 +11,7 @@ const path = require("path");
 const {
   Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell, WidthType,
   AlignmentType, BorderStyle, ShadingType, PageBreak, Header, Footer, PageNumber,
-  HeadingLevel, LevelFormat, VerticalAlign,
+  HeadingLevel, LevelFormat, VerticalAlign, ImageRun,
 } = require("docx");
 
 const ROOT = path.resolve(__dirname, "..");
@@ -102,6 +103,35 @@ function marker(text) {
   });
 }
 
+// --- ilustracje --------------------------------------------------------------
+// Plik w ilustracje/ zastępuje ramkę-znacznik. Podpis i źródło: tabela w ilustracje/zrodla.md.
+const IMG = path.join(ROOT, "ilustracje");
+const tableRows = (file) => (exists(file) ? read(file).split("\n") : [])
+  .map((l) => l.trim()).filter((l) => l.startsWith("|") && !/^\|[\s:|-]+$/.test(l))
+  .map((l) => l.replace(/^\||\|$/g, "").split("|").map((s) => s.trim())).slice(1);
+const imgMeta = Object.fromEntries(tableRows(path.join(IMG, "zrodla.md")).map(([plik, gdzie, podpis, zrodlo, licencja]) => [plik, { gdzie, podpis, zrodlo, licencja }]));
+function imgSize(buf) {
+  if (buf[0] === 0x89 && buf.toString("ascii", 1, 4) === "PNG") return { w: buf.readUInt32BE(16), h: buf.readUInt32BE(20), type: "png" };
+  for (let i = 2; i < buf.length;) {
+    if (buf[i] !== 0xff) { i++; continue; }
+    const m = buf[i + 1];
+    if (m >= 0xc0 && m <= 0xcf && ![0xc4, 0xc8, 0xcc].includes(m)) return { h: buf.readUInt16BE(i + 5), w: buf.readUInt16BE(i + 7), type: "jpg" };
+    i += 2 + buf.readUInt16BE(i + 2);
+  }
+  throw new Error("Nieobsługiwany format obrazu (tylko JPG i PNG)");
+}
+const findImage = (base) => (exists(IMG) ? fs.readdirSync(IMG).find((f) => new RegExp(`^${base}(-[^.]*)?\\.(jpe?g|png)$`, "i").test(f)) : undefined);
+function illustration(file, maxH) {
+  const buf = fs.readFileSync(path.join(IMG, file));
+  const { w, h, type } = imgSize(buf);
+  const s = Math.min(640 / w, maxH / h); // szerokość kolumny ≈ 640 px
+  const m = imgMeta[file];
+  return [
+    new Paragraph({ alignment: AlignmentType.CENTER, keepNext: true, spacing: { after: 120, line: 240, lineRule: "auto" }, children: [new ImageRun({ type, data: buf, transformation: { width: Math.round(w * s), height: Math.round(h * s) } })] }),
+    m && m.podpis ? new Paragraph({ alignment: AlignmentType.CENTER, children: runs(m.podpis, { size: 18, color: "6B5D45" }) }) : marker(`[do weryfikacji: brak wpisu dla ${file} w ilustracje/zrodla.md]`),
+  ];
+}
+
 const NONE = { style: BorderStyle.NONE, size: 0, color: "FFFFFF" };
 const NOB = { top: NONE, bottom: NONE, left: NONE, right: NONE };
 
@@ -191,7 +221,10 @@ function polishPoem(u) {
     for (const [w, t] of pipeRows(D("przypisy.md")))
       kids.push(new Paragraph({ children: [new TextRun({ text: /^(\d|[IVX]+\.\d)/.test(w) ? `w. ${w}. ` : `${w[0].toUpperCase() + w.slice(1)}. `, bold: true, size: 20 }), ...runs(t, { size: 20 })], spacing: { after: 80 }, alignment: AlignmentType.JUSTIFIED }));
   }
-  if (k.ilustracja) kids.push(marker(k.ilustracja));
+  const img = findImage(String(k.nr).padStart(2, "0"));
+  if (img && /frontispis/i.test(k.ilustracja || "")) kids.unshift(new Paragraph({ spacing: { before: 600 } }), ...illustration(img, 780), pageBreak());
+  else if (img) kids.push(new Paragraph({ spacing: { before: 360 } }), ...illustration(img, 600));
+  else if (k.ilustracja) kids.push(marker(k.ilustracja));
   return { properties: { page: PAGE }, ...runningHead(k.zywa_pagina || `${surname(k.autor)} · ${k.tytul_pl}`), children: kids };
 }
 
@@ -211,7 +244,9 @@ function englishPoem(u) {
 
 function chapterOpener(nr, ch, withIllustration) {
   const kids = [];
-  if (withIllustration) kids.push(new Paragraph({ spacing: { before: 2400 } }), marker(ch.il), pageBreak());
+  const img = withIllustration && findImage(`rozdzial-${nr}`);
+  if (img) kids.push(new Paragraph({ spacing: { before: 1800 } }), ...illustration(img, 800), pageBreak());
+  else if (withIllustration) kids.push(new Paragraph({ spacing: { before: 2400 } }), marker(ch.il), pageBreak());
   kids.push(new Paragraph({ spacing: { before: 4000 } }), center(nr, { font: TITLE, size: 72, color: MUTED }),
     new Paragraph({ alignment: AlignmentType.CENTER, heading: HeadingLevel.HEADING_1, children: [new TextRun({ text: ch.t, font: TITLE })] }));
   return { properties: { page: PAGE }, ...blankHead(), children: kids };
@@ -298,13 +333,18 @@ sections.push(dictionary(units));
 
 const back = [heading("Źródła tekstów", 1)];
 for (const u of units) if (exists(u.D("zrodlo.md"))) back.push(heading(`${u.k.nr}. ${u.k.autor}, ${u.k.tytul_en}`, 2), ...markdown(u.D("zrodlo.md"), true));
+const ilRows = Object.entries(imgMeta);
+if (ilRows.length) {
+  back.push(heading("Źródła ilustracji", 1));
+  for (const [plik, m] of ilRows) back.push(new Paragraph({ spacing: { after: 100 }, children: [...runs(`${m.gdzie}: `, { bold: true, size: 20 }), ...runs(`${m.podpis}. Źródło: ${m.zrodlo}. ${m.licencja}.`, { size: 20 })] }));
+}
 sections.push({ properties: { page: PAGE }, ...runningHead("Źródła tekstów"), children: back });
 
 const doc = new Document({
   creator: "Claude (przekład roboczy) / Tomek (redakcja)",
   title: "Angielska poezja cmentarna — wersja robocza",
   styles: {
-    default: { document: { run: { font: BODY, size: 23 }, paragraph: { spacing: { line: 276 } } } },
+    default: { document: { run: { font: BODY, size: 23 }, paragraph: { spacing: { line: 276, lineRule: "auto" } } } },
     paragraphStyles: [
       { id: "Heading1", name: "Heading 1", basedOn: "Normal", next: "Normal", quickFormat: true, run: { size: 40, font: TITLE }, paragraph: { spacing: { after: 120 }, outlineLevel: 0 } },
       { id: "Heading2", name: "Heading 2", basedOn: "Normal", next: "Normal", quickFormat: true, run: { size: 28, font: TITLE, smallCaps: true, color: "4A3F2C" }, paragraph: { spacing: { before: 280, after: 120 }, outlineLevel: 1 } },

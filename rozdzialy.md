@@ -1,5 +1,5 @@
-I | Prolog | [ILUSTRACJA – otwarcie rozdziału, lewa strona: C. D. Friedrich, „Mnich nad morzem” (1808–10); do weryfikacji na Wikimedia Commons]
-II | Ojcowie założyciele | [ILUSTRACJA – otwarcie rozdziału, lewa strona: C. D. Friedrich, „Opactwo w dębowym lesie” (1809–10); do weryfikacji na Wikimedia Commons]
+I | Prolog | [ILUSTRACJA – otwarcie rozdziału: C. D. Friedrich, „Opactwo w dębowym lesie” (1809–10); plik ilustracje/rozdzial-I.jpg]
+II | Ojcowie założyciele | [ILUSTRACJA – otwarcie rozdziału: C. D. Friedrich, „Mnich nad morzem” (1808–10); plik ilustracje/rozdzial-II.jpg]
 III | Gray | [ILUSTRACJA – otwarcie rozdziału, lewa strona: R. Bentley, „Designs for Six Poems by Mr. T. Gray” (1753) albo akwarela Blake'a; do wyboru]
 IV | Noc i melancholia | [ILUSTRACJA – otwarcie rozdziału, lewa strona: C. D. Friedrich, „Dwaj mężczyźni kontemplujący księżyc” (1819–20)]
 V | Samotność i natura | [ILUSTRACJA – otwarcie rozdziału, lewa strona: C. D. Friedrich, „Zimowy pejzaż z kościołem” (1811)]

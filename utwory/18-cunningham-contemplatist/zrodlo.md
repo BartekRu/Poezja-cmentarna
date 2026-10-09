@@ -3,6 +3,7 @@
 ## Tekst angielski
 - **Źródło:** J. Cunningham, *Poems, chiefly pastoral*, London 1766 (ECCO-TCP K093533.000): https://github.com/textcreationpartnership/K093533.000
 - **Liczba wersów:** 148 (37 strof po 4 w.)
+- **Weryfikacja liczby wersów (2026-10-09):** 148 potwierdzone w dwóch wydaniach TCP (1762: 38 strof, ostatnia usunięta w 1766).
 - **Pochodzenie:** paczka oryginałów od Tomka (2026-10-09), sprawdzona przez Claude'a: zgodność ze spisem, kompletność, budowa strof, przegląd błędów OCR i długiego s.
 - **Stan:** tekst surowy. Usunięto tytuły, numerację strof i wcięcia; ujednolicono cudzysłowy. Pisownia źródła zachowana. Pełna korekta słowo w słowo przy przekładzie.
 

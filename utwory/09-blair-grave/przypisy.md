@@ -54,3 +54,28 @@ tytuł | Na stronie tytułowej pierwodruku (1743) stoi motto z Księgi Hioba 30,
 403–404 | „Hańba naszej wyspy”: Wielka Brytania. Zob. przypis do w. 382–430.
 417 | Hi 14,5 (KJV: *Seeing his days are determined, the number of his months are with thee*).
 421–422 | Porównanie z wartownikiem to stary argument przeciw samobójstwu: nie wolno opuścić posterunku bez rozkazu. Por. Platon, *Fedon* 62b; Cyceron, *Sen Scypiona*.
+431–446 | Prośba do zmarłych o wyjawienie tajemnicy. Wierzono, że dusze zmarłych zapowiadają śmierć stukaniem albo zjawami.
+443 | Lampy w grobowcach: legenda o wiecznych lampach, które płonęły w starożytnych grobach i oświetlały tylko zmarłych. Zob. nr 5, przypis do w. 20.
+450 | „Śmierć ma większość”: umarłych jest więcej niż żywych. Por. łacińskie *abiit ad plures*, „odszedł do większości” (Petroniusz, *Satyryki* 42).
+452–466 | Grabarz-pijak, spokrewniony z grabarzem z *Hamleta* (V 1), który śpiewa przy kopaniu i wyrzuca czaszki z ziemi.
+463 | *Catch*: kanon na kilka głosów, popularny w angielskich tawernach.
+469–471 | Długowieczni patriarchowie sprzed potopu. Matuzalem żył 969 lat (Rdz 5,27).
+475 | „Jednodniówki”: w oryginale *creatures of a day*, „istoty jednego dnia”. Por. Pindar, *Ody pytyjskie* VIII 95 (*epameroi*, „jednodniowi”) **[do weryfikacji: numer wersu]**.
+481–483 | Czas jak złodziej nocą: por. 1 Tes 5,2 (KJV: *the day of the Lord so cometh as a thief in the night*).
+486 | „Pełny kości zmarłych”: Mt 23,27 (KJV: *full of dead men's bones*), o grobach pobielanych.
+491–493 | Wszystkie ludy i wyznania na jednym cmentarzu świata. Islandczyk i Maur to krańce zimna i upału.
+494–495 | Faworyt, „stróż swego władcy, a ludowi biczem”: typ wszechwładnego ministra-faworyta, znany z dziejów Anglii **[interpretacja]**.
+498 | „Mistrzowie równowagi sił”: dyplomaci. Równowaga sił (*balance of power*) była naczelną zasadą brytyjskiej polityki zagranicznej XVIII wieku.
+505–506 | Hi 3,17 (KJV: *There the wicked cease from troubling; and there the weary be at rest*).
+513–516 | Biskup anglikański w rękawach z batystu i prosty prezbiter. Blair był szkockim pastorem prezbiteriańskim, a spór Kościoła episkopalnego z prezbiteriańskim dzielił Szkocję. Pojednanie w grobie dotyczy więc jego własnego świata **[interpretacja]**.
+518–519 | Dziecko zmarłe przy porodzie. Piędź: dawna miara długości, rozpiętość dłoni (ok. 20–23 cm).
+540 | „Sześć tysięcy lat”: wiek świata według ówczesnej chronologii biblijnej. Arcybiskup J. Ussher datował stworzenie na rok 4004 p.n.e.
+541–599 | Raj i upadek człowieka, opowiedziane za Księgą Rodzaju (Rdz 1–3) i za *Rajem utraconym* Miltona.
+543–544 | Człowiek stworzony na obraz Boga: Rdz 1,27. „Dobrze było”: Rdz 1,31.
+577 | Anioł z płomiennym mieczem u bram raju: Rdz 3,24.
+588–589 | Fraza o odwiedzinach aniołów, „krótkich i rzadkich”, przeszła do angielszczyzny. W postaci *like angel-visits, few and far between* spopularyzował ją Thomas Campbell w *The Pleasures of Hope* (1799).
+600–633 | Grzech jako potwór i rodzic wszelkiego zła. Por. Milton, *Raj utracony* II 746 nn., gdzie Grzech jest córką Szatana i matką Śmierci.
+609 | Mila (*league*): dawna miara, ok. trzech mil angielskich (ok. 4,8 km).
+628 | „Sine zarazy”: dżuma i inne zarazy z sinymi plamami na skórze.
+634–635 | „Nagość ojca”: Rdz 9,22–23. Cham ujrzał nagość pijanego Noego, a jego bracia ją okryli. Poeta wstydzi się, że zbyt wiele powiedział o winie praojca, Adama.
+639–653 | Śmierć jako nienasycony żarłok. Por. Milton, *Raj utracony* X 597 nn., gdzie Śmierć skarży się na wieczny głód.

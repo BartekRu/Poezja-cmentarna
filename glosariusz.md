@@ -59,6 +59,8 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Honour | Honor | 9 | |
 | Beauty | Piękność | 9 | |
 | Strength | Siła | 9 | |
+| Sin | Grzech | 9 | wielką literą w apostrofie, małą w toku wywodu (jak w oryginale) |
+| Hunger | Głód | 9 | |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
@@ -84,6 +86,7 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | wake | stypa (czuwanie przy zmarłym) | 9 | |
 | undertakers | mistrzowie pogrzebów, przedsiębiorcy pogrzebowi | 9 | |
 | screech-owl | sowa | 9 | płomykówka w słowniku |
+| sexton | grabarz | 9 | kościelny w słowniku |
 
 ## Inne
 | EN | PL | Od | Uwagi |

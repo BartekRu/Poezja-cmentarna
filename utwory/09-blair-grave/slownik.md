@@ -262,3 +262,138 @@
 427 | to blow o'er | przewiać, przeminąć
 428 | to venture | ważyć się, puszczać się (na coś)
 430 | frenzy | szał, obłęd
+433 | courteous | uprzejmy, grzeczny
+433 | to blab | wypaplać, wygadać
+436 | forewarn'd | = forewarned, przestrzeżony
+437 | alarum | (dawn.) = alarm, sygnał trwogi
+438 | stinted | skąpy, wydzielany
+442 | nice | (dawn.) trudny, wymagający precyzji
+443 | sepulchre | grobowiec
+446 | close | skryty, milczący
+447 | shafts | strzały, groty
+447 | swain | wieśniak, pasterz
+448 | pamper'd | = pampered, wypieszczony, utuczony
+449 | to put by | odsunąć, odłożyć
+451 | to lay to heart | brać sobie do serca
+453 | sexton | kościelny, grabarz
+453 | hoary-headed | siwowłosy
+455 | mattock | oskard, kilof
+460 | sot | pijak, opój
+461 | younker | (dawn.) młodzik, chłopak
+461 | green | błonie (wiejskie)
+462 | to club | (dawn.) dorzucać do wspólnej puli (tu: swoją opowieść)
+462 | smutty | sprośny
+463 | catch | kanon, piosenka biesiadna
+464 | to mind | baczyć, pamiętać
+469 | long livers | (dawn.) długowieczni (patriarchowie)
+470 | hale | zdrowy, krzepki
+470 | undegenerate | niezwyrodniały
+474 | sottish | ogłupiały (jak pijak), tępy
+475 | gamesome | swawolny, figlarny
+476 | to frolic | swawolić, igrać
+477 | unapprehensive | beztroski, niczego się nie obawiający
+477 | aught | (dawn.) cokolwiek
+478 | surge | fala, bałwan
+480 | unremitting | nieustający
+484 | unwall'd | = unwalled, nieogrodzony murem
+485 | spoils | łupy
+491 | Icelander | Islandczyk
+491 | Moor | Maur
+494 | favourite | faworyt
+495 | scourge | bicz, plaga
+496 | to huddle | zgarnąć, upchnąć byle jak
+496 | abash'd | = abashed, zawstydzony
+498 | masters of the balance | mistrzowie równowagi sił, dyplomaci
+499 | wiles | podstępy, fortele
+500 | to treat | pertraktować, układać się
+501 | o'erloaded | = overloaded, przeciążony
+502 | gall'd | = galled, obtarty, starty
+508 | tell-tale | plotkarski, zdradzający sekrety
+511 | unblasted | nietknięty, nieskalany (obmową)
+513 | lawn-rob'd | w szatach z batystu (o biskupie anglikańskim)
+513 | prelate | prałat, biskup
+513 | presbyter | prezbiter, duchowny (prezbiteriański)
+514 | erewhile | (dawn.) niegdyś, przedtem
+514 | aloof | z dala, na uboczu
+516 | interposing | stający na przeszkodzie
+518 | span | piędź
+519 | porch | przedsionek, kruchta
+521 | long-demurring | długo się ociągający (z zamążpójściem)
+522 | unappropriated | niczyj, nieprzywłaszczony
+523 | knot | kępa
+525 | prude | świętoszka
+525 | coquette | kokietka
+529 | garrulous | gadatliwy
+530 | lightsome | lekki, beztroski
+530 | vacant | wolny od trosk; pusty
+532 | shrew | jędza, sekutnica
+533 | turtle-dove | turkawka, synogarlica
+533 | chiding | łajanie, swary
+536 | downright | skończony, wierutny
+536 | clown | (dawn.) prostak, gbur
+537 | churl | cham, gbur
+538 | supple | giętki, uległy
+540 | lumber | rupiecie, graty
+547 | several | (dawn.) osobny, własny (każdy)
+548 | to offer | (dawn.) zabierać się do czegoś, próbować
+549 | fell | (poet.) okrutny, zgubny
+550 | castings-up | obliczenia, rachuby
+553 | importun'd | = importuned, proszony, naprzykrzany
+554 | luxuriant | bujny, obfity
+560 | slipp'ry | = slippery, śliski
+561 | vicissitude | zmienność, koleje losu
+563 | abject | nędzny, poniżony
+565 | far'd | = fared, wiodło się (komuś)
+565 | sire | (dawn.) ojciec; starzec
+566 | tenant | mieszkaniec, dzierżawca
+567 | to prove | (dawn.) doświadczyć, zaznać
+568 | straight | (dawn.) natychmiast, wnet
+570 | to compound for | okupić, wyrównać ugodą
+572 | fain | (dawn.) chętnie, rad by
+572 | to trifle | trwonić, marnować
+573 | to parley | pertraktować
+578 | loiterer | maruder, ociągający się
+579 | round | obchód
+581 | maim'd | = maimed, okaleczony
+586 | to speed | (dawn.) powieść się; szczęśliwie dotrzeć
+589 | far between | rzadkie, w dużych odstępach
+590 | hell-scap'd | = hell-escaped, zbiegły z piekła
+592 | mutinous | buntowniczy
+593 | to lord it | panoszyć się, rządzić się
+598 | vassalage | poddaństwo
+600 | havoc | spustoszenie
+603 | noxious | szkodliwy
+605 | circumscrib'd | = circumscribed, ograniczony
+608 | to involve | (dawn.) spowijać, okrywać
+608 | pitchy | smolisty
+609 | to mar | psuć, niszczyć
+609 | leagues | mile (dawna miara, zob. przypisy)
+610 | inundation | powódź, wylew
+611 | diffusive | rozlewający się, szeroko sięgający
+616 | to dispatch | uśmiercić, sprzątnąć
+619 | to blast | (o roślinach) porazić, zważyć
+619 | foodful | żywiący, obfitujący w pożywienie
+624 | temper | usposobienie, nastrój
+624 | malign | złośliwy, zgubny
+628 | bluest | najsinniejszy (o zarazie z sinymi plamami)
+628 | fiend | bies, diabeł
+629 | contagion | zaraza, zakażenie
+630 | deep-mouth'd | o głębokim głosie (jak ogar)
+633 | inly | (poet.) wewnętrznie, w duszy
+633 | to pine | usychać z tęsknoty, tęsknić
+634 | to discover | (dawn.) odkryć, odsłonić
+637 | filial | synowski
+637 | condolence | współczucie, żal
+639 | man-eater | ludożerca
+640 | sated | syty, nasycony
+641 | epicure | smakosz
+642 | veriest | (dawn.) największy, skończony
+642 | to cram | obżerać się, napychać się
+644 | to edge | zaostrzać
+646 | to gobble up | pożerać, połykać
+647 | to gorge | nasycić do syta
+648 | rapacious | drapieżny, chciwy
+648 | to gape | rozdziawiać paszczę, ziać
+649 | to defraud | pozbawić podstępem
+651 | to whet | ostrzyć
+653 | caterers | dostawcy żywności

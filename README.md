@@ -36,6 +36,8 @@ https://github.com/BartekRu/poezja-cmentarna/releases/download/robocza/antologia
 
 Lokalnie: `npm install`, potem `npm run build` (wynik w `wyjscie/`, poza repo). Build przerywa się, jeśli `en.txt` i `pl.txt` mają różny podział na akapity. Pliku .docx nie edytuj ręcznie: źródłem prawdy są pliki tekstowe.
 
+Wersja na czytnik (EPUB): `npm run epub` → `wyjscie/antologia-robocza.epub` (wymaga pandoc ≥ 3 i Pillow; fonty EB Garamond osadzane, jeśli są w `EPUB_FONTS` lub `~/.fonts/static`; data eksportu: zmienna `EKSPORT`).
+
 Docelowy skład do druku (A5, Typst) powstanie później.
 
 ## Korekta

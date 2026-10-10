@@ -107,6 +107,14 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Goodness | Dobro | 15 | |
 | Will | Wola | 15 | |
 | Justice (Boża) | Prawość | 15 | jak w nr 11 |
+| Mother of musings (= Contemplation) | Matka dumania | 16 | |
+| Smiles / Graces | Uśmiechy / Gracje | 16 | |
+| Mirth | Wesołość | 16 | z „L'Allegro” Miltona; nie „Radość” (*Joy*) |
+| Midnight | Północ | 16 | |
+| Genius of the night | Geniusz nocy | 16 | |
+| Hecat(e) | Hekate | 16 | |
+| Murder | Mord | 16 | w oryginale rodzaj żeński |
+| Euphrosyne | Eufrozyna | 16 | Gracja Wesołości |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
@@ -180,6 +188,11 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | sister-worm | siostra-czerw | 14 | Hi 17,14 |
 | magic glass | szkło czarów | 14 | latarnia magiczna (przypis) |
 | Archangel | Archanioł | 15 | |
+| charnels | kostnice | 16 | jak *charnel-house* (6) |
+| votaress / votaries | mniszka / słudzy, czciciele | 16 | |
+| Eloise / Eloisa | Heloiza | 16 | |
+| Busyrane | Busyran | 16 | Spenser |
+| Una | Una | 16 | Spenser |
 
 ## Do decyzji
 - (brak)

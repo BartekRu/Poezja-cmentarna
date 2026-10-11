@@ -130,6 +130,31 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Innocence | Niewinność | 18 | |
 | Integrity | Uczciwość | 18 | nie „Prawość” (= *Justice*, nr 11) |
 | Silence (siostra Snu) | Cisza | 18 | jak u Younga (8) |
+| Memory | Pamięć | 19 | |
+| Sorrow | Smutek | 19 | jak w nr 12 |
+| Doubt | Zwątpienie | 19 | |
+| Pain | Ból | 19 | jak w nr 8 |
+| Anguish | Męka | 19 | |
+| Contentment | Zadowolenie | 19 | jak *Content* (18) |
+| Quiet | Cisza | 19 | jak w nr 1 |
+| Seasons | Pory (roku) | 19 | |
+| Sickness | Choroba | 19 | jak *Disease* (8) |
+| Disappointment | Zawód | 19 | |
+| Oppression | Ucisk | 19 | |
+| Discord | Niezgoda | 19 | |
+| Liberty | Wolność | 19 | Bogini (Libertas) |
+| Hatred | Nienawiść | 19 | |
+| Terror | Trwoga | 19 | nie mylić z *Horror* (Zgroza) i *Fear* (Strach) |
+| Vengeance | Pomsta | 19 | |
+| Solitude | Samotność | 19 | |
+| Grief | Żal | 19 | |
+| Faction / Injury | Waśń / Krzywda | 19 | |
+| Fashion | Moda | 19 | |
+| Guilt | Wina | 19 | |
+| Gaiety | Wesele | 19 | odróżnione od *Mirth* (Wesołość) |
+| Hour (śmierci) | Godzina | 19 | |
+| Oblivion | Zapomnienie | 19 | jak *Forgetfulness* (13) |
+| Youth / Age | Młodość / Starość | 19 | |
 | Hebe / Venus / Bacchus | Hebe / Wenus / Bachus | 16 | |
 
 ## Słownictwo cmentarne i żałobne

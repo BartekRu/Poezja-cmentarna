@@ -1,6 +1,6 @@
 # Status prac
 
-Stan na: 2026-10-11. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. Poz. 9 Blair, „Grób” (767 w.) oraz poz. 10–13 (Gray) gotowe do korekty; rozdział III kompletny. Rozdz. IV: poz. 14–15 (Carter) gotowe do korekty; poz. 16 (T. Warton, 316 w.), 17 (Collins) i 18 (Cunningham) gotowe do korekty. Następny: poz. 19, Beattie, „The Triumph of Melancholy” (212 w.) – ostatni w rozdz. IV. Oryginały poz. 14–43 w repo (surowe, z paczki Tomka; „~” = korekta słowo w słowo przy przekładzie). Liczby wersów 14–43 sprawdzone (zob. `zrodlo.md`). Ilustracje: zasady, lista miejsc i ocena jakości w `ilustracje/README.md` i `ilustracje/zrodla.md`; wgrane rozdz. I–III i nr 1–10 (za małe: nr 5, 6, 10).
+Stan na: 2026-10-11. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. Poz. 9 Blair, „Grób” (767 w.) oraz poz. 10–13 (Gray) gotowe do korekty; rozdział III kompletny. Rozdz. IV: poz. 14–15 (Carter) gotowe do korekty; poz. 16–19 (Warton, Collins, Cunningham, Beattie) gotowe do korekty; rozdział IV kompletny. Następny: rozdz. V, poz. 20, Pope, „Ode on Solitude”. Oryginały poz. 14–43 w repo (surowe, z paczki Tomka; „~” = korekta słowo w słowo przy przekładzie). Liczby wersów 14–43 sprawdzone (zob. `zrodlo.md`). Ilustracje: zasady, lista miejsc i ocena jakości w `ilustracje/README.md` i `ilustracje/zrodla.md`; wgrane rozdz. I–III i nr 1–10 (za małe: nr 5, 6, 10).
 
 **Legenda:** ✓ zrobione · ~ częściowo / do weryfikacji · – nie zaczęte · K = czeka na korektę Tomka
 
@@ -33,7 +33,7 @@ Stan na: 2026-10-11. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 | 16 | T. Warton, The Pleasures of Melancholy | ✓ 316 w. (Dodsley 1763; porówn. z 1747) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
 | 17 | Collins, Ode to Evening | ✓ 52 w. (Dodsley 1763 = wersja 1748; porówn. z 1746) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
 | 18 | Cunningham, The Contemplatist | ✓ 148 w. (1766, TCP) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
-| 19 | Beattie, The Triumph of Melancholy | ~ 212 w. (ECPA) | – | – | – | – | – | – | – |
+| 19 | Beattie, The Triumph of Melancholy | ✓ 212 w. (Pearch 1770) | ✓ (–) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
 | 20 | Pope, Ode on Solitude | ~ 20 w. (PF) | – | – | – | – | – | – | – |
 | 21 | Thomson, Winter (fragment) | ~ 787 w. całość (1735, ECPA); fragment do wyboru | – | – | – | – | – | – | – |
 | 22 | Grainger, Solitude: An Ode | ~ 256 w. (ECPA) | – | – | – | – | – | – | – |
@@ -74,6 +74,7 @@ Stan na: 2026-10-11. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 - Poz. 16: czy Warton poprawiał tekst po 1763 (*Poems* 1777); anonimowość pierwodruku 1747; scena z Jaffeirem (w. 220); źródło obrazu Persepolis.
 - Poz. 17: w. 6 *in/on* – sprawdzić w wyd. Dodsleya 1748; „Pani Wieczoru” jako polski odpowiednik *Eve* – do akceptacji.
 - Poz. 18: porównać z pierwodrukiem 1762 (38. strofa); rymy niedokładne w kilku strofach.
+- Poz. 19: pierwodruk (1760 czy 1766); w. 31 *pain/paint*; tożsamość Filandra, Delii i Elizy; daty hr. Errolla; motto Słowackiego porównać z Wolnymi Lekturami.
 - Poz. 14–43: uwagi i decyzje do podjęcia w `zrodlo.md` każdego utworu. Najważniejsze: wybór fragmentu Thomsona (21) i Herveya (29, proza – build jeszcze jej nie obsługuje); przypis o wątpliwym autorstwie Bourne'a (30); redakcja tekstu Cunninghama (18, 26), Wartona (16, 28, 40), Collinsa (17), Pope'a (20).
 - Wstęp ogólny: po przekładach uzupełnić odwołania do konkretnych utworów.
 

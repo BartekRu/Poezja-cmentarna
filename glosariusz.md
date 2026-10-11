@@ -119,6 +119,17 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Melpomene | Melpomena | 16 | Muza tragedii |
 | Winter | Zima | 16 | |
 | Ruin | Ruina | 16 | „brat” Zgroza (*Horror*, nr 11) – rodzaj się nie zgadza, zob. przypis |
+| Eve / Evening (pers.) | Pani Wieczoru; dalej formy żeńskie | 17 | po polsku „wieczór” jest męski, u Collinsa nimfa |
+| Pensive Pleasures | Smętne Uciechy | 17 | *Pleasure* = Uciecha (8) |
+| Hours (Horae) | Hory | 17 | |
+| Spring / Summer / Autumn / Winter | Wiosna / Lato / Jesień / Zima | 17 | |
+| Health | Zdrowie | 17 | |
+| Moon (gdy rodzaj żeński) | Luna | 18 | gdy księżyc jest „ona”; inaczej „księżyc” |
+| Error / Truth | Błąd / Prawda | 18 | |
+| Content | Zadowolenie | 18 | |
+| Innocence | Niewinność | 18 | |
+| Integrity | Uczciwość | 18 | nie „Prawość” (= *Justice*, nr 11) |
+| Silence (siostra Snu) | Cisza | 18 | jak u Younga (8) |
 | Hebe / Venus / Bacchus | Hebe / Wenus / Bachus | 16 | |
 
 ## Słownictwo cmentarne i żałobne
@@ -202,6 +213,10 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | bird of woe | ptak boleści (= słowik) | 16 | |
 | Druid | druid | 16 | małą literą |
 | Sapphira | Safira | 16 | |
+| folding star | gwiazda pasterska | 17 | gwiazda wieczorna (Wenus) |
+| votress (u Collinsa) | mniszka | 17 | jak *votaress* (16) |
+| wand'ring fires | błędne ognie | 18 | *ignis fatuus* |
+| glow-worm | świetlik | 18 | jak w nr 3 |
 
 ## Do decyzji
 - (brak)

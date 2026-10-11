@@ -242,6 +242,8 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | votress (u Collinsa) | mniszka | 17 | jak *votaress* (16) |
 | wand'ring fires | błędne ognie | 18 | *ignis fatuus* |
 | glow-worm | świetlik | 18 | jak w nr 3 |
+| ease (= spokój, wypoczynek) | wczas | 20 | jak *Leisure* (1) |
+| acres (miara ziemi) | morgi | 20 | *paternal acres* → morgi rodowe |
 
 ## Do decyzji
 - (brak)

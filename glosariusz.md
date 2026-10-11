@@ -115,6 +115,11 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Hecat(e) | Hekate | 16 | |
 | Murder | Mord | 16 | w oryginale rodzaj żeński |
 | Euphrosyne | Eufrozyna | 16 | Gracja Wesołości |
+| Melody | Melodia | 16 | |
+| Melpomene | Melpomena | 16 | Muza tragedii |
+| Winter | Zima | 16 | |
+| Ruin | Ruina | 16 | „brat” Zgroza (*Horror*, nr 11) – rodzaj się nie zgadza, zob. przypis |
+| Hebe / Venus / Bacchus | Hebe / Wenus / Bachus | 16 | |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
@@ -193,6 +198,10 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Eloise / Eloisa | Heloiza | 16 | |
 | Busyrane | Busyran | 16 | Spenser |
 | Una | Una | 16 | Spenser |
+| dome (kościół) | tum, gmach | 16 | *dome* = katedra, gmach (nie „kopuła”), chyba że w znaczeniu kopuły |
+| bird of woe | ptak boleści (= słowik) | 16 | |
+| Druid | druid | 16 | małą literą |
+| Sapphira | Safira | 16 | |
 
 ## Do decyzji
 - (brak)

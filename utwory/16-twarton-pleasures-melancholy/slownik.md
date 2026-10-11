@@ -168,3 +168,158 @@
 162 | brocade | brokat
 164 | to pall | przejeść się, znudzić
 165 | feeble | słaby, nikły
+166 | Albion | (poet.) Anglia, Brytania
+166 | beauty-blooming | kwitnący pięknem
+167 | luckless | nieszczęsny
+169 | wont | (dawn.) zwykł, miał w zwyczaju
+170 | rapturous | upojny, zachwycający
+171 | assuasive | (dawn.) kojący, łagodzący
+171 | to bend one's step | skierować kroki
+172 | mead | (poet.) łąka
+174 | trill | tryl, trel
+174 | bird of woe | ptak boleści, tj. słowik
+175 | embowering | ocieniający, tworzący sklepienie z gałęzi
+176 | darksome | (poet.) mroczny
+177 | dullness | nuda, tępota
+177 | tedious | nużący
+178 | Fancy | (pers.) Fantazja, wyobraźnia
+178 | visionary | wyśniony, przywidziany
+179 | abstracted | pogrążony w myślach
+180 | lapse | (dawn.) spływ, bieg (wody)
+180 | entranced | zachwycony, jak w transie
+182 | thick-rang'd | = thick-ranged, gęsto ustawiony
+183 | team | zaprzęg
+184 | heifer | jałówka
+184 | brake | zarośla, gąszcz
+184 | to alarm | spłoszyć, zaniepokoić
+185 | illuded | (dawn.) zwiedziony, złudzony
+185 | to mar | zepsuć, zniweczyć
+186 | absence | rozłąka, nieobecność (ukochanej)
+186 | drear | (poet.) ponury, smutny
+187 | e'er since | = ever since, od czasu gdy
+189 | vi'let-woven | = violet-woven, utkany z fiołków
+190 | frolic | (przym., dawn.) swawolny, figlarny
+192 | to issue | wychodzić
+192 | gladsome | (poet.) radosny
+192 | glist'ring | = glistering, lśniący
+193 | genial | (dawn.) płodny, życiodajny
+194 | profane | niewtajemniczony, świecki
+196 | taper'd | oświetlony świecami
+196 | choir | chór (część kościoła)
+197 | according | zgodny, współbrzmiący
+198 | many-sounding | wielogłosy, rozgłośny
+198 | to peal | grzmieć, rozbrzmiewać
+199 | slow-dittyed | powoli śpiewany
+199 | chaunt | (dawn.) = chant, śpiew liturgiczny, chorał
+201 | lap'd | = lapped, spowity, otulony
+202 | sequester'd | = sequestered, ustronny
+202 | dome | (dawn.) gmach, katedra
+204 | to lengthen | przeciągać się, wydłużać
+205 | ravish'd | = ravished, porwany, zachwycony
+206 | expiring | gasnący
+208 | mansion | (dawn.) gmach, siedziba
+209 | due | punktualny, miarowy
+209 | sweepy | szeroko się wahający
+210 | momentary | chwilowy, trwający chwilę
+212 | thrillings | dreszcze (wzruszenia)
+213 | nurse | niańka, piastunka
+214 | stately | dostojny
+214 | pall | (dawn.) szata, płaszcz (tragika)
+216 | incestuous | kazirodczy
+217 | gaping | rozwarty, otwarty
+219 | reeking | dymiący, parujący
+219 | dreadly | (dawn.) straszny
+219 | draught | napój
+222 | misguided | ślepy, zbłąkany
+223 | by soft degrees | powoli, stopniowo
+223 | torrent | potok
+224 | swoln | = swollen, nabrzmiały
+225 | sympathizing | współczujący
+226 | gaudy | krzykliwy, jaskrawy
+227 | tinsel | blichtr, świecidełka
+227 | trappings | ozdoby, czapraki; atrybuty
+227 | pageant | widowisko, parada
+229 | wilds | dzicz, pustkowia
+230 | to pine | usychać, marnieć
+230 | hoar | siwy, sędziwy
+232 | ken | (dawn.) zasięg wzroku
+232 | to discover | (dawn.) ukazywać, odsłaniać
+232 | trackless | bezdrożny
+233 | car | (poet.) wóz
+235 | battlements | blanki, krenelaż
+236 | dome | (dawn.) gmach
+237 | turret | wieżyczka
+238 | inhospitable | niegościnny
+239 | chime | kurant, bicie zegara
+241 | potent | potężny, możny
+241 | Satrap | satrapa (namiestnik perski; możnowładca)
+244 | illustrious | świetny, wspaniały
+245 | to allure | wabić
+246 | impulse | poryw, bodziec
+247 | brow | (poet.) wierzchołek, krawędź (góry)
+249 | balmy | wonny
+250 | umbrage | (poet.) cień (liści)
+251 | unfading | niewiędnący, wiecznie zielony
+251 | vine-clad | porośnięty winoroślą
+252 | purple store | purpurowy zapas, tj. winogrona
+253 | prospect | widok, panorama
+253 | laps | łona; tu: rozległe płaszczyzny
+254 | glistering | lśniący
+254 | to tow'r | = to tower, wznosić się
+256 | sage-inspiring | natchniający mędrców
+256 | marge | (poet.) brzeg
+257 | thick-wove | gęsto spleciony
+257 | roseate | różany
+258 | empurpled | zabarwiony purpurą
+259 | hoary | siwy
+262 | arrangement | ułożenie, szyk
+263 | waste | pustkowie
+264 | blasted | rażony piorunem; zwiędły
+265 | Parian | paryjski, z marmuru z Paros
+265 | vaulted | sklepiony
+266 | horrid | (dawn.) zjeżony, najeżony (łac. *horridus*)
+266 | unpitying | bezlitosny
+267 | to flit | przemykać, fruwać
+268 | adder | żmija
+268 | train | (dawn.) ogon, tren
+270 | hallow'd | = hallowed, uświęcony
+270 | bounds | obręb
+271 | to spire | strzelać w górę
+272 | tradeful | (dawn.) handlowy, kupiecki
+273 | prostrate | powalony, leżący
+275 | to pierce | przenikać
+275 | spoils | łupy; szczątki
+276 | sunk | upadły, zatopiony
+277 | moles | (dawn., łac. *moles*) ogromne budowle, bryły
+277 | fanes | (dawn.) świątynie, chramy
+280 | saintly | święty, pobożny
+281 | embower'd | = embowered, ukryty w gąszczu
+283 | cypress | cyprys (gałąź żałobna)
+284 | votary | wyznawca, czciciel
+285 | to beguile | zwodzić, mamić
+286 | toys | fraszki, błahostki
+286 | wanton | swawolny
+287 | primrose | pierwiosnek
+288 | dimpled | z dołeczkami (w policzkach)
+288 | to bare | odsłaniać
+289 | enamour'd | = enamoured, zakochany
+291 | citron | cytryna, drzewo cytrynowe
+292 | nectar-streaming | ociekający nektarem
+292 | fruitage | owoce
+293 | low'ring | = lowering, chmurny
+294 | embattl'd | = embattled, w szyku bojowym
+296 | diffusive | rozlewający się, szeroko rozproszony
+298 | witless | bezmyślny, głupi
+298 | revels | biesiady, hulanki
+301 | auspicious | pomyślny, szczęsny
+303 | grot | (poet.) grota
+305 | fabling | bajający, opowiadający baśnie
+305 | boasted | sławiony, chełpliwy
+309 | piteous | litościwy
+310 | close | (dawn.) szczelny, zaciszny
+311 | to mark | dostrzec
+313 | babe | dziecię
+315 | wood-hung | porośnięty lasem (o brzegach)
+316 | to lave | (poet.) obmywać
+316 | haunt | ustronie, siedlisko
+316 | dashing | uderzający, pluszczący

@@ -7,10 +7,10 @@
 - **Wersja ostateczna:** czy Warton poprawiał tekst jeszcze w *Poems* (1777) i późniejszych wydaniach, nie sprawdzano **[do weryfikacji]**.
 - **Liczba wersów:** 316 (13 akapitów).
 - **Zasady edycji:**
-  - pisownia zmodernizowana: *stedfast* → *steadfast* (w. 9), *sooth* → *soothe* (w. 11, 170), *cloyster'd* → *cloister'd* (w. 39), *aweful* → *awful* (w. 57), *'till* → *till* (w. 58, 183), *iles* → *aisles* (w. 100, 202);
+  - pisownia zmodernizowana: *stedfast* → *steadfast* (w. 9, 280), *sooth* → *soothe* (w. 11, 169), *cloyster'd* → *cloister'd* (w. 39), *aweful* → *awful* (w. 57), *'till* → *till* (w. 58, 182, 200), *iles* → *aisles* (w. 100, 202), *dulness* → *dullness* (w. 177), *cloath* → *clothe* (w. 192), *unrejoycing* → *unrejoicing* (w. 229), *rouze* → *rouse* (w. 246), *obelisc* → *obelisk* (w. 263), *curfeu* → *curfew* (w. 282), *her's* → *hers* (w. 293), *embattel'd* → *embattl'd* (w. 294);
   - w. 117: *forceress* w transkrypcji to błąd odczytu długiego *ſ*, przyjęto *sorceress*;
   - kapitaliki źródła (*MOTHER*, *POPE'S*, *SPENSER'S*) oddane zwykłą pisownią;
-  - zachowano *Hecat* (forma szekspirowska), *conf'rence*, *clamors*, *rouze* oraz wielkie litery personifikacji.
+  - zachowano *Hecat* (forma szekspirowska), *Jaffeir* (pisownia Otwaya), *Euphrósyne* (akcent jak w źródle), *chaunt*, *dreadly*, *conf'rence*, *clamors* oraz wielkie litery personifikacji.
 - **Przypis w źródle** do w. 160 („Belinda. See Rape of the Lock”): omówiony w przypisach.
 
 ## Research
@@ -26,4 +26,4 @@
 
 ## Postęp przekładu
 - Partia 1: w. 1–165 (akapity 1–6), 2026-10-10.
-- Partia 2: w. 166–316 (akapity 7–13) **[do zrobienia]**.
+- Partia 2: w. 166–316 (akapity 7–13), 2026-10-11.

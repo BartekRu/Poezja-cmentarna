@@ -35,3 +35,34 @@ tytuł | W wydaniu bazowym podtytuł „Written in the Year 1745” („Napisane
 157–160 | Spenser, *The Faerie Queene*, ks. I, pieśń 3: Una, opuszczona przez Rycerza Czerwonego Krzyża, błąka się samotnie po pustkowiach.
 160–163 | Przypis w wydaniu bazowym: „Belinda. Zob. *The Rape of the Lock*”. U Pope'a, w pieśni II „Porwania pukla”, Belinda w całym blasku płynie łodzią po Tamizie. Belinda jest „naznaczona przez los”, bo czeka ją utrata pukla.
 164–165 | Manifest gustu Wartona: zob. wstęp.
+166 | Albion: dawna, poetycka nazwa Brytanii.
+174 | „Ptak boleści” (*bird of woe*): słowik, w mitologii Filomela, która opłakuje swój los. Por. „Il Penseroso” (nr 1), w. 56–64.
+178 | „Zjawa wybranki” (*the visionary fair*): ukochana, którą zakochany widzi w wyobraźni.
+188 | Safira: poetyckie imię ukochanej, zapewne zmyślone **[interpretacja]**. Mówiący mówi tu o sobie: rozłąka z nią nauczyła go melancholii.
+194 | „Dusze profanów”: niewtajemniczeni, por. Wergiliusz, *Eneida* VI 258: *procul este, profani* („precz, niewtajemniczeni”) **[interpretacja]**.
+196–205 | Nabożeństwo wieczorne w katedrze: por. „Il Penseroso” (nr 1), w. 155–166 (krużganki, witraże, organy i chór). „Tum”: dawne polskie słowo na katedrę (*dome*, od łac. *domus Dei*).
+206–210 | Zegar w pustej katedrze: fragment dodany w wersji poprawionej. Nie ma go w pierwodruku (1747).
+211–214 | Melpomena: Muza tragedii, przedstawiana w długiej szacie i koturnach. Por. „Il Penseroso” (nr 1), w. 97–98: Tragedia „w berłowym płaszczu”.
+215–216 | Monimia: bohaterka tragedii Thomasa Otwaya *The Orphan* („Sierota”, 1680). Potajemnie poślubiona Kastaliowi spędza noc z jego bratem bliźniakiem, który podszył się pod męża. Stąd „rozkosz kazirodcza”: miłość z bratem męża.
+217–219 | Szekspir, „Romeo i Julia”, akt V, sc. 3: Julia budzi się w grobowcu i całuje usta martwego Romea, by wypić resztę trucizny. W pierwodruku zamiast niej Kalista z tragedii Nicholasa Rowe'a *The Fair Penitent* (1703), która przebija się sztyletem.
+220 | Jaffeir: bohater tragedii Otwaya *Venice Preserv'd* („Ocalona Wenecja”, 1682). Zdradza spisek, a potem na kolanach błaga skazanego przyjaciela Pierre'a o przebaczenie **[do weryfikacji: scena]**.
+221–222 | Otello, „Maur” z tragedii Szekspira, który z zazdrości grozi Desdemonie i zabija ją.
+223–225 | „Męski potok łez”: XVIII-wieczny kult czułości (*sensibility*) uznawał łzy nad cudzym nieszczęściem za oznakę szlachetnego serca, także u mężczyzny.
+226–243 | Zesłaniec na Syberii: w latach 40. XVIII wieku Anglicy czytali o rosyjskich dostojnikach zsyłanych na Syberię po przewrotach pałacowych, np. Münnichu i Ostermannie (1742) **[interpretacja: konkretnej aluzji nie da się ustalić]**.
+241 | Satrapa: namiestnik prowincji w państwie perskim. Tu: możnowładca rosyjski, który został w Moskwie.
+246 | W pierwodruku: „nie budzą czującego serca” (*the feeling heart*). Wersja poprawiona (*th' unfeeling heart*) mówi, że wspaniałe widoki nie poruszą serca, które samo nic nie czuje.
+247–258 | Ateny widziane z góry Hymet (Hymettos), słynnej z miodu: gaje Akademii, gdzie nauczał Platon, oliwki święte dla Ateny, winnice. Ilissos: rzeka ateńska, nad którą Platon umieścił rozmowę w „Fajdrosie”, stąd „natchnienie mędrców”.
+259–278 | Persepolis: stolica królów perskich z dynastii Achemenidów, spalona przez Aleksandra Wielkiego w 330 r. p.n.e. Jej ruiny znano w XVIII wieku z relacji podróżników i rycin **[do weryfikacji: źródło Wartona]**.
+265 | Paros: wyspa na Morzu Egejskim, słynąca z białego marmuru.
+266–272 | Obraz ruin zarośniętych cierniem, w których mieszkają zwierzęta i zbójcy, przypomina proroctwa o zagładzie miast, np. Iz 34,13–15 **[interpretacja]**. „Głucha żmija” (*deaf adder*): Ps 58,5 (w numeracji KJV 58,4).
+277 | *Moles* (łac.): ogromne budowle, jak „Moles Hadriani” (mauzoleum Hadriana w Rzymie). W przekładzie „bryły”.
+278 | Zgroza (*Horror*) jest w oryginale „bratem” Ruiny. W przekładzie rodzaj gramatyczny się nie zgadza, ale zostawiamy odpowiednik z glosariusza (nr 11).
+279–284 | Apostrofa do Melancholii: por. „Il Penseroso” (nr 1), w. 31–44. Cyprys: drzewo żałobne. Wieniec z cyprysu naznacza „syna” Melancholii, tak jak wieniec laurowy naznacza poetę.
+282 | Wieczorny dzwon (*curfew*): zob. nr 1, w. 74 i nr 13, w. 1.
+285 | Eufrozyna: jedna z trzech Gracji, bogini wesela. U Miltona w „L'Allegro” to imię Wesołości (*Mirth*). Akcent w źródle (*Euphrósyne*) wskazuje wymowę.
+288–292 | Orszak Eufrozyny: Hebe, bogini młodości (podczaszy bogów), Wenus z Uśmiechami i Amorkami, Bachus w wieńcu z bluszczu.
+300–302 | Poemat zaczyna się i kończy na Kontemplacji (por. w. 1).
+303 | Kirra: port u stóp Parnasu, w pobliżu Delf. „Nimfy z groty pod Kirrą” to Muzy.
+305 | „Poeta-bajarz” (*the fabling Poet*): poeta opowiadający baśnie mitologiczne, w przeciwieństwie do poezji dumającej.
+306–316 | Legenda o Kontemplacji znalezionej przez druida jest najpewniej pomysłem Wartona **[interpretacja]**. Mona: łacińska nazwa wyspy Anglesey, ostatniej twierdzy druidów, zdobytej przez Rzymian w 60 r. n.e. (Tacyt, *Roczniki* XIV 29–30). Menai: cieśnina oddzielająca Anglesey od Walii.
+312–313 | W oryginale zmiana formy zwracania się do Kontemplacji: z *thee/thou* na *your/you*.

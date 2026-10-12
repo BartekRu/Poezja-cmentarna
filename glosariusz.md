@@ -156,6 +156,11 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Oblivion | Zapomnienie | 19 | jak *Forgetfulness* (13) |
 | Youth / Age | Młodość / Starość | 19 | |
 | Hebe / Venus / Bacchus | Hebe / Wenus / Bachus | 16 | |
+| Vapours / Clouds / Storms | Mgły / Chmury / Burze | 21 | orszak Zimy |
+| Vice | Występek | 21 | |
+| Benevolence | Życzliwość | 21 | odróżniona od *Charity* (Dobroczynność, nr 8) |
+| Worth | Zasługa | 21 | |
+| Moderation | Umiar | 21 | |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
@@ -187,6 +192,7 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | thorn | głóg | 13 | |
 | memorial | pomnik (nagrobny) | 13 | |
 | storied urn / animated bust | urna w rzeźbach / żywe popiersie | 13 | |
+| corse | zwłoki | 21 | poet. *corpse* |
 
 ## Inne
 | EN | PL | Od | Uwagi |
@@ -244,6 +250,8 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | glow-worm | świetlik | 18 | jak w nr 3 |
 | ease (= spokój, wypoczynek) | wczas | 20 | jak *Leisure* (1) |
 | acres (miara ziemi) | morgi | 20 | *paternal acres* → morgi rodowe |
+| the tuneful | śpiewacy (ptaki) | 21 | |
+| social passions / social tear | bratnie uczucia / bratnia łza | 21 | współczucie, nie „społeczne” |
 
 ## Do decyzji
 - (brak)

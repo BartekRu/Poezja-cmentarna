@@ -2,6 +2,10 @@
 
 Decyzje Tomka zmieniające instrukcję projektu. Najnowsze na górze. Gdy instrukcja i ten plik się różnią, obowiązuje ten plik.
 
+## 2026-10-12
+
+1. **Thomson, „Winter” (nr 21):** fragment „Zima i śmierć”, 145 w.: w. 1–16 (otwarcie), 256–339 (śmierć wieśniaka w śniegu i „Ah little think…”), 743–787 (zakończenie). Numeracja według wyd. 1735. Cały tekst zostaje w repo (`en-calosc-1735.txt`). Wydanie 1735 zamiast redakcji ostatecznej 1744/1746 – propozycja Claude'a (brak wiarygodnej kopii 1746), do akceptacji; różnice redakcji ostatecznej w `zrodlo.md` i przypisach.
+
 ## 2026-10-10
 
 1. **Tytuły *Night-Piece*:** „Obraz nocy” (Carter, nr 15; Cunningham, nr 18). Parnell (nr 6) zostaje przy „Nocnym rozmyślaniu o śmierci”, bo w tytule ma „on Death”.

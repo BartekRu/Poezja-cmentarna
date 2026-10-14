@@ -161,6 +161,24 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Benevolence | Życzliwość | 21 | odróżniona od *Charity* (Dobroczynność, nr 8) |
 | Worth | Zasługa | 21 | |
 | Moderation | Umiar | 21 | |
+| Conceit / Insolence / Pretence | Próżność / Hardość / Pozór | 22 | orszak przywar |
+| Intrusion / Restraint / Grimace / Censure | Natręctwo / Przymus / Grymas / Przygana | 22 | |
+| Dissention | Niezgoda | 22 | jak *Discord* (19) |
+| Meditation | Dumanie | 22 | odróżnione od *Contemplation* (Kontemplacja) |
+| Retrospect / Resvery (Reverie) | Wspomnienie / Zaduma | 22 | *Memory* = Pamięć (13) |
+| Modesty / Inspiration | Skromność / Natchnienie | 22 | |
+| Recluse (o Samotności) | Pustelnica | 22 | |
+| Dirge (pers.) | Pieśń Żałobna | 22 | małą literą: pieśń żałobna (5) |
+| Hymen | Hymen | 22 | bóg wesela |
+| Phosphor | Jutrzenka | 22 | gwiazda poranna; *Morn* też Jutrzenka (1) |
+| Echo | Echo | 22 | |
+| Retirement | Ustronie | 22 | |
+| Inaction | Bezczynność | 22 | |
+| Frenzy | Szał | 22 | jak *Madness* (12) |
+| Misanthropy | Mizantropia | 22 | |
+| Corruption | Zepsucie | 22 | |
+| Freedom | Wolność | 22 | jak *Liberty* (19) |
+| Ignorance / Skill | Niewiedza / Kunszt | 22 | |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
@@ -252,6 +270,12 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | acres (miara ziemi) | morgi | 20 | *paternal acres* → morgi rodowe |
 | the tuneful | śpiewacy (ptaki) | 21 | |
 | social passions / social tear | bratnie uczucia / bratnia łza | 21 | współczucie, nie „społeczne” |
+| Sibyl grot | sybillińska grota | 22 | |
+| macrocosm | makrokosm | 22 | |
+| herse (hearse = rusztowanie nad trumną) | mary | 22 | jak *bier* (5); nie „karawan” |
+| Naso | Nazo (Nazona) | 22 | Owidiusz |
+| the Cean | Simonides | 22 | Simonides z Keos |
+| Valcluse | Vaucluse | 22 | |
 
 ## Do decyzji
 - (brak)

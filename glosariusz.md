@@ -179,6 +179,12 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Corruption | Zepsucie | 22 | |
 | Freedom | Wolność | 22 | jak *Liberty* (19) |
 | Ignorance / Skill | Niewiedza / Kunszt | 22 | |
+| Love (bóg) | Amor | 23 | gdy wprost bóg (*God of Raptures*); inaczej Miłość (12) |
+| Avarice | Chciwość | 23 | w oryginale rodzaj męski |
+| Excess / Riot | Nadmiar / Hulanka | 23 | |
+| Philosophy | Filozofia | 23 | w oryginale rodzaj męski |
+| Shame | Wstyd | 23 | jak w nr 12 |
+| Vengeance (Heav'n's) | Pomsta (Nieba) | 23 | jak w nr 19 |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
@@ -276,6 +282,12 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Naso | Nazo (Nazona) | 22 | Owidiusz |
 | the Cean | Simonides | 22 | Simonides z Keos |
 | Valcluse | Vaucluse | 22 | |
+| Enthusiast | entuzjasta | 23 | XVIII w.: „fanatyk, marzyciel” (przypis) |
+| Wake (święto) | odpust | 23 | święto parafialne; *wake* przy zmarłym = stypa (9) |
+| Ammiral | admirał | 23 | dawna forma (Milton) |
+| Fayes | wróżki | 23 | elfy z folkloru |
+| the North (wiatr) | Akwilon | 23 | *Boreas* = Borej |
+| Architect supreme (= Bóg) | Mistrz budowniczych | 23 | |
 
 ## Do decyzji
 - (brak)

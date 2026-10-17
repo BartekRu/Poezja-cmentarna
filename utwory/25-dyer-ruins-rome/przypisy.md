@@ -5,7 +5,7 @@ tytuł | Motto Dyera na karcie tytułowej: *Aspice murorum moles, praeruptaque s
 12 | Płowy Tyber: stały epitet u poetów rzymskich (*flavus Tiberis*), od mułu, który niesie rzeka.
 26 | Obelisk z Teb: egipski obelisk sprowadzony do Rzymu w starożytności. W czasach Dyera niektóre obeliski wciąż leżały w ziemi lub w gruzach **[do weryfikacji: który]**.
 28 | Glykon z Aten: rzeźbiarz, autor słynnego Herkulesa Farnese. Fidiasz: najsławniejszy rzeźbiarz Aten (V w. p.n.e.).
-29–32 | Lewiatan: biblijny potwór morski (Hi 40,25–41,26), tu wieloryb. Ierne: dawna nazwa Irlandii.
+29–32 | LEWIATAN (w oryginale kapitalikami): biblijny potwór morski (Hi 40,25–41,26), tu wieloryb. Ierne: dawna nazwa Irlandii.
 44–46 | Przypis Dyera: „Fontanny w Rzymie, zdobne posągami tych rzek”. Rzeki przedstawiano jako starców z urnami. Nil ma zasłoniętą głowę, bo nie znano jego źródeł (tak np. na fontannie Berniniego na Piazza Navona). Eridan: grecka nazwa Padu. Tyber z bliźniętami: posąg Tybru z Romulusem i Remusem u boku.
 53 | Palatyn: wzgórze, na którym stały pałace cesarzy (stąd słowo „pałac”). Pod jego ruinami ciągną się sklepione sale.
 62–73 | *Cloaca Maxima*: główny kanał ściekowy Rzymu, według tradycji zbudowany przez królów z rodu Tarkwiniuszów (VI w. p.n.e.). Działał jeszcze w czasach Dyera.

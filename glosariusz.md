@@ -190,6 +190,10 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Liberty / Freedom (Dyer) | Wolność | 25 | jak w nr 19 i 22; w wołaczu „Wolności” |
 | Persuasion | perswazja | 25 | małą literą, jak w oryginale |
 
+| Society | Biesiada | 26 | towarzystwo przy stole; obok Samotności (*Solitude*) |
+| Piety | Nabożność | 26 | |
+| Slaughter | Rzeź | 26 | |
+| TIME, FAME, LUXURY, PRIDE (kapitaliki) | CZAS, SŁAWA, ZBYTEK, PYCHA | 26 | kapitaliki oryginału zachowane w przekładzie; tak też MEMENTO, FILIP, SALADYN |
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
 |---|---|---|---|
@@ -307,5 +311,14 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | imperial Rome | Rzym władczy | 25 | rama poematu (w. 15 i 546) |
 | Musical ever (refren) | Śpiewne na wieki | 25 | w. 252, 261 |
 
+| shrines | chramy | 26 | jak *fane* (25); tu kaplice opactwa |
+| Chieftain | Wódz | 26 | wielką literą, jak w oryginale |
+| ashlings | młode jesiony | 26 | siewki jesionu na murach |
+| night-shade | psianka | 26 | przypis |
+| crape-clad | w kirze | 26 | *crape* = kir, krepa; por. *cypress* (6) |
+| mitred saint | święty w infule | 26 | *mitre* = infuła |
+| saint-encypher'd glass | witraże | 26 | dosł. „szkło zapisane świętymi”; przypis |
+| the sacred Nine | dziewięć świętych Muz | 26 | |
+| Comus | Komus | 26 | |
 ## Do decyzji
 - (brak)

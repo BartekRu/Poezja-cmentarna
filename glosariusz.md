@@ -194,6 +194,15 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Piety | Nabożność | 26 | |
 | Slaughter | Rzeź | 26 | |
 | TIME, FAME, LUXURY, PRIDE (kapitaliki) | CZAS, SŁAWA, ZBYTEK, PYCHA | 26 | kapitaliki oryginału zachowane w przekładzie; tak też MEMENTO, FILIP, SALADYN |
+| Impatience | Niecierpliwość | 27 | |
+| Majesty (proud Majesty = król) | Majestat | 27 | |
+| Illusion | Złuda | 27 | |
+| Instruction | Nauka | 27 | |
+| Sense | Rozsądek | 27 | obok *Reason* = Rozum (8) |
+| Truth | Prawda | 27 | |
+| Glory | Chwała | 27 | |
+| Fame (= pogłoska) | Wieść | 27 | gdy *Fame* znaczy „wieść, pogłoska”; w znaczeniu „sława” – Sława (13) |
+| Melancholy (nie personifikacja) | melancholia | 27 | wyd. 1769 pisze wielką literą wszystkie rzeczowniki; personifikację rozpoznajemy po sensie |
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
 |---|---|---|---|
@@ -320,5 +329,15 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | saint-encypher'd glass | witraże | 26 | dosł. „szkło zapisane świętymi”; przypis |
 | the sacred Nine | dziewięć świętych Muz | 26 | |
 | Comus | Komus | 26 | |
+| Martyr's Shrine | grób męczennika | 27 | *shrine* = relikwiarz, grób świętego; por. *shrines* (26) |
+| Beadsmen | mnisi pobożni | 27 | przypis (*bedesmen*) |
+| Matin Bell | dzwon jutrzni | 27 | *matins* = jutrznia |
+| grey Fathers | Szarzy Ojcowie | 27 | cystersi |
+| Augur | wróż | 27 | przypis |
+| Furlong | staje | 27 | przypis |
+| Sanctuary / Asylum | przybytek / Azyl | 27 | prawo azylu; przypis |
+| royal Plunderer | król-łupieżca | 27 | Henryk VIII |
+| THE CHARTER | KARTA | 27 | Wielka Karta Swobód |
+| venal Fane | przedajny chram | 27 | *fane* = chram (25) |
 ## Do decyzji
 - (brak)

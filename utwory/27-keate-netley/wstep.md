@@ -1,0 +1,22 @@
+George Keate urodził się w 1729 roku w Trowbridge w hrabstwie Wiltshire. Skończył prawo w Inner Temple, ale nigdy nie praktykował. Kilka lat mieszkał w Genewie, gdzie poznał Woltera i zaprzyjaźnił się z nim. Był też malarzem amatorem i jednym z założycieli Society of Artists (1761). W 1766 roku został członkiem Royal Society i Towarzystwa Antykwariuszy. Pisał wiersze o Rzymie (1760) i o Alpach (1763), a największy rozgłos przyniosła mu proza: *Relacja o wyspach Palau* (1788), oparta na dziennikach rozbitków statku „Antelope”. Zmarł w Londynie w 1797 roku.
+
+**Miejsce.** Netley to opactwo cystersów na wschodnim brzegu Southampton Water, wspólnego ujścia rzek Test i Itchen do cieśniny Solent. Założył je biskup Winchesteru Piotr des Roches, który zmarł w 1238 roku. Rok później przybyli tu mnisi z pobliskiego Beaulieu. Król Henryk III uważał się potem za fundatora opactwa. W 1536 roku Henryk VIII rozwiązał klasztor i oddał go Williamowi Pauletowi, który przerobił go na rezydencję. Około 1704 roku ówczesny właściciel sprzedał budynki na materiał, ale rozbiórkę przerwała śmierć przedsiębiorcy przygniecionego przez kamień. Odtąd ruiny w lesie nad morzem stały się celem wycieczek. Horace Walpole napisał w 1755 roku, że to „nie ruiny Netley, lecz Raju”. Thomas Gray odwiedził je jesienią 1764 roku i opisał przewoźnika, który za żadne pieniądze nie spędziłby tam nocy.
+
+**Tekst.** Pierwsza wersja ukazała się w 1764 roku u Dodsleya jako *The Ruins of Netley Abbey. A Poem*, w broszurze liczącej jedenaście stron. W 1769 roku Keate wydał ją ponownie, mocno przerobioną i rozszerzoną, pod tytułem *Netley Abbey. An Elegy*. To wydanie ma dedykację dla Johna Hoadly'ego, proboszcza parafii Mariackiej w Southampton, oraz prozatorską „Krótką relację o opactwie Netley”. Keate pisze w niej, że poprawił wiersz nie dla jego zalet, ale żeby zachować pamięć o ruinie, którą niszczą pogoda i zły gust właścicieli **[do weryfikacji: dokładne brzmienie]**. Przekład idzie za wydaniem z 1769 roku.
+
+**Forma.** Pięćdziesiąt czterowierszy pięciostopowym jambem z rymem abab. To strofa Elegii Graya (nr 13), a nowy tytuł „elegia” jeszcze to podkreśla. W przekładzie odpowiada jej jedenastozgłoskowiec z rymem abab.
+
+**Budowa.**
+- **W. 1–44:** podróż łodzią. Cisza na morzu, potem wiatr, przybicie do brzegu. Gruzy NETLEY stoją „w smętnej wielkości” (w. 16). Nie ma już ołtarzy, azylu, jałmużny ani procesji, a żeglarz na ich widok wstrzymuje wiosło.
+- **W. 45–84:** wędrówka po ruinach. Wiatr, samotny ptak, owce w grotach, filar walący się w burzy, dąb, który rozsadza mur. Potem legenda o burzycielu opactwa, którego mury zabiły w chwili świętokradztwa.
+- **W. 85–128:** zadumanie. Pobożni mnisi, milczący dzwon jutrzni, zmierzch. Złuda przywołuje widma zakonników, poeta pyta je, czy przeczuwały „króla-łupieżcę” (w. 122), a one odchodzą bez słowa.
+- **W. 129–156:** historia. Czas zwycięża nawet dzieło królewskie. Fundator Henryk III umiera spokojnie, a jego ojciec Jan bez Ziemi w męce. Baronowie wydzierają Janowi Wielką Kartę, a Muza nie umie odmówić pieśni Wolności.
+- **W. 157–200:** pożegnanie i morał. Poeta prosi o grób w krużganku, wspomina ukochaną Ardelię, a na końcu zwraca się do pięknych dam z okolicy. Ruiny mają je uczyć, że uroda przemija, a zostają rozum i rozsądek.
+
+**Miejsce w tomie.** Dyer (nr 25) patrzył na ruiny Rzymu, Cunningham (nr 26) na bezimienne opactwo i zamek. Keate pisze o konkretnej, znanej ruinie, którą sam odwiedzał, i dodaje do wiersza antykwaryczną prozę. Jego elegia stoi u początku mody na Netley: potem przyszły oda Williama Sotheby'ego, opera komiczna (1794) i powieść gotycka (1795). Legenda o burzycielu łączy się zaś z naszym tomem przez Wattsa (nr 2). Według późniejszej tradycji przedsiębiorca Walter Taylor opowiedział swój złowróżbny sen ojcu Isaaca Wattsa **[do weryfikacji]**.
+
+**W Polsce.** Polskiego przekładu nie znaleźliśmy **[do weryfikacji: Polona]**.
+
+**Na co zwrócić uwagę:**
+- **Protestancka nostalgia.** Anglikański poeta żałuje klasztoru: jałmużny dla biednych, prawa azylu, modlitw za zmarłych. Henryka VIII nazywa łupieżcą, ale zaraz potem sławi Wielką Kartę i Wolność, ulubione hasła wigów. W wierszu splatają się sentyment do „gotyckiej” przeszłości i angielski patriotyzm **[interpretacja]**.
+- **Zwrot w finale.** Ostatnie siedem strof to galanteria wobec dam, gości modnego wtedy Southampton **[do weryfikacji: kąpielisko]**. Ruina staje się dla nich lustrem: „Bo niegdyś były piękne, niegdyś sławne!” (w. 180). Morał o ulotnej urodzie łagodzi temat cmentarny, ale go nie znosi.

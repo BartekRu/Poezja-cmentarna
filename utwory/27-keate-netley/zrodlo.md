@@ -12,7 +12,7 @@
 - **G. Keate, *Poetical Works*, 2 t., London: Dodsley, 1781:** możliwa późniejsza redakcja autorska; nie sprawdzono **[do weryfikacji]**.
 
 ## Przekład
-- W repo od importu (2026-10-12) był kompletny szkic `pl.txt` nieznanego pochodzenia **[do wyjaśnienia z Tomkiem; ewentualnie kolofon]**. Claude sprawdził go wers w wers z oryginałem (sens, miara 11, rym abab) i poprawił w. 39 („Gdzie starsi” → „Ich starsi”: *Whose Chiefs*), 63 (błędny przypadek: „Wielki konar chwieje” → „Konarami chwieje”), 68, 86 (*Melancholy* nie jest tu personifikacją: „melancholią”), 110 i 112 (przebudowane: rym męski „wstać/lać” i niezręczna składnia), 133 i 135 („tonie z echem” → „legł ruiną”), 195 („stalszego” → „trwalszego”), 199 (12 sylab i błąd składni: „jest … obrońca” → „to … obrońca”).
+- Przekład własny Claude'a: pierwsza wersja powstała wcześniej w tej samej sesji (2026-10-17), potem Claude sprawdził ją wers w wers z oryginałem (sens, miara 11, rym abab) i poprawił w. 39 („Gdzie starsi” → „Ich starsi”: *Whose Chiefs*), 63 (błędny przypadek: „Wielki konar chwieje” → „Konarami chwieje”), 68, 86 (*Melancholy* nie jest tu personifikacją: „melancholią”), 110 i 112 (przebudowane: rym męski „wstać/lać” i niezręczna składnia), 133 i 135 („tonie z echem” → „legł ruiną”), 195 („stalszego” → „trwalszego”), 199 (12 sylab i błąd składni: „jest … obrońca” → „to … obrońca”).
 
 ## Research (wstęp, przypisy)
 - Biografia: Wikipedia, „George Keate”.

@@ -41,7 +41,7 @@ Stan na: 2026-10-17. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 | 24 | Beattie, The Hermit | ✓ 48 w. (Dyce 1854; warianty 1770 i 1805) | ~ (–; Polona do spr.) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
 | 25 | Dyer, The Ruins of Rome | ✓ 546 w. (Dodsley 1763, TCP; porówn.) | ~ (–; Polona do spr.) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
 | 26 | Cunningham, An Elegy on a Pile of Ruins | ✓ 144 w. (1766, TCP; porówn. z 1761) | ~ (–; Polona do spr.) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
-| 27 | Keate, Netley Abbey | ✓ 200 w. (1769, porówn. z OCR) | ~ (–; Polona do spr.) | ✓ | ✓ (szkic nieznanego pochodzenia, poprawiony) | ✓ | ✓ | – (propozycja w karcie) | K |
+| 27 | Keate, Netley Abbey | ✓ 200 w. (1769, porówn. z OCR) | ~ (–; Polona do spr.) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
 | 28 | T. Warton, Ode Written at Vale-Royal Abbey | ~ 92 w. (1854) | – | – | – | – | – | – | – |
 | 29 | Hervey, Meditations among the Tombs (fragm.) | ~ proza, całość (1789); fragment do wyboru | – | – | – | – | – | – | – |
 | 30 | Bourne (?), On an Open Grave | ~ 16 w. (1772); atrybucja? | – | – | – | – | – | – | – |
@@ -82,7 +82,7 @@ Stan na: 2026-10-17. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 - Poz. 24: miara przekładu (anapest → dwunastozgłoskowiec amfibrachiczny) – do akceptacji; która redakcja jest ostatnią wolą autora (Dyce 1854 a wyd. 1805; wydania z lat 1777–1799 nieporównane); kiedy dopisano strofy 5–6; tekst Dyce'a nieporównany ze skanem; polskie przekłady (Polona).
 - Poz. 25: pierwodruk 1740 nieporównany; ocena Johnsona (dokładne brzmienie); obelisk (w. 26), „jezioro Diona” (w. 295), mówca (w. 204), wódz brytyjski (w. 461) – do ustalenia; polskie przekłady (Polona).
 - Poz. 26: wybór wyd. 1766 zamiast pierwodruku 1761 (6 wersów różni się słownie, zob. `zrodlo.md`); Elian o Filipie (w. 109–116) i źródło legendy o Saladynie (w. 117–128); numeracja wersów motta (Owidiusz, *Met.* XV); 10 wersów 12-zgłoskowych (19, 36, 44, 74, 96, 106, 127, 129, 133, 140); polskie przekłady (Polona).
-- Poz. 27: skąd pochodzi szkic `pl.txt` (był w repo od importu) i czy odnotować go w kolofonie; pierwodruk 1764 i *Poetical Works* 1781 nieporównane; najstarsze źródło legendy o Taylorze (w. 65–84); prawo azylu – daty (w. 30–32); Southampton jako kąpielisko (w. 173); czy Ardelia to żona Keate'a (w. 170); polskie przekłady (Polona).
+- Poz. 27: pierwodruk 1764 i *Poetical Works* 1781 nieporównane; najstarsze źródło legendy o Taylorze (w. 65–84); prawo azylu – daty (w. 30–32); Southampton jako kąpielisko (w. 173); czy Ardelia to żona Keate'a (w. 170); polskie przekłady (Polona).
 - Poz. 14–43: uwagi i decyzje do podjęcia w `zrodlo.md` każdego utworu. Najważniejsze: wybór fragmentu Herveya (29, proza – build jeszcze jej nie obsługuje); przypis o wątpliwym autorstwie Bourne'a (30); redakcja tekstu Cunninghama (18; 26 – wybrano 1766), Wartona (16, 28, 40), Collinsa (17), Pope'a (20).
 - Wstęp ogólny: po przekładach uzupełnić odwołania do konkretnych utworów.
 

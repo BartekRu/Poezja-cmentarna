@@ -185,6 +185,7 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Philosophy | Filozofia | 23 | w oryginale rodzaj męski |
 | Shame | Wstyd | 23 | jak w nr 12 |
 | Vengeance (Heav'n's) | Pomsta (Nieba) | 23 | jak w nr 19 |
+| Father of light (= Bóg) | Ojciec światła | 24 | Jk 1,17 |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
@@ -288,6 +289,9 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Fayes | wróżki | 23 | elfy z folkloru |
 | the North (wiatr) | Akwilon | 23 | *Boreas* = Borej |
 | Architect supreme (= Bóg) | Mistrz budowniczych | 23 | |
+| Philomela (w wołaczu) | Filomela | 24 | wyjątek od „Słowik” (nr 1): poeta zwraca się do słowika jak do kobiety |
+| complainer | żałobnica | 24 | |
+| false science | fałszywa wiedza | 24 | *science* = wiedza (12) |
 
 ## Do decyzji
 - (brak)

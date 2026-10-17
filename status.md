@@ -1,6 +1,6 @@
 # Status prac
 
-Stan na: 2026-10-17. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. Poz. 9 Blair, „Grób” (767 w.) oraz poz. 10–13 (Gray) gotowe do korekty; rozdział III kompletny. Rozdz. IV: poz. 14–15 (Carter) gotowe do korekty; poz. 16–19 (Warton, Collins, Cunningham, Beattie) gotowe do korekty; rozdział IV kompletny. Rozdz. V: poz. 20 (Pope), 21 (Thomson, fragmenty 145 w.), 22 (Grainger, 256 w.), 23 (J. Warton, 210 w.) i 24 (Beattie, 48 w.) gotowe do korekty; rozdział V kompletny. Następny: poz. 25, Dyer, „The Ruins of Rome” (rozdz. VI). Oryginały poz. 14–43 w repo (surowe, z paczki Tomka; „~” = korekta słowo w słowo przy przekładzie). Liczby wersów 14–43 sprawdzone (zob. `zrodlo.md`). Ilustracje: zasady, lista miejsc i ocena jakości w `ilustracje/README.md` i `ilustracje/zrodla.md`; wgrane rozdz. I–III i nr 1–10 (za małe: nr 5, 6, 10).
+Stan na: 2026-10-17. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. Poz. 9 Blair, „Grób” (767 w.) oraz poz. 10–13 (Gray) gotowe do korekty; rozdział III kompletny. Rozdz. IV: poz. 14–15 (Carter) gotowe do korekty; poz. 16–19 (Warton, Collins, Cunningham, Beattie) gotowe do korekty; rozdział IV kompletny. Rozdz. V: poz. 20 (Pope), 21 (Thomson, fragmenty 145 w.), 22 (Grainger, 256 w.), 23 (J. Warton, 210 w.) i 24 (Beattie, 48 w.) gotowe do korekty; rozdział V kompletny. Rozdz. VI: poz. 25 (Dyer, 546 w.) gotowa do korekty. Następny: poz. 26, Cunningham, „An Elegy on a Pile of Ruins”. Oryginały poz. 14–43 w repo (surowe, z paczki Tomka; „~” = korekta słowo w słowo przy przekładzie). Liczby wersów 14–43 sprawdzone (zob. `zrodlo.md`). Ilustracje: zasady, lista miejsc i ocena jakości w `ilustracje/README.md` i `ilustracje/zrodla.md`; wgrane rozdz. I–III i nr 1–10 (za małe: nr 5, 6, 10).
 
 **Legenda:** ✓ zrobione · ~ częściowo / do weryfikacji · – nie zaczęte · K = czeka na korektę Tomka
 
@@ -39,7 +39,7 @@ Stan na: 2026-10-17. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 | 22 | Grainger, Solitude: An Ode | ✓ 256 w. (Dodsley 1763, TCP; porówn.) | ~ (–; Polona do spr.) | ✓ | ✓ (w. 1–64: szkic ChatGPT, poprawiony) | ✓ | ✓ | – (propozycja w karcie) | K |
 | 23 | J. Warton, The Enthusiast | ✓ 210 w. (1744, TCP; porówn.) | ~ (–; Polona do spr.) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
 | 24 | Beattie, The Hermit | ✓ 48 w. (Dyce 1854; warianty 1770 i 1805) | ~ (–; Polona do spr.) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
-| 25 | Dyer, The Ruins of Rome | ~ 546 w. (ECPA) | – | – | – | – | – | – | – |
+| 25 | Dyer, The Ruins of Rome | ✓ 546 w. (Dodsley 1763, TCP; porówn.) | ~ (–; Polona do spr.) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
 | 26 | Cunningham, An Elegy on a Pile of Ruins | ~ 144 w. (ECPA) | – | – | – | – | – | – | – |
 | 27 | Keate, Netley Abbey | ~ 200 w. (1769) | – | – | – | – | – | – | – |
 | 28 | T. Warton, Ode Written at Vale-Royal Abbey | ~ 92 w. (1854) | – | – | – | – | – | – | – |
@@ -80,6 +80,7 @@ Stan na: 2026-10-17. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 - Poz. 22: w. 1–64 przełożone wstępnie przez ChatGPT (sprawdzone i poprawione) – czy i jak odnotować w kolofonie; pierwodruk 1755 nieporównany; tożsamość przyjaciela (w. 118–133); Seneka o sterniku (w. 241–244); polskie przekłady (Polona).
 - Poz. 23: data napisania (1740?); redakcja 1748 nieporównana; wariant *rupes/ripas* w motcie z Horacego; Pauzaniasz o Pindarze (przypis do w. 132–141); polskie przekłady (Polona).
 - Poz. 24: miara przekładu (anapest → dwunastozgłoskowiec amfibrachiczny) – do akceptacji; która redakcja jest ostatnią wolą autora (Dyce 1854 a wyd. 1805; wydania z lat 1777–1799 nieporównane); kiedy dopisano strofy 5–6; tekst Dyce'a nieporównany ze skanem; polskie przekłady (Polona).
+- Poz. 25: pierwodruk 1740 nieporównany; ocena Johnsona (dokładne brzmienie); obelisk (w. 26), „jezioro Diona” (w. 295), mówca (w. 204), wódz brytyjski (w. 461) – do ustalenia; polskie przekłady (Polona).
 - Poz. 14–43: uwagi i decyzje do podjęcia w `zrodlo.md` każdego utworu. Najważniejsze: wybór fragmentu Herveya (29, proza – build jeszcze jej nie obsługuje); przypis o wątpliwym autorstwie Bourne'a (30); redakcja tekstu Cunninghama (18, 26), Wartona (16, 28, 40), Collinsa (17), Pope'a (20).
 - Wstęp ogólny: po przekładach uzupełnić odwołania do konkretnych utworów.
 

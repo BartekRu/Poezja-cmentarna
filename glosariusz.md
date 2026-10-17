@@ -186,6 +186,9 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Shame | Wstyd | 23 | jak w nr 12 |
 | Vengeance (Heav'n's) | Pomsta (Nieba) | 23 | jak w nr 19 |
 | Father of light (= Bóg) | Ojciec światła | 24 | Jk 1,17 |
+| Property | Własność | 25 | |
+| Liberty / Freedom (Dyer) | Wolność | 25 | jak w nr 19 i 22; w wołaczu „Wolności” |
+| Persuasion | perswazja | 25 | małą literą, jak w oryginale |
 
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
@@ -292,6 +295,17 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Philomela (w wołaczu) | Filomela | 24 | wyjątek od „Słowik” (nr 1): poeta zwraca się do słowika jak do kobiety |
 | complainer | żałobnica | 24 | |
 | false science | fałszywa wiedza | 24 | *science* = wiedza (12) |
+| fane / fanes | chram / chramy | 25 | jak w nr 9 |
+| isles (= aisles) | nawy | 25 | jak *iles* (22) |
+| the pious brothers | bracia zbożni | 25 | Horacjusze; *the pious* = zbożni (6) |
+| masque | maska (widowisko dworskie) | 25 | przypis |
+| Maro | Maro (Wergiliusz) | 25 | |
+| Quirinus | Kwiryn | 25 | = Romulus |
+| Ausonia / Ausonian | Auzonia / auzoński | 25 | jak w nr 22 |
+| Albion | Albion | 25 | |
+| field of Mars | Pole Marsa | 25 | |
+| imperial Rome | Rzym władczy | 25 | rama poematu (w. 15 i 546) |
+| Musical ever (refren) | Śpiewne na wieki | 25 | w. 252, 261 |
 
 ## Do decyzji
 - (brak)

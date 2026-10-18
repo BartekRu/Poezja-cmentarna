@@ -203,6 +203,13 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Glory | Chwała | 27 | |
 | Fame (= pogłoska) | Wieść | 27 | gdy *Fame* znaczy „wieść, pogłoska”; w znaczeniu „sława” – Sława (13) |
 | Melancholy (nie personifikacja) | melancholia | 27 | wyd. 1769 pisze wielką literą wszystkie rzeczowniki; personifikację rozpoznajemy po sensie |
+| Candour | Bezstronność | 28 | dawn. „życzliwa bezstronność” |
+| Sloth | Gnuśność | 28 | |
+| Indolence | Lenistwo | 28 | |
+| Hospitality | Gościnność | 28 | |
+| Art | Sztuka | 28 | |
+| Learning | Uczoność | 28 | odróżnione od *Instruction* = Nauka (27) i *Science* = Wiedza (12) |
+| Superstition (*sorceress*) | Zabobon | 28 | u Wartona rodzaj żeński, w przekładzie męski jak w nr 8 |
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
 |---|---|---|---|
@@ -339,5 +346,10 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | royal Plunderer | król-łupieżca | 27 | Henryk VIII |
 | THE CHARTER | KARTA | 27 | Wielka Karta Swobód |
 | venal Fane | przedajny chram | 27 | *fane* = chram (25) |
+| golden fans (na wieżach) | złote skrzydełka | 28 | wiatrowskazy; przypis |
+| storied glass / speaking pane | szyby, co dzieje mówią / szyba wymowna | 28 | witraże; por. *storied windows* (1) |
+| quire | chór | 28 | dawna pisownia *choir* |
+| minstrel | minstrel | 28 | |
+| massy-proof | (pęki kolumn) z kamienia | 28 | echo Miltona (1, w. 158) |
 ## Do decyzji
 - (brak)

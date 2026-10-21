@@ -360,5 +360,6 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Most Illustrious / Right Honourable | Jaśnie Oświeceni / Jaśnie Wielmożni | 29 | dawna polska tytulatura |
 | my Lord / his Grace | Jaśnie Pan / Jego Książęca Mość | 29 | |
 | quarter arms | łączyć herby | 29 | heraldyka |
+| passenger (w napisie nagrobnym) | wędrowiec | 30 | formuła *Siste, viator*; przypis |
 ## Do decyzji
 - (brak)

@@ -210,6 +210,7 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Art | Sztuka | 28 | |
 | Learning | Uczoność | 28 | odróżnione od *Instruction* = Nauka (27) i *Science* = Wiedza (12) |
 | Superstition (*sorceress*) | Zabobon | 28 | u Wartona rodzaj żeński, w przekładzie męski jak w nr 8 |
+| luminous Obscurity / Silence / religious Dread | świetlista Ciemność / Cisza / nabożna Trwoga | 29 | wielkie litery jak w oryginale (Hervey) |
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
 |---|---|---|---|
@@ -242,6 +243,10 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | storied urn / animated bust | urna w rzeźbach / żywe popiersie | 13 | |
 | corse | zwłoki | 21 | poet. *corpse* |
 
+| Vault | krypta | 29 | grobowiec pod kościołem |
+| winding sheet | całun | 29 | jak *shroud* (6) |
+| hatchment / escutcheon | herb żałobny / tarcza herbowa | 29 | przypis |
+| passing bell | dzwon konających | 29 | |
 ## Inne
 | EN | PL | Od | Uwagi |
 |---|---|---|---|
@@ -351,5 +356,9 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | quire | chór | 28 | dawna pisownia *choir* |
 | minstrel | minstrel | 28 | |
 | massy-proof | (pęki kolumn) z kamienia | 28 | echo Miltona (1, w. 158) |
+| Madam (w liście) | Łaskawa Pani | 29 | |
+| Most Illustrious / Right Honourable | Jaśnie Oświeceni / Jaśnie Wielmożni | 29 | dawna polska tytulatura |
+| my Lord / his Grace | Jaśnie Pan / Jego Książęca Mość | 29 | |
+| quarter arms | łączyć herby | 29 | heraldyka |
 ## Do decyzji
 - (brak)

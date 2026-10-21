@@ -14,6 +14,8 @@ utwory/NN-autor-tytul/
   karta.md      karta utworu (autor, lata, tytuły, rok, rozdział, żywa pagina, ilustracja)
   en.txt        tekst angielski; pusta linia = nowy akapit wierszowy
   pl.txt        przekład wers w wers; ta sama liczba wersów i akapitów co en.txt
+                proza (karta: `forma: proza`, np. nr 29): akapit = jeden wiersz pliku; `@86` = numer akapitu,
+                `[…]` = opuszczenie, wiersze `> ` = cytat wierszem; EN i PL muszą mieć tę samą budowę akapitów
   motto.md      motto: oryginał, przekład, źródło
   wstep.md      wstęp (markdown)
   slownik.md    hasła do słownika dawnej angielszczyzny: `wers | hasło | znaczenie`

@@ -144,6 +144,53 @@ def verse(stz, pending=0):
     return "\n".join(out)
 
 
+def plural(n, one, few, many):
+    """Polska odmiana po liczebniku: 1 wers, 2–4 wersy (bez 12–14), 5+ wersów."""
+    return one if n == 1 else few if n % 10 in (2, 3, 4) and n % 100 not in (12, 13, 14) else many
+
+
+def is_prose(k):
+    return k.get("forma", "").startswith("proza")
+
+
+def is_gap(b):
+    return len(b) == 1 and b[0].strip() in ("[…]", "[...]")
+
+
+def prose(blocks, pending=0):
+    """Proza: akapity numerowane; "@86" ustawia numer, "[…]" to opuszczenie, "> " to cytat wierszem."""
+    out, n = ['<div class="prose">'], 0
+    for b in blocks:
+        if is_gap(b):
+            out.append('<p class="gap">[…]</p>')
+            continue
+        parts, buf = [], []
+        for line in b:
+            at = re.match(r"^@(\d+)$", line)
+            if at:
+                n = int(at.group(1)) - 1
+                continue
+            if line.startswith("> "):
+                if buf:
+                    parts.append(f"<p>{inline(' '.join(buf))}</p>")
+                    buf = []
+                parts.append(f'<div class="qv">{inline(line[2:])}</div>')
+                continue
+            buf.append(line.strip())
+        if buf:
+            parts.append(f"<p>{inline(' '.join(buf))}</p>")
+        n += 1
+        out.append(f'<div class="ak"><span class="n">{n}</span>{"".join(parts)}</div>')
+    if pending:
+        out.append(f'<p><em>[przekład w przygotowaniu: pozostałe akapity ({pending})]</em></p>')
+    out.append("</div>")
+    return "\n".join(out)
+
+
+def prose_count(blocks):
+    return len([b for b in blocks if not is_gap(b)])
+
+
 def verse_count(stz):
     n = 0
     for st in stz:
@@ -244,6 +291,12 @@ p { margin: 0 0 0.6em; text-align: justify; }
 .motto p { text-align: left; margin: 0 0 0.3em; }
 .motto .src { font-size: 0.8em; color: #6b5d45; }
 .verse { margin: 1em 0 1em 3.4em; }
+.prose { margin: 1em 0 1em 3.4em; }
+.ak { margin: 0 0 0.8em; }
+.ak p { margin: 0 0 0.3em; text-align: justify; text-indent: 1.2em; }
+.ak .n { float: left; width: 3em; margin-left: -3.4em; text-align: right; }
+.qv { margin: 0 0 0 2em; font-style: italic; }
+.gap { text-align: center; }
 .st { margin: 0 0 0.9em; }
 .l { margin: 0; padding-left: 1.2em; text-indent: -1.2em; text-align: left; }
 .vh { font-variant: small-caps; font-style: italic; margin: 0.6em 0 0.3em; }
@@ -273,7 +326,8 @@ def main():
             continue
         en = stanzas(os.path.join(D, "en.txt"))
         pl = stanzas(os.path.join(D, "pl.txt")) if exists(os.path.join(D, "pl.txt")) else []
-        units.append({"D": D, "k": kv(os.path.join(D, "karta.md")), "en": en, "pl": pl, "pending": len(en) - len(pl), "lines": verse_count(en)})
+        k = kv(os.path.join(D, "karta.md"))
+        units.append({"D": D, "k": k, "en": en, "pl": pl, "pending": len(en) - len(pl), "lines": prose_count(en) if is_prose(k) else verse_count(en)})
 
     H = []
     H.append('<section class="part"><h1>O tej wersji</h1>')
@@ -308,7 +362,9 @@ def main():
              f'<div class="autor">{inline(k["autor"])} ({k.get("lata", "")})</div>']
         if k.get("tytul_en") and k["tytul_en"] != k["tytul_pl"]:
             o.append(f'<div class="en">{inline(k["tytul_en"])}</div>')
-        o.append(f'<div class="info">{inline(k.get("rok", ""))} · {u["lines"]} wersów · oryginał w części drugiej</div></div>')
+        n = u["lines"]
+        ile = f'proza, {n} {plural(n, "akapit", "akapity", "akapitów")}' if is_prose(k) else f'{n} {plural(n, "wers", "wersy", "wersów")}'
+        o.append(f'<div class="info">{inline(k.get("rok", ""))} · {ile} · oryginał w części drugiej</div></div>')
         if exists(os.path.join(D, "motto.md")):
             m = kv(os.path.join(D, "motto.md"))
             o.append('<div class="motto">')
@@ -320,7 +376,7 @@ def main():
         o.append("<h4>Wstęp</h4>")
         o.append(markdown(os.path.join(D, "wstep.md"), hlevel=5))
         o.append("<h4>Przekład</h4>")
-        o.append(verse(u["pl"], u["pending"]))
+        o.append(prose(u["pl"], u["pending"]) if is_prose(k) else verse(u["pl"], u["pending"]))
         f = find_image(str(k["nr"]).zfill(2))
         if f:
             o.append(figure(f, tmp))
@@ -328,7 +384,7 @@ def main():
             o.append('<h4>Przypisy</h4><div class="przyp">')
             for row in pipe_rows(os.path.join(D, "przypisy.md")):
                 w, t = row[0], "|".join(row[1:])
-                label = f"w. {w}." if re.match(r"^(\d|[IVX]+\.\d)", w) else f"{w[:1].upper() + w[1:]}."
+                label = f"{'akap.' if is_prose(k) else 'w.'} {w}." if re.match(r"^(\d|[IVX]+\.\d)", w) else f"{w[:1].upper() + w[1:]}."
                 o.append(f"<p><strong>{inline(label)}</strong> {inline(t)}</p>")
             o.append("</div>")
         return "\n".join(o)
@@ -337,7 +393,7 @@ def main():
         k = u["k"]
         return "\n".join([f'<h3>{k["nr"]}. {inline(k["tytul_en"])}</h3>', '<div class="karta">',
                           f'<div class="autor">{inline(k["autor"])} ({k.get("lata", "")})</div>',
-                          f'<div class="info">przekład w części pierwszej: „{inline(k["tytul_pl"])}”</div></div>', verse(u["en"])])
+                          f'<div class="info">przekład w części pierwszej: „{inline(k["tytul_pl"])}”</div></div>', prose(u["en"]) if is_prose(k) else verse(u["en"])])
 
     part("Część pierwsza. Przekład i komentarz", "karta utworu · motto · wstęp · przekład · przypisy", polish)
     part("Część druga. The Original Poems", "teksty oryginalne w tej samej kolejności i numeracji", english)

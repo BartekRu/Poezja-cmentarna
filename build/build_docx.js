@@ -170,6 +170,46 @@ function verse(stz, pending = 0) {
   return new Table({ width: { size: CONTENT_W, type: WidthType.DXA }, columnWidths: W, rows });
 }
 
+// Proza (karta.md: "forma: proza"). Akapity oddzielone pustym wierszem, każdy akapit numerowany.
+// Znaczniki: "@86" w pierwszym wierszu akapitu – akapit ma numer 86 (fragmenty z numeracją oryginału);
+// akapit "[…]" – opuszczenie (bez numeru); wiersze zaczynające się od "> " – cytat wierszem wewnątrz akapitu.
+// Polska odmiana po liczebniku: 1 wers, 2–4 wersy (bez 12–14), 5+ wersów
+const plural = (n, one, few, many) => (n === 1 ? one : [2, 3, 4].includes(n % 10) && ![12, 13, 14].includes(n % 100) ? few : many);
+const isProse = (k) => /^proza/.test(k.forma || "");
+const isGap = (b) => b.length === 1 && /^\[(…|\.\.\.)\]$/.test(b[0].trim());
+const proseCount = (blocks) => blocks.filter((b) => !isGap(b)).length;
+const proseShape = (b) => (isGap(b) ? "gap" : b.map((l) => (/^> /.test(l) ? "v" : /^@\d+$/.test(l) ? l : "p")).join(",").replace(/(p,)+p/g, "p"));
+function prose(blocks, pending = 0) {
+  const W = [700, CONTENT_W - 700];
+  const cell = (children, w) => new TableCell({ children, width: { size: w, type: WidthType.DXA }, borders: NOB, margins: { top: 10, bottom: 60, left: 60, right: 60 }, verticalAlign: VerticalAlign.TOP });
+  const rows = [];
+  let n = 0;
+  for (const b of blocks) {
+    if (isGap(b)) {
+      rows.push(new TableRow({ children: [cell([new Paragraph({})], W[0]), cell([new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 120 }, children: [new TextRun({ text: "[…]", size: 23 })] })], W[1])] }));
+      continue;
+    }
+    const kids = [];
+    let buf = [];
+    const flush = () => {
+      if (buf.length) kids.push(new Paragraph({ alignment: AlignmentType.JUSTIFIED, indent: { firstLine: kids.length ? 0 : 300 }, spacing: { after: 60 }, children: runs(buf.join(" "), { size: 23 }) }));
+      buf = [];
+    };
+    for (const line of b) {
+      const at = line.match(/^@(\d+)$/);
+      if (at) { n = Number(at[1]) - 1; continue; }
+      if (/^> /.test(line)) { flush(); kids.push(new Paragraph({ indent: { left: 600 }, spacing: { after: 0 }, children: runs(line.slice(2), { size: 22, italics: true }) })); continue; }
+      buf.push(line.trim());
+    }
+    flush();
+    n++;
+    rows.push(new TableRow({ children: [cell([new Paragraph({ alignment: AlignmentType.RIGHT, children: [new TextRun({ text: String(n), color: MUTED, size: 18 })] })], W[0]), cell(kids, W[1])] }));
+  }
+  if (pending > 0) rows.push(new TableRow({ children: [cell([new Paragraph({})], W[0]), cell([new Paragraph({ children: [new TextRun({ text: `[przekład w przygotowaniu: pozostałe akapity (${pending})]`, italics: true, color: MUTED })] })], W[1])] }));
+  return new Table({ width: { size: CONTENT_W, type: WidthType.DXA }, columnWidths: W, rows });
+}
+const body = (u, blocks, pending) => (isProse(u.k) ? prose(blocks, pending) : verse(blocks, pending));
+
 const surname = (autor) => autor.split(" ").slice(-1)[0];
 // Pusta pagina: strony tytułowe, otwarcia części i rozdziałów (inaczej Word dziedziczy nagłówek poprzedniej sekcji)
 const blankHead = () => ({
@@ -191,11 +231,13 @@ function load(dir) {
   // ale każdy obecny akapit musi mieć tyle samo wierszy co odpowiadający mu akapit EN.
   if (pl.length > en.length) throw new Error(`${path.basename(dir)}: PL ma więcej akapitów (${pl.length}) niż EN (${en.length})`);
   pl.forEach((st, i) => {
-    if (st.length !== en[i].length) throw new Error(`${path.basename(dir)}: akapit ${i + 1} – EN ${en[i].length} w., PL ${st.length} w.`);
+    if (isProse(k)) {
+      if (proseShape(st) !== proseShape(en[i])) throw new Error(`${path.basename(dir)}: akapit ${i + 1} – inna budowa EN (${proseShape(en[i])}) i PL (${proseShape(st)})`);
+    } else if (st.length !== en[i].length) throw new Error(`${path.basename(dir)}: akapit ${i + 1} – EN ${en[i].length} w., PL ${st.length} w.`);
   });
   const pending = en.length - pl.length;
   if (pending) console.warn(`UWAGA: ${path.basename(dir)} – przekład niepełny, brak ${pending} akapitów`);
-  return { dir, D, k, en, pl, pending, lines: verseCount(en) };
+  return { dir, D, k, en, pl, pending, lines: isProse(k) ? proseCount(en) : verseCount(en) };
 }
 
 function polishPoem(u) {
@@ -205,7 +247,7 @@ function polishPoem(u) {
     center(`${k.autor} (${k.lata})`, { smallCaps: true, size: 24, after: 160 }),
     new Paragraph({ heading: HeadingLevel.HEADING_1, alignment: AlignmentType.CENTER, children: [new TextRun({ text: k.tytul_pl, font: TITLE })], spacing: { after: 60 } }),
     ...(k.tytul_en !== k.tytul_pl ? [center(k.tytul_en, { italics: true, size: 28, font: TITLE })] : []),
-    center(`${k.rok} · ${lines} wersów · oryginał w części drugiej`, { size: 20, color: MUTED, after: 480 }),
+    center(`${k.rok} · ${isProse(k) ? `proza, ${lines} ${plural(lines, "akapit", "akapity", "akapitów")}` : `${lines} ${plural(lines, "wers", "wersy", "wersów")}`} · oryginał w części drugiej`, { size: 20, color: MUTED, after: 480 }),
   ];
   if (exists(D("motto.md"))) {
     const m = kv(D("motto.md"));
@@ -215,14 +257,14 @@ function polishPoem(u) {
     kids.push(new Paragraph({ indent, children: [new TextRun({ text: `— ${m.autor}, ${m.zrodlo}${m.tlumacz ? ` (${m.tlumacz})` : ""}`, size: 18, color: "6B5D45" })], spacing: { after: 360 } }));
   }
   kids.push(heading("Wstęp"), ...markdown(D("wstep.md")));
-  kids.push(pageBreak(), heading("Przekład"), verse(pl, u.pending));
+  kids.push(pageBreak(), heading("Przekład"), body(u, pl, u.pending));
   // ilustracja zaraz pod wierszem (bez osobnej strony); gdy brak miejsca, Word przeniesie ją na następną stronę
   const img = findImage(String(k.nr).padStart(2, "0"));
   if (img) kids.push(new Paragraph({ spacing: { before: 240 } }), ...illustration(img, 380));
   if (exists(D("przypisy.md"))) {
     kids.push(heading("Przypisy"));
     for (const [w, t] of pipeRows(D("przypisy.md")))
-      kids.push(new Paragraph({ children: [new TextRun({ text: /^(\d|[IVX]+\.\d)/.test(w) ? `w. ${w}. ` : `${w[0].toUpperCase() + w.slice(1)}. `, bold: true, size: 20 }), ...runs(t, { size: 20 })], spacing: { after: 80 }, alignment: AlignmentType.JUSTIFIED }));
+      kids.push(new Paragraph({ children: [new TextRun({ text: /^(\d|[IVX]+\.\d)/.test(w) ? `${isProse(k) ? "akap." : "w."} ${w}. ` : `${w[0].toUpperCase() + w.slice(1)}. `, bold: true, size: 20 }), ...runs(t, { size: 20 })], spacing: { after: 80 }, alignment: AlignmentType.JUSTIFIED }));
   }
   if (!img && k.ilustracja) kids.push(marker(k.ilustracja));
   return { properties: { page: PAGE }, ...runningHead(k.zywa_pagina || `${surname(k.autor)} · ${k.tytul_pl}`), children: kids };
@@ -237,7 +279,7 @@ function englishPoem(u) {
       center(`${k.autor} (${k.lata})`, { smallCaps: true, size: 24, after: 160 }),
       new Paragraph({ heading: HeadingLevel.HEADING_1, alignment: AlignmentType.CENTER, children: [new TextRun({ text: k.tytul_en, font: TITLE })], spacing: { after: 60 } }),
       center(`przekład w części pierwszej: „${k.tytul_pl}”`, { size: 20, color: MUTED, after: 480 }),
-      verse(en),
+      body(u, en, 0),
     ],
   };
 }

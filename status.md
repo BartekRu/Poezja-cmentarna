@@ -1,6 +1,6 @@
 # Status prac
 
-Stan na: 2026-10-17. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. Poz. 9 Blair, „Grób” (767 w.) oraz poz. 10–13 (Gray) gotowe do korekty; rozdział III kompletny. Rozdz. IV: poz. 14–15 (Carter) gotowe do korekty; poz. 16–19 (Warton, Collins, Cunningham, Beattie) gotowe do korekty; rozdział IV kompletny. Rozdz. V: poz. 20 (Pope), 21 (Thomson, fragmenty 145 w.), 22 (Grainger, 256 w.), 23 (J. Warton, 210 w.) i 24 (Beattie, 48 w.) gotowe do korekty; rozdział V kompletny. Rozdz. VI: poz. 25 (Dyer, 546 w.), 26 (Cunningham, 144 w.), 27 (Keate, 200 w.) i 28 (T. Warton, 92 w.) gotowe do korekty; rozdział VI kompletny. Rozdz. VII: poz. 29 (Hervey, proza, fragment „Krypta”, akap. 1–4 i 86–103) gotowa do korekty; build obsługuje prozę (`forma: proza` w karcie); poz. 30 (Bourne?, 16 w.) gotowa do korekty. Następny: poz. 31, Blamire, „Written in a Churchyard…”. Oryginały poz. 14–43 w repo (surowe, z paczki Tomka; „~” = korekta słowo w słowo przy przekładzie). Liczby wersów 14–43 sprawdzone (zob. `zrodlo.md`). Ilustracje: zasady, lista miejsc i ocena jakości w `ilustracje/README.md` i `ilustracje/zrodla.md`; wgrane rozdz. I–III i nr 1–10 (za małe: nr 5, 6, 10).
+Stan na: 2026-10-17. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Prolog) oraz poz. 7 i 8 gotowe do korekty. Poz. 9 Blair, „Grób” (767 w.) oraz poz. 10–13 (Gray) gotowe do korekty; rozdział III kompletny. Rozdz. IV: poz. 14–15 (Carter) gotowe do korekty; poz. 16–19 (Warton, Collins, Cunningham, Beattie) gotowe do korekty; rozdział IV kompletny. Rozdz. V: poz. 20 (Pope), 21 (Thomson, fragmenty 145 w.), 22 (Grainger, 256 w.), 23 (J. Warton, 210 w.) i 24 (Beattie, 48 w.) gotowe do korekty; rozdział V kompletny. Rozdz. VI: poz. 25 (Dyer, 546 w.), 26 (Cunningham, 144 w.), 27 (Keate, 200 w.) i 28 (T. Warton, 92 w.) gotowe do korekty; rozdział VI kompletny. Rozdz. VII: poz. 29 (Hervey, proza, fragment „Krypta”, akap. 1–4 i 86–103) gotowa do korekty; build obsługuje prozę (`forma: proza` w karcie); poz. 30 (Bourne?, 16 w.) i 31 (Blamire, 84 w.) gotowe do korekty. Następny: poz. 32, Mason, „Elegy Written in a Church-yard in South Wales”. Oryginały poz. 14–43 w repo (surowe, z paczki Tomka; „~” = korekta słowo w słowo przy przekładzie). Liczby wersów 14–43 sprawdzone (zob. `zrodlo.md`). Ilustracje: zasady, lista miejsc i ocena jakości w `ilustracje/README.md` i `ilustracje/zrodla.md`; wgrane rozdz. I–III i nr 1–10 (za małe: nr 5, 6, 10).
 
 **Legenda:** ✓ zrobione · ~ częściowo / do weryfikacji · – nie zaczęte · K = czeka na korektę Tomka
 
@@ -45,7 +45,7 @@ Stan na: 2026-10-17. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 | 28 | T. Warton, Ode Written at Vale-Royal Abbey | ✓ 92 w. (1791, porówn. z OCR; warianty 1777) | ~ (–; Polona do spr.) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
 | 29 | Hervey, Meditations among the Tombs (fragm.) | ✓ proza, fragment akap. 1–4, 86–103 (1789, TCP; luki uzup.) | ~ (–; Polona do spr.) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
 | 30 | Bourne (?), On an Open Grave | ✓ 16 w. (1772, s. 326; łac. wersja s. 327) | ~ (–; Polona do spr.) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
-| 31 | Blamire, Written in a Churchyard… | ~ 84 w. (ECPA) | – | – | – | – | – | – | – |
+| 31 | Blamire, Written in a Churchyard… | ✓ 84 w. (1842, ECPA; porówn. wybranych w. z OCR) | ~ (–; Polona do spr.) | ✓ | ✓ | ✓ | ✓ | – (propozycja w karcie) | K |
 | 32 | Mason, Elegy … in South Wales | ~ 104 w. (1811) | – | – | – | – | – | – | – |
 | 33 | C. Smith, Sonnet XLIV | ~ 14 w. (ECPA) | – | – | – | – | – | – | – |
 | 34 | C. Smith, Sonnet … Young Woman of nineteen | ~ 14 w. (ECPA) | – | – | – | – | – | – | – |
@@ -86,6 +86,7 @@ Stan na: 2026-10-17. Faza 0 zakończona (poz. 6 zaakceptowana). Rozdział I (Pro
 - Poz. 28: skan 1789/1791 – interpunkcja i warianty 1777 (OCR); czy oda drukowana przed 1777; dolina Weaver (w. 1–4); polskie przekłady (Polona).
 - Poz. 29: porównać fragment z wydaniem londyńskim z czasów życia autora (np. 1753); adresatka listu; źródło cytatów wierszem w akap. 90 (anonim, Crum H0950) i 91; czy oznaczać pominięcie akap. 104–138; polskie przekłady (Polona).
 - Poz. 30: autorstwo (Mitford 1840, s. xxxv–xxxvii – sprawdzić na skanie); który tekst jest oryginałem, angielski czy łaciński (*In Effossum Sepulchrum*, s. 327); polskie przekłady (Polona).
+- Poz. 31: pełne porównanie ze skanem 1842 (ECPA modernizuje interpunkcję); czy wiersz drukowano przed 1842; wypas na cmentarzach – prawo proboszcza (w. 6); motto: interpunkcja Pascala; polskie przekłady (Polona).
 - Poz. 14–43: uwagi i decyzje do podjęcia w `zrodlo.md` każdego utworu. Najważniejsze: przypis o wątpliwym autorstwie Bourne'a (30); redakcja tekstu Cunninghama (18; 26 – wybrano 1766), Wartona (16, 40; 28 – wybrano 1791), Collinsa (17), Pope'a (20).
 - Wstęp ogólny: po przekładach uzupełnić odwołania do konkretnych utworów.
 

@@ -361,5 +361,8 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | my Lord / his Grace | Jaśnie Pan / Jego Książęca Mość | 29 | |
 | quarter arms | łączyć herby | 29 | heraldyka |
 | passenger (w napisie nagrobnym) | wędrowiec | 30 | formuła *Siste, viator*; przypis |
+| Elysium | Elizjum | 31 | przypis |
+| prostrate image (na nagrobku) | leżący obraz | 31 | rzeźbiona postać zmarłego; przypis |
+| conscious worth | cnota świadoma | 31 | świadomość własnej cnoty |
 ## Do decyzji
 - (brak)

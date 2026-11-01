@@ -1,0 +1,9 @@
+tytuł | Sonet pochodzi z powieści Smith „Celestina” (1791), t. II, rozdz. 4. Bohaterka, sierota Celestina, mieszka u obcej rodziny i czeka na list od ukochanego, Willoughby'ego, który wyjechał z Anglii. Wcześnie rano wychodzi na spacer, staje przy przełazie wiejskiego cmentarza i czyta napisy na nagrobkach. Jeden należy do dziewiętnastolatki, czyli dziewczyny w jej wieku. Celestina czuje do niej „zazdrość” i pisze ołówkiem w notesie ten sonet, „nie bez pewnego wspomnienia sonetów trzydziestego siódmego i czterdziestego czwartego Edwardsa”. Thomas Edwards (1699–1757), krytyk, autor ok. pięćdziesięciu sonetów na wzór Miltona, był jednym z pierwszych odnowicieli sonetu w XVIII wieku. Treść jego sonetów XXXVII i XLIV **[do weryfikacji]**. „Jakoby napisany” (*Supposed to have been written*): sonet przypisany postaci z powieści.
+1 | Wici leszczyny (*hazle-bands*): pręty, którymi obwiązywano świeże groby, żeby darń się trzymała i nie niszczyło jej bydło. Por. J. Gay, „The Shepherd's Week” (1714), „Piątek”: grób dziewczyny „ogrodziliśmy wiklinowymi prętami”, by chronić go przed ludźmi i bydłem proboszcza, które pasie się na cmentarzu (zob. nr 31).
+2 | Fiołki: kwiaty skromności i wczesnej śmierci, częste na grobach (por. nr 32, w. 34).
+3 | Mówi młoda kobieta (Celestina), stąd w przekładzie „chciałabym”.
+7–8 | Zmarła nie będzie musiała, jak Celestina, wyrzec się najdroższych nadziei w chwili, gdy miały się spełnić. W powieści z 1791 roku *hope* (l.poj.), w zbiorze sonetów *hopes*.
+9 | „Lekko darń leży”: echo łacińskiej formuły nagrobnej *sit tibi terra levis* („niech ci ziemia lekką będzie”).
+10 | *love and sorrow*: w wyd. amerykańskim z 1795 roku wielkimi literami, jako personifikacje (*Love and Sorrow*); w wyd. londyńskim z 1797 roku małymi. W przekładzie małymi.
+11 | Młodzian (*youth*): narzeczony zmarłej, wymyślony przez Celestinę. W przekładzie „pierwszy” zamiast „niegdyś” (*once*).
+13 | Pamięć (*Memory*): personifikacja (zob. glosariusz).

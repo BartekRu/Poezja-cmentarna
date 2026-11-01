@@ -1,0 +1,10 @@
+tytuł | Middleton: wieś nad kanałem La Manche w zachodnim Sussex, dziś Middleton-on-Sea koło Bognor. Przypis Smith do w. 7: „Middleton to wieś na brzegu morza w Sussex, licząca tylko dwa lub trzy domy. Dawniej między jej małym kościołem a morzem było kilka akrów ziemi; dziś morze, posuwając się nieustannie, podchodzi na kilka stóp do tej na pół zrujnowanej i skromnej budowli. Mur, który niegdyś otaczał cmentarz, został całkiem zmyty, wiele grobów rozbitych, a szczątki pochowanych porwało morze; dlatego na brzegu, w piasku i żwirze, znajdują się ludzkie kości” (przekł. roboczy). Kościół runął podczas wysokiego przypływu w 1838 roku, a do ok. 1849 roku zniknął zupełnie.
+1 | Luna, „niema sędzia pływów”: echo Miltona, „Raj utracony” I 784–785, gdzie księżyc nad głowami „zasiada jako sędzia” (*sits arbitress*). Księżyc wywołuje pływy; w angielskim jest rodzaju żeńskiego, stąd Luna (zob. glosariusz).
+2 | Równonoc: w okresie równonocy (marzec, wrzesień) przypływy są najwyższe, a w Anglii często towarzyszą im sztormy, tzw. burze równonocne.
+4 | „Wzniośle” (*sublimely*): wzniosłość w sensie estetyki XVIII wieku (E. Burke, 1757), czyli piękno grozy i ogromu.
+5 | Zachodnia pieczara: w mitologii wiatry mieszkały w jaskini Eola (Wergiliusz, „Eneida” I 52–63). Zachodni wiatr to w Sussex wiatr od Atlantyku.
+6 | W wydaniu amerykańskim (Worcester 1795) *The wild blasts* (l.mn.) przy orzeczeniu *Drives*; wydania londyńskie mają *blast*.
+8 | Szabat grobu: spoczynek zmarłych jako niekończący się dzień odpoczynku. Por. Hi 3,17–18 i Hbr 4,9.
+10 | Fala „częsta” (*frequent*): łacinizm, fala powtarzająca się, nieustanna.
+12 | *They* („one”) kursywą w wyd. 1795; zmarli w przeciwieństwie do „ja” z w. 13.
+13–14 | Burza życia: Smith pisała te sonety w latach długów męża, procesów spadkowych i separacji (zob. wstęp). W. Wordsworth w swoim egzemplarzu wyd. z 1789 roku zaproponował inny ostatni wers: *To envy their insensible unrest* (zazdrościć im ich nieczułego niepokoju) **[do weryfikacji: według Wikipedii]**.

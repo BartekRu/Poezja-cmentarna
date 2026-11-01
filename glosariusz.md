@@ -258,6 +258,8 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | flint stones (u głów i stóp grobu) | krzemienie | 32 | |
 | rosemary and rue | rozmaryn i ruta | 32 | rośliny pamięci i żalu; przypis |
 | church-way path | kościelna droga | 32 | jak w Elegii Graya (13, w. 114) |
+| hazle-bands (na grobie) | wici leszczyny | 34 | pręty obwiązujące świeży grób; przypis |
+| Light lies the turf | Lekko darń leży | 34 | *sit tibi terra levis*; przypis |
 
 ## Inne
 | EN | PL | Od | Uwagi |
@@ -381,6 +383,10 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | inmate (serca) | gość | 32 | |
 | Dorian (song) | dorycki | 32 | „sielski”, przypis; por. 22 |
 | Tadmor's king | król Tadmoru | 32 | tu odmienione (w nr 22 nazwa nieodmieniona) |
+| arbitress (o księżycu) | sędzia | 33 | za Miltonem (*sits arbitress*); Moon → Luna (18) |
+| equinox | równonoc | 33 | burze równonocne |
+| sabbath of the grave | szabat grobu / grobowego spokoju | 33 | |
+| youth (narzeczony) | młodzian | 34 | |
 
 ## Do decyzji
 - (brak)

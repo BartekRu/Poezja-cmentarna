@@ -211,6 +211,14 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Learning | Uczoność | 28 | odróżnione od *Instruction* = Nauka (27) i *Science* = Wiedza (12) |
 | Superstition (*sorceress*) | Zabobon | 28 | u Wartona rodzaj żeński, w przekładzie męski jak w nr 8 |
 | luminous Obscurity / Silence / religious Dread | świetlista Ciemność / Cisza / nabożna Trwoga | 29 | wielkie litery jak w oryginale (Hervey) |
+| Commerce | Handel | 32 | |
+| Tenderness | Tkliwość | 32 | |
+| Education / Affection | Wychowanie / Uczucie | 32 | |
+| Patience / Presumption | Cierpliwość / Buta | 32 | *Pride* = Pycha (13) |
+| Revelation | Objawienie | 32 | |
+| Wit | Dowcip | 32 | kpiący, chłodny umysł |
+| Death and Silence | Śmierć i Cisza | 32 | *Silence* bez *Quiet* obok → Cisza, jak u Younga (8) |
+
 ## Słownictwo cmentarne i żałobne
 | EN | PL | Od | Uwagi |
 |---|---|---|---|
@@ -247,6 +255,10 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | winding sheet | całun | 29 | jak *shroud* (6) |
 | hatchment / escutcheon | herb żałobny / tarcza herbowa | 29 | przypis |
 | passing bell | dzwon konających | 29 | |
+| flint stones (u głów i stóp grobu) | krzemienie | 32 | |
+| rosemary and rue | rozmaryn i ruta | 32 | rośliny pamięci i żalu; przypis |
+| church-way path | kościelna droga | 32 | jak w Elegii Graya (13, w. 114) |
+
 ## Inne
 | EN | PL | Od | Uwagi |
 |---|---|---|---|
@@ -364,5 +376,11 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Elysium | Elizjum | 31 | przypis |
 | prostrate image (na nagrobku) | leżący obraz | 31 | rzeźbiona postać zmarłego; przypis |
 | conscious worth | cnota świadoma | 31 | świadomość własnej cnoty |
+| croslet | krzyżyk | 32 | |
+| dibble | sadzak | 32 | |
+| inmate (serca) | gość | 32 | |
+| Dorian (song) | dorycki | 32 | „sielski”, przypis; por. 22 |
+| Tadmor's king | król Tadmoru | 32 | tu odmienione (w nr 22 nazwa nieodmieniona) |
+
 ## Do decyzji
 - (brak)

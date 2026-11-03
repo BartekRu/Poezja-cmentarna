@@ -260,6 +260,8 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | church-way path | kościelna droga | 32 | jak w Elegii Graya (13, w. 114) |
 | hazle-bands (na grobie) | wici leszczyny | 34 | pręty obwiązujące świeży grób; przypis |
 | Light lies the turf | Lekko darń leży | 34 | *sit tibi terra levis*; przypis |
+| grimly ghost | srogi duch | 35 | archaizm balladowy |
+| midnight-grave | grób (z którego duch wychodzi o północy) | 35 | |
 
 ## Inne
 | EN | PL | Od | Uwagi |
@@ -387,6 +389,11 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | equinox | równonoc | 33 | burze równonocne |
 | sabbath of the grave | szabat grobu / grobowego spokoju | 33 | |
 | youth (narzeczony) | młodzian | 34 | |
+| William / Margaret | WILHELM / MAŁGORZATA | 35 | wersaliki jak w źródle |
+| canker-worm | robak w pąku | 35 | |
+| troth | wiara (dane słowo) | 35 | |
+| (faithless) swain, false man | zdrajca | 35 | tu „niewierny kochanek”; zwykle *swain* = wieśniak/pasterz |
+| adieu | z Bogiem / żegnaj | 35 | |
 
 ## Do decyzji
 - (brak)

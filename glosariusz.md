@@ -264,6 +264,8 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | midnight-grave | grób (z którego duch wychodzi o północy) | 35 | |
 | church-yard path | ścieżka obok cmentarza / droga wśród grobów | 36 | inaczej niż *church-way path* (13, 32) |
 | death-bell | podzwonne | 36 | por. *knell* (13), *passing bell* (29) |
+| raven (przy oknie umierającej) | kruk | 37 | zła wróżba |
+| true-love knots | węzły miłości | 37 | wstążki na grobie; przypis |
 
 ## Inne
 | EN | PL | Od | Uwagi |
@@ -399,6 +401,10 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Edwin / Emma | Edwin / Emma | 36 | |
 | Stanemore | Stanemore (dziś Stainmore) | 36 | w metrum 2 sylaby |
 | lilly (o dziewczynie) | lilia doliny | 36 | por. Pnp 2,1 |
+| Colin / Lucy | COLIN / ŁUCJA | 37 | wersaliki jak w źródle |
+| Leinster, Liffy | Leinster, Liffey | 37 | w metrum po 2 sylaby |
+| hind | parobek | 37 | |
+| bride-men | drużbowie | 37 | |
 
 ## Do decyzji
 - (brak)

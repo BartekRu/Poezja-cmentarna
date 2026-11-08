@@ -262,6 +262,8 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | Light lies the turf | Lekko darń leży | 34 | *sit tibi terra levis*; przypis |
 | grimly ghost | srogi duch | 35 | archaizm balladowy |
 | midnight-grave | grób (z którego duch wychodzi o północy) | 35 | |
+| church-yard path | ścieżka obok cmentarza / droga wśród grobów | 36 | inaczej niż *church-way path* (13, 32) |
+| death-bell | podzwonne | 36 | por. *knell* (13), *passing bell* (29) |
 
 ## Inne
 | EN | PL | Od | Uwagi |
@@ -394,6 +396,9 @@ Stosować w całym tomie. Nowe pozycje dopisywać przy każdym utworze. Kolumna 
 | troth | wiara (dane słowo) | 35 | |
 | (faithless) swain, false man | zdrajca | 35 | tu „niewierny kochanek”; zwykle *swain* = wieśniak/pasterz |
 | adieu | z Bogiem / żegnaj | 35 | |
+| Edwin / Emma | Edwin / Emma | 36 | |
+| Stanemore | Stanemore (dziś Stainmore) | 36 | w metrum 2 sylaby |
+| lilly (o dziewczynie) | lilia doliny | 36 | por. Pnp 2,1 |
 
 ## Do decyzji
 - (brak)
